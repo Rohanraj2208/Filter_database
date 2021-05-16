@@ -1,0 +1,3001 @@
+﻿player_id, name, country, position, overall, age, hits, potential, team
+158023,Lionel Messi,Argentina,ST|CF|RW,94,33,299,94,FC Barcelona
+20801,Cristiano Ronaldo,Portugal,ST|LW,93,35,276,93,Juventus
+190871,Neymar Jr,Brazil,CAM|LW,92,28,186,92,Paris Saint-Germain
+203376,Virgil van Dijk,Netherlands,CB,91,29,127,92,Liverpool
+200389,Jan Oblak,Slovenia,GK,91,27,47,93,Atlético Madrid
+192985,Kevin De Bruyne,Belgium,CM|CAM,91,29,119,91,Manchester City
+188545,Robert Lewandowski,Poland,ST,91,31,89,91,FC Bayern München
+183277,Eden Hazard,Belgium,ST|LW,91,29,66,91,Real Madrid
+212831,Alisson,Brazil,GK,90,27,53,91,Liverpool
+209331,Mohamed Salah,Egypt,ST|RW,90,28,94,90,Liverpool
+208722,Sadio Mané,Senegal,LW,90,28,76,90,Liverpool
+192448,Marc-André ter Stegen,Germany,GK,90,28,68,93,FC Barcelona
+153079,Sergio Agüero,Argentina,ST,90,32,50,90,Manchester City
+231747,Kylian Mbappé,France,ST|RW|LW,89,21,222,95,Paris Saint-Germain
+215914,N'Golo Kanté,France,CDM|CM,89,29,75,89,Chelsea
+202126,Harry Kane,England,ST,89,27,64,91,Tottenham Hotspur
+194765,Antoine Griezmann,France,ST|CF|LW,89,29,66,89,FC Barcelona
+182521,Toni Kroos,Germany,CM,89,30,37,89,Real Madrid
+177003,Luka Modric,Croatia,CM,89,34,31,89,Real Madrid
+176580,Luis Suárez,Uruguay,ST,89,33,54,89,FC Barcelona
+167495,Manuel Neuer,Germany,GK,89,34,42,89,FC Bayern München
+155862,Sergio Ramos,Spain,CB,89,34,55,89,Real Madrid
+210257,Ederson,Brazil,GK,88,26,40,91,Manchester City
+202652,Raheem Sterling,England,RW|LW,88,25,61,90,Manchester City
+201942,Roberto Firmino,Brazil,CF,88,28,79,88,Liverpool
+201024,Kalidou Koulibaly,Senegal,CB,88,29,78,90,Napoli
+200145,Casemiro,Brazil,CDM,88,28,37,89,Real Madrid
+193080,De Gea,Spain,GK,88,29,39,88,Manchester United
+192119,Thibaut Courtois,Belgium,GK,88,28,34,89,Real Madrid
+189511,Sergio Busquets,Spain,CDM,88,32,34,88,FC Barcelona
+188567,Pierre-Emerick Aubameyang,Gabon,ST|LM,88,31,114,88,Arsenal
+165153,Karim Benzema,France,ST|CF,88,32,51,88,Real Madrid
+162835,Samir Handanovic,Slovenia,GK,88,36,13,88,Inter
+152729,Piqué,Spain,CB,88,33,41,88,FC Barcelona
+138956,Giorgio Chiellini,Italy,CB,88,35,19,88,Juventus
+218667,Bernardo Silva,Portugal,CM|CAM|RW,87,25,53,90,Manchester City
+212622,Joshua Kimmich,Germany,RB|CDM|CM,87,25,82,90,FC Bayern München
+212218,Aymeric Laporte,France,CB,87,26,38,90,Manchester City
+211110,Paulo Dybala,Argentina,CAM|CF,87,26,95,90,Juventus
+200104,Heung Min Son,Korea Republic,LM|CF,87,28,75,87,Tottenham Hotspur
+199556,Marco Verratti,Italy,CDM|CM,87,27,45,88,Paris Saint-Germain
+195864,Paul Pogba,France,CDM|CM,87,27,70,88,Manchester United
+193041,Keylor Navas,Costa Rica,GK,87,33,28,87,Paris Saint-Germain
+192387,Ciro Immobile,Italy,ST,87,30,130,87,Lazio
+190460,Christian Eriksen,Denmark,RM|CM|CAM,87,28,48,87,Inter
+189513,Parejo,Spain,CM,87,31,14,87,Valencia CF
+188350,Marco Reus,Germany,CAM|CF,87,31,42,87,Borussia Dortmund
+186153,Wojciech Szczesny,Poland,GK,87,30,17,88,Juventus
+183898,Ángel Di María,Argentina,RW|LW,87,32,41,87,Paris Saint-Germain
+182493,Diego Godín,Uruguay,CB,87,34,16,87,Inter
+178603,Mats Hummels,Germany,CB,87,31,18,87,Borussia Dortmund
+175943,Dries Mertens,Belgium,ST|CF,87,33,34,87,Napoli
+168542,David Silva,Spain,CM|CAM,87,34,28,87,Manchester City
+167948,Hugo Lloris,France,GK,87,33,19,87,Tottenham Hotspur
+164240,Thiago Silva,Brazil,CB,87,35,28,87,Paris Saint-Germain
+233049,Jadon Sancho,England,RM|LM|CAM,86,20,300,94,Borussia Dortmund
+232363,Milan Škriniar,Slovakia,CB,86,25,62,90,Inter
+228702,Frenkie de Jong,Netherlands,CM,86,23,126,92,FC Barcelona
+222492,Leroy Sané,Germany,LW,86,24,74,90,Manchester City
+220440,Clément Lenglet,France,CB,86,25,58,90,FC Barcelona
+216267,Andrew Robertson,Scotland,LB,86,26,66,89,Liverpool
+212198,Bruno Fernandes,Portugal,CM|CAM,86,25,127,89,Manchester United
+212188,Timo Werner,Germany,ST,86,24,136,89,RB Leipzig
+209499,Fabinho,Brazil,CDM,86,26,44,88,Liverpool
+208830,Jamie Vardy,England,ST,86,33,43,86,Leicester City
+208670,Hakim Ziyech,Morocco,CAM|RW,86,27,113,87,Ajax
+207865,Marquinhos,Brazil,CB|CDM,86,26,48,90,Paris Saint-Germain
+204485,Riyad Mahrez,Algeria,RM|RW,86,29,40,86,Manchester City
+201535,Raphaël Varane,France,CB,86,27,39,89,Real Madrid
+201399,Mauro Icardi,Argentina,ST,86,27,47,87,Paris Saint-Germain
+198219,Lorenzo Insigne,Italy,LM|CF|LW,86,29,42,86,Napoli
+193747,Koke,Spain,RM|LM|CM,86,28,15,86,Atlético Madrid
+192505,Romelu Lukaku,Belgium,ST,86,27,63,87,Inter
+189509,Thiago,Spain,CDM|CM,86,29,47,86,FC Bayern München
+189332,Jordi Alba,Spain,LB,86,31,35,86,FC Barcelona
+184344,Leonardo Bonucci,Italy,CB,86,33,17,86,Juventus
+184087,Toby Alderweireld,Belgium,CB,86,31,16,86,Tottenham Hotspur
+180206,Miralem Pjanic,Bosnia & Herzegovina,CDM|CM,86,30,31,86,Juventus
+179813,Edinson Cavani,Uruguay,ST,86,33,26,86,Paris Saint-Germain
+177683,Yann Sommer,Switzerland,GK,86,31,5,86,Borussia Mönchengladbach
+143076,Alejandro Gómez,Argentina,ST|CAM|CF,86,32,49,86,Atalanta
+235243,Matthijs de Ligt,Netherlands,CB,85,20,110,92,Juventus
+231866,Rodri,Spain,CDM|CM,85,24,36,89,Manchester City
+231281,Trent Alexander-Arnold,England,RB,85,21,135,90,Liverpool
+230658,Arthur,Brazil,CM,85,23,64,90,FC Barcelona
+230621,Gianluigi Donnarumma,Italy,GK,85,21,62,92,Milan
+226753,André Onana,Cameroon,GK,85,24,55,89,Ajax
+223848,Sergej Milinkovic-Savic,Serbia,CDM|CM|CAM,85,25,55,90,Lazio
+216594,Nabil Fekir,France,ST|RM|CAM,85,27,34,87,Real Betis
+216460,José María Giménez,Uruguay,CB,85,25,34,89,Atlético Madrid
+212190,Niklas Süle,Germany,CB,85,24,42,90,FC Bayern München
+208421,Saúl,Spain,LB|LM|CM,85,25,39,89,Atlético Madrid
+206113,Serge Gnabry,Germany,RM|LM|RW,85,25,79,87,FC Bayern München
+205600,Samuel Umtiti,France,CB,85,26,42,88,FC Barcelona
+204963,Carvajal,Spain,RB,85,28,24,85,Real Madrid
+198706,Luis Alberto,Spain,CM|CAM|CF,85,27,27,86,Lazio
+198176,Stefan de Vrij,Netherlands,CB,85,28,19,86,Inter
+197965,Pizzi,Portugal,RM|CM,85,30,14,85,SL Benfica
+197781,Isco,Spain,CM|CAM|LW,85,28,25,85,Real Madrid
+192629,Iago Aspas,Spain,ST|RW,85,32,10,85,RC Celta
+192563,Bernd Leno,Germany,GK,85,28,30,87,Arsenal
+189596,Thomas Müller,Germany,RM|CAM|RW,85,30,23,85,FC Bayern München
+189242,Coutinho,Brazil,CM|CAM|LW,85,28,49,85,FC Bayern München
+189117,Roman Bürki,Switzerland,GK,85,29,10,86,Borussia Dortmund
+187961,Paulinho,Brazil,CDM|CM|CAM,85,32,22,85,Guangzhou Evergrande Taobao FC
+185122,Péter Gulácsi,Hungary,GK,85,30,14,86,RB Leipzig
+183711,Jordan Henderson,England,CDM|CM,85,30,41,85,Liverpool
+181291,Georginio Wijnaldum,Netherlands,CDM|CM,85,29,40,85,Liverpool
+177413,Axel Witsel,Belgium,CDM|CM,85,31,26,85,Borussia Dortmund
+173731,Gareth Bale,Wales,ST|RW|LW,85,31,69,85,Real Madrid
+172871,Jan Vertonghen,Belgium,LB|CB,85,33,26,85,Tottenham Hotspur
+168651,Ivan Rakitic,Croatia,CM,85,32,38,85,FC Barcelona
+167664,Gonzalo Higuaín,Argentina,ST,85,32,24,85,Juventus
+135507,Fernandinho,Brazil,CB|CDM,85,35,14,85,Manchester City
+41236,Zlatan Ibrahimovic,Sweden,ST,85,38,189,85,Milan
+235790,Kai Havertz,Germany,RM|CAM,84,21,176,93,Bayer 04 Leverkusen
+231677,Marcus Rashford,England,ST|LM,84,22,104,89,Manchester United
+231478,Lautaro Martínez,Argentina,ST,84,22,138,91,Inter
+226790,Wilfred Ndidi,Nigeria,CDM|CM,84,23,36,88,Leicester City
+220814,Lucas Hernández,France,LB|CB,84,24,47,89,FC Bayern München
+213345,Kingsley Coman,France,RM|LM|LW,84,24,65,88,FC Bayern München
+212462,Alex Telles,Brazil,LB,84,27,42,85,FC Porto
+212194,Julian Brandt,Germany,LM|CM|CAM,84,24,51,88,Borussia Dortmund
+210243,Ricardo Pereira,Portugal,RB,84,26,28,86,Leicester City
+209989,Thomas Partey,Ghana,CDM|CM,84,27,42,87,Atlético Madrid
+209658,Leon Goretzka,Germany,CDM|CM|CAM,84,25,58,88,FC Bayern München
+207863,Felipe,Brazil,CB,84,31,19,84,Atlético Madrid
+207410,Mateo Kovacic,Croatia,CM,84,26,43,87,Chelsea
+205498,Jorginho,Italy,CDM|CM,84,28,29,84,Chelsea
+202556,Memphis Depay,Netherlands,CAM|CF|LW,84,26,75,87,Olympique Lyonnais
+200647,Josip Ilicic,Slovenia,ST|CF,84,32,41,84,Atalanta
+199914,Allan,Brazil,CM,84,29,13,84,Napoli
+199845,Francesco Acerbi,Italy,CB,84,32,15,84,Lazio
+199482,Anthony Lopes,Portugal,GK,84,29,5,86,Olympique Lyonnais
+199451,Wissam Ben Yedder,France,ST,84,29,31,84,AS Monaco Football Club SA
+198710,James Rodríguez,Colombia,RM|CM|CAM,84,29,41,84,Real Madrid
+194404,Neto,Brazil,GK,84,31,7,85,FC Barcelona
+193474,Idrissa Gueye,Senegal,CDM|CM,84,30,30,84,Paris Saint-Germain
+193301,Alexandre Lacazette,France,ST,84,29,43,84,Arsenal
+192774,Kostas Manolas,Greece,CB,84,29,11,85,Napoli
+191043,Alex Sandro,Brazil,LB|LM,84,29,18,84,Juventus
+190483,Douglas Costa,Brazil,LM|RW|LW,84,29,24,84,Juventus
+190286,Canales,Spain,LM|CM|CAM,84,29,18,84,Real Betis
+188152,Oscar,Brazil,CM|CAM|LW,84,28,25,84,Shanghai SIPG FC
+186942,Ilkay Gündogan,Germany,CDM|CM,84,29,18,84,Manchester City
+185020,José Callejón,Spain,RM|RW,84,33,13,84,Napoli
+184432,Azpilicueta,Spain,RB|LB|CB,84,30,25,84,Chelsea
+181872,Arturo Vidal,Chile,CDM|CM|CAM,84,33,53,84,FC Barcelona
+180930,Edin Dzeko,Bosnia & Herzegovina,ST,84,34,13,84,Roma
+178562,Éver Banega,Argentina,CDM|CM,84,32,9,84,Sevilla FC
+178518,Radja Nainggolan,Belgium,CM|CAM|CF,84,32,19,84,Cagliari
+176676,Marcelo,Brazil,LB,84,32,22,84,Real Madrid
+176266,Lucas Leiva,Brazil,CDM,84,33,10,84,Lazio
+170890,Blaise Matuidi,France,CDM|CM,84,33,20,84,Juventus
+168435,Salvatore Sirigu,Italy,GK,84,33,6,84,Torino
+162347,João Moutinho,Portugal,CM,84,33,12,84,Wolverhampton Wanderers
+231443,Ousmane Dembélé,France,RW|LW,83,23,82,90,FC Barcelona
+230481,Ronaldo Cabrais,Brazil,CAM|RW,83,28,22,83,Grêmio
+230375,Josué Chiamulera,Brazil,CB,83,28,12,83,Grêmio
+230294,Louri Beretta,Brazil,ST|CF,83,28,15,83,Atlético Mineiro
+230142,Oyarzabal,Spain,RW|LW,83,23,22,89,Real Sociedad
+226271,Fabián,Spain,CM,83,24,32,89,Napoli
+221363,Donny van de Beek,Netherlands,CM|CAM,83,23,72,87,Ajax
+221087,Pau López,Spain,GK,83,25,12,88,Roma
+217940,Dakonam Djené,Togo,CB,83,28,6,84,Getafe CF
+216547,Rafa,Portugal,RM|LM,83,27,10,84,SL Benfica
+216354,Andrej Kramaric,Croatia,ST|CAM,83,29,10,83,TSG 1899 Hoffenheim
+216352,Marcelo Brozovic,Croatia,CDM|CM,83,27,18,85,Inter
+215333,Duván Zapata,Colombia,ST,83,29,45,83,Atalanta
+212523,Anderson Talisca,Brazil,CAM|RW,83,26,21,86,Guangzhou Evergrande Taobao FC
+212151,Thomas Strakosha,lbania,GK,83,25,16,88,Lazio
+211300,Anthony Martial,France,ST,83,24,72,87,Manchester United
+211256,Nicolás Tagliafico,Argentina,LB,83,27,28,84,Ajax
+211117,Dele Alli,England,CM|CAM,83,24,52,88,Tottenham Hotspur
+210413,Alessio Romagnoli,Italy,CB,83,25,49,89,Milan
+210035,Grimaldo,Spain,LB,83,24,34,87,SL Benfica
+209889,Raphaël Guerreiro,Portugal,LB|LM|CM,83,26,27,84,Borussia Dortmund
+208808,Quincy Promes,Netherlands,CAM|LW,83,28,22,83,Ajax
+208574,Filip Kostic,Serbia,LWB|LM|LW,83,27,16,83,Eintracht Frankfurt
+208418,Yannick Carrasco,Belgium,LM,83,26,25,84,Atlético Madrid
+206585,Kepa,Spain,GK,83,25,60,87,Chelsea
+205678,Edin Višca,Bosnia & Herzegovina,RM,83,30,8,83,Medipol Basaksehir FK
+205175,Arkadiusz Milik,Poland,ST,83,26,25,86,Napoli
+205070,Portu,Spain,RM|CF|RW,83,28,6,83,Real Sociedad
+204970,Florian Thauvin,France,RM|RW,83,27,16,83,Olympique de Marseille
+204923,Marcel Sabitzer,Austria,CM|CAM,83,26,20,85,RB Leipzig
+204838,Raúl Jiménez,Mexico,ST,83,29,63,83,Wolverhampton Wanderers
+204639,Stefan Savic,Montenegro,CB,83,29,12,84,Atlético Madrid
+203486,Thorgan Hazard,Belgium,RM|LM|CF,83,27,28,83,Borussia Dortmund
+203263,Harry Maguire,England,CB,83,27,48,86,Manchester United
+201305,Gabriel Paulista,Brazil,CB,83,29,14,84,Valencia CF
+201153,Morata,Spain,ST,83,27,10,84,Atlético Madrid
+200458,Lucas Digne,France,LB,83,27,18,86,Everton
+199434,Dušan Tadic,Serbia,CAM|CF|LW,83,31,12,83,Ajax
+199042,Charles Aránguiz,Chile,CDM|CM,83,31,15,83,Bayer 04 Leverkusen
+198950,Pablo Sarabia,Spain,CAM|RW,83,28,33,84,Paris Saint-Germain
+198717,Wilfried Zaha,Ivory Coast,LM|CF,83,27,54,83,Crystal Palace
+198329,Rodrigo,Spain,ST,83,29,17,83,Valencia CF
+198141,Bartra,Spain,CB|CDM,83,29,18,84,Real Betis
+197445,David Alaba,Austria,LB|CB,83,28,46,84,FC Bayern München
+197061,Joel Matip,Cameroon,CB,83,28,14,84,Liverpool
+193082,Juan Cuadrado,Colombia,RB|RM|RW,83,32,21,83,Juventus
+192984,Koen Casteels,Belgium,GK,83,28,3,85,VfL Wolfsburg
+190941,Lukáš Hrádecky,Finland,GK,83,30,8,83,Bayer 04 Leverkusen
+190815,Daley Blind,Netherlands,LB|CB|CDM,83,30,20,83,Ajax
+189575,Muniain,Spain,CAM|RW|LW,83,27,9,83,Athletic Club
+188943,Kevin Trapp,Germany,GK,83,30,11,83,Eintracht Frankfurt
+188377,Kyle Walker,England,RB,83,30,29,83,Manchester City
+186561,Aaron Ramsey,Wales,CM|CAM,83,29,14,83,Juventus
+184200,Marko Arnautovic,Austria,ST,83,31,9,83,Shanghai SIPG FC
+183574,Max Kruse,Germany,ST|CAM,83,32,5,83,Fenerbahçe SK
+181458,Ivan Perišic,Croatia,LM|LW,83,31,13,83,FC Bayern München
+179846,Sami Khedira,Germany,CDM|CM,83,33,19,83,Juventus
+178005,Rui Patrício,Portugal,GK,83,32,19,83,Wolverhampton Wanderers
+176635,Mesut Özil,Germany,CAM|RW,83,31,44,83,Arsenal
+171877,Marek Hamšík,Slovakia,CDM|CM|CAM,83,33,12,83,Dalian YiFang FC
+170481,Ezequiel Garay,Argentina,CB,83,33,5,83,Valencia CF
+169416,Carlos Vela,Mexico,CAM|RW|LW,83,31,20,83,LAFC
+163705,Steve Mandanda,France,GK,83,35,4,83,Olympique de Marseille
+163587,Kasper Schmeichel,Denmark,GK,83,33,41,83,Leicester City
+157481,Raúl Albiol,Spain,CB,83,34,7,83,Villarreal CF
+146562,Santi Cazorla,Spain,CDM|LM|CM,83,35,22,83,Villarreal CF
+1179,Gianluigi Buffon,Italy,GK,83,42,50,83,Juventus
+245313,José María Sildero,Uruguay,RM|CAM,82,28,17,82,Free Agents
+245309,Egidio Maestre Schetino,Uruguay,CB,82,28,12,82,Free Agents
+239818,Rúben Dias,Portugal,CB,82,23,35,88,SL Benfica
+239053,Federico Valverde,Uruguay,CDM|CM,82,22,87,90,Real Madrid
+236583,Jirí Pavlenka,Czech Republic,GK,82,28,3,83,SV Werder Bremen
+235212,Achraf Hakimi,Morocco,RB|LB|RM,82,21,91,87,Borussia Dortmund
+232432,Luka Jovic,Serbia,ST,82,22,46,88,Real Madrid
+230666,Gabriel Jesus,Brazil,ST,82,23,48,88,Manchester City
+230430,Oswaldinato,Brazil,ST,82,28,20,82,Flamengo
+230384,Nuno Padrenda,Brazil,ST|CAM|CF,82,24,6,84,Palmeiras
+230258,Rosberto Dourado,Brazil,CDM|CM|CAM,82,20,13,82,Atlético Mineiro
+230225,Juiano Mestres,Brazil,CB|CDM,82,24,6,82,Cruzeiro
+230168,Raphaelito Anjos,Brazil,GK,82,32,3,82,Grêmio
+229880,Aaron Wan-Bissaka,England,RWB|RB|RW,82,22,94,89,Manchester United
+229261,Denis Zakaria,Switzerland,CB|CDM|CM,82,23,29,86,Borussia Mönchengladbach
+227928,Nélson Semedo,Portugal,RB,82,26,51,85,FC Barcelona
+226226,Giovani Lo Celso,Argentina,CM|CAM,82,24,31,87,Tottenham Hotspur
+226110,Nicolas Pépé,Ivory Coast,RM|RW,82,25,79,87,Arsenal
+225953,Steven Bergwijn,Netherlands,CAM|RW|LW,82,22,44,87,Tottenham Hotspur
+225850,Presnel Kimpembe,France,CB,82,24,46,86,Paris Saint-Germain
+225100,Joe Gomez,England,RB|CB,82,23,66,89,Liverpool
+224411,Gonçalo Guedes,Portugal,ST|LM,82,23,25,88,Valencia CF
+224334,Marcos Acuña,Argentina,LB|LW,82,28,12,82,Sporting CP
+224293,Rúben Neves,Portugal,CM,82,23,32,87,Wolverhampton Wanderers
+223952,David Soria,Spain,GK,82,27,5,84,Getafe CF
+222665,Martin Ødegaard,Norway,RM|CM|CAM,82,21,68,88,Real Sociedad
+220971,Naby Keïta,Guinea,CDM|CM,82,25,20,86,Liverpool
+220834,Marco Asensio,Spain,RW|LW,82,24,47,86,Real Madrid
+220793,Davinson Sánchez,Colombia,CB,82,24,23,85,Tottenham Hotspur
+220697,James Maddison,England,CM|CAM|LW,82,23,64,87,Leicester City
+220407,Martin Dúbravka,Slovakia,GK,82,31,3,82,Newcastle United
+219683,Corentin Tolisso,France,CDM|CM,82,25,38,85,FC Bayern München
+216409,Matteo Politano,Italy,ST|RM|RW,82,26,23,83,Napoli
+216201,Iñaki Williams,Spain,ST|RW,82,26,45,85,Athletic Club
+215698,Mike Maignan,France,GK,82,25,18,86,LOSC Lille
+214997,Ángel Correa,Argentina,ST|RM,82,25,34,85,Atlético Madrid
+213565,Thomas Lemar,France,RM|LM|CAM,82,24,31,86,Atlético Madrid
+211591,Moussa Dembélé,France,ST,82,24,23,86,Olympique Lyonnais
+210514,João Cancelo,Portugal,RB,82,26,43,86,Manchester City
+210008,Adrien Rabiot,France,CDM|CM,82,25,32,85,Juventus
+209960,Pacheco,Spain,GK,82,28,3,84,D. Alavés
+208596,Andrea Belotti,Italy,ST,82,26,28,85,Torino
+208333,Emre Can,Germany,CDM|CM,82,26,24,85,Borussia Dortmund
+208093,Gerard Moreno,Spain,ST|RM,82,28,14,82,Villarreal CF
+207877,Josef Martínez,Venezuela,ST,82,27,27,84,Atlanta United
+207862,Matthias Ginter,Germany,CB,82,26,25,83,Borussia Mönchengladbach
+207566,William Carvalho,Portugal,CDM|CM,82,28,13,82,Real Betis
+205693,Sébastien Haller,France,ST,82,26,16,84,West Ham United
+205452,Antonio Rüdiger,Germany,CB,82,27,24,84,Chelsea
+202857,Karim Bellarabi,Germany,RM,82,30,5,82,Bayer 04 Leverkusen
+202166,Julian Draxler,Germany,CM|CAM|LW,82,26,31,83,Paris Saint-Germain
+201995,Felipe Anderson,Brazil,LM|CAM,82,27,14,82,West Ham United
+200949,Lucas Moura,Brazil,RM|CF,82,27,25,82,Tottenham Hotspur
+200888,Danilo Pereira,Portugal,CDM|CM,82,28,9,82,FC Porto
+200724,Nacho Fernández,Spain,RB|LB|CB,82,30,13,82,Real Madrid
+200610,Kevin Volland,Germany,ST|RW|LW,82,27,8,83,Bayer 04 Leverkusen
+200454,Paco Alcácer,Spain,ST,82,26,16,84,Villarreal CF
+199987,Jasper Cillessen,Netherlands,GK,82,31,15,82,Valencia CF
+199564,Sergi Roberto,Spain,RB|CM,82,28,28,82,FC Barcelona
+198951,Cédric Bakambu,DR Congo,ST,82,29,8,82,Beijing Sinobo Guoan FC
+198009,Mattia Perin,Italy,GK,82,27,12,84,Genoa
+195093,Willian José,Brazil,ST,82,28,5,82,Real Sociedad
+193698,Oliver Baumann,Germany,GK,82,30,1,83,TSG 1899 Hoffenheim
+193525,Mário Fernandes,Russia,RWB|RM|RW,82,29,16,82,PFC CSKA Moscow
+193283,Thomas Delaney,Denmark,CDM|CM,82,28,13,83,Borussia Dortmund
+193165,Jesús Corona,Mexico,RB|RM,82,27,21,83,FC Porto
+193105,Alphonse Areola,France,GK,82,27,18,86,Real Madrid
+190584,Illarramendi,Spain,CDM|CM,82,30,4,82,Real Sociedad
+188803,Taison,Brazil,LM|CAM,82,32,11,82,Shakhtar Donetsk
+185103,Aleksandar Kolarov,Serbia,LB,82,34,14,82,Roma
+184134,Fernando,Brazil,CDM|CM,82,33,9,82,Sevilla FC
+182494,Fernando Muslera,Uruguay,GK,82,34,6,82,Galatasaray SK
+180403,Willian,Brazil,RM|RW|LW,82,31,53,82,Chelsea
+179844,Diego Costa,Spain,ST,82,31,20,82,Atlético Madrid
+178750,Sergio Asenjo,Spain,GK,82,31,2,83,Villarreal CF
+177610,Javi Martínez,Spain,CB|CDM,82,31,18,82,FC Bayern München
+177388,Dimitri Payet,France,CAM|LW,82,33,13,82,Olympique de Marseille
+173521,Marcano,Spain,CB,82,33,2,82,FC Porto
+169195,Renato Augusto,Brazil,LM|CM|CAM,82,32,9,82,Beijing Sinobo Guoan FC
+168609,Miranda,Brazil,CB,82,35,4,82,Jiangsu Suning FC
+167628,Stéphane Ruffier,France,GK,82,33,1,82,AS Saint-Étienne
+167397,Falcao,Colombia,ST,82,34,29,82,Galatasaray SK
+156616,Franck Ribéry,France,LM|CF|LW,82,37,31,82,Fiorentina
+156519,Héctor Herrera,Mexico,CM,82,30,11,82,Atlético Madrid
+146536,Jesús Navas,Spain,RB|RM,82,34,13,82,Sevilla FC
+139720,Vincent Kompany,Belgium,CB,82,34,12,82,RSC Anderlecht
+120533,Pepe,Portugal,CB,82,37,14,82,FC Porto
+41,Iniesta,Spain,LM|CM|CAM,82,36,57,82,Vissel Kobe
+251700,Segundo Mandíquez,Ecuador,ST,81,31,3,81,Free Agents
+245305,Luis Roberto Dálves,Uruguay,ST|CF,81,28,3,81,Free Agents
+245304,Saúl Marcelo Ardero,Uruguay,LM|CAM|LW,81,32,0,81,Free Agents
+245299,Jaime Nicolás Frendado,Uruguay,CB|CDM,81,36,0,81,Free Agents
+242348,Loren,Spain,ST,81,26,3,84,Real Betis
+240130,Éder Militão,Brazil,RB|CB,81,22,48,88,Real Madrid
+239207,Maximiliano Gómez,Uruguay,ST,81,23,13,87,Valencia CF
+236792,Tomáš Soucek,Czech Republic,CDM|CM,81,25,12,86,West Ham United
+236632,David Neres,Brazil,CAM|RW,81,23,45,86,Ajax
+235374,Manuel Lazzari,Italy,RM,81,26,11,82,Lazio
+234906,Houssem Aouar,France,LM|CM,81,22,71,89,Olympique Lyonnais
+231943,Richarlison,Brazil,ST|RM|LM,81,23,48,88,Everton
+230498,Luimo Boas Santos,Brazil,ST,81,20,22,81,Santos
+230313,Tony Abranjes,Brazil,CB,81,32,1,81,Palmeiras
+230271,Laure Santeiro,Brazil,LM|CAM|LW,81,20,7,81,Fluminense
+229984,Ben Chilwell,England,LB,81,23,46,85,Leicester City
+229906,Leon Bailey,Jamaica,RM|LM,81,22,44,88,Bayer 04 Leverkusen
+229668,Mario Hermoso,Spain,CB,81,25,21,87,Atlético Madrid
+228618,Ferland Mendy,France,LB,81,25,48,86,Real Madrid
+227536,Moussa Marega,Mali,ST|RM,81,29,13,81,FC Porto
+226161,Marcos Llorente,Spain,CDM|CM,81,25,25,86,Atlético Madrid
+224179,Borja Iglesias,Spain,ST,81,27,9,82,Real Betis
+223959,Lucas Torreira,Uruguay,CDM|CM,81,24,33,86,Arsenal
+223689,Wout Weghorst,Netherlands,ST,81,27,4,82,VfL Wolfsburg
+222509,Dani Ceballos,Spain,CM|CAM,81,23,39,86,Arsenal
+222331,Lukas Klostermann,Germany,RWB|RB|LB|RW,81,24,32,85,RB Leipzig
+221660,Victor Lindelöf,Sweden,CB,81,26,36,85,Manchester United
+216475,Morales,Spain,ST|RM|LM,81,33,7,81,Levante UD
+216393,Youri Tielemans,Belgium,CM,81,23,35,87,Leicester City
+215998,Ignacio Fernández,Argentina,CM|CAM,81,30,4,81,River Plate
+215330,Joaquín Correa,Argentina,ST|CAM|CF,81,25,31,86,Lazio
+215316,Gerónimo Rulli,Argentina,GK,81,28,8,85,Montpellier Hérault SC
+213331,Jonathan Tah,Germany,CB,81,24,33,86,Bayer 04 Leverkusen
+212814,João Mário,Portugal,LM|CM|CAM,81,27,10,82,Lokomotiv Moscow
+212404,Federico Bernardeschi,Italy,RM|CAM,81,26,46,83,Juventus
+211990,Odisseas Vlachodimos,Greece,GK,81,26,10,86,SL Benfica
+211748,Kerem Demirbay,Germany,CM,81,27,9,84,Bayer 04 Leverkusen
+211688,Gayà,Spain,LB,81,25,18,86,Valencia CF
+211320,Daniele Rugani,Italy,CB,81,26,26,84,Juventus
+210665,Marcel Halstenberg,Germany,LB|LWB|LW,81,28,17,81,RB Leipzig
+210406,Piotr Zielinski,Poland,LM|CM,81,26,17,85,Napoli
+208448,Emil Forsberg,Sweden,LM|CAM,81,28,10,81,RB Leipzig
+205849,Esteban Andrada,Argentina,GK,81,29,7,82,Boca Juniors
+205659,Alessio Cragno,Italy,GK,81,26,8,87,Cagliari
+205069,Juan Bernat,Spain,LB|LM,81,27,24,82,Paris Saint-Germain
+204935,Jordan Pickford,England,GK,81,26,18,84,Everton
+204525,Iñigo Martínez,Spain,CB,81,29,10,82,Athletic Club
+204399,Eran Zahavi,Israel,ST|LW,81,33,0,81,Guangzhou R&F FC
+204311,Kurt Zouma,France,CB,81,25,56,84,Chelsea
+204120,Tomáš Vaclík,Czech Republic,GK,81,31,3,81,Sevilla FC
+203574,John Stones,England,CB,81,26,33,84,Manchester City
+203551,Alessandro Florenzi,Italy,RB,81,29,11,81,Valencia CF
+202651,Suso,Spain,CAM|RW,81,26,11,81,Sevilla FC
+202562,Jérôme Roussillon,France,LB|LM,81,27,10,82,VfL Wolfsburg
+202477,Deulofeu,Spain,LM|CF,81,26,27,82,Watford
+202371,Thomas Meunier,Belgium,RB|RM,81,28,29,81,Paris Saint-Germain
+201922,Martin Hinteregger,Austria,CB,81,27,3,83,Eintracht Frankfurt
+201455,Geoffrey Kondogbia,Central African Rep.,CM,81,27,17,82,Valencia CF
+201400,Rafinha,Brazil,RM|CM|CAM,81,27,21,82,RC Celta
+201095,Agustín Marchesín,Argentina,GK,81,32,2,81,FC Porto
+200726,Benjamin Lecomte,France,GK,81,29,8,83,AS Monaco Football Club SA
+200260,Steven Berghuis,Netherlands,RW,81,28,3,81,Feyenoord
+199575,Jordi Masip,Spain,GK,81,31,6,81,R. Valladolid CF
+197655,Sebastián Coates,Uruguay,CB,81,29,3,81,Sporting CP
+195365,Kevin Kampl,Slovenia,CDM|CM|CAM,81,29,16,81,RB Leipzig
+193348,Xherdan Shaqiri,Switzerland,RM|RW,81,28,18,81,Liverpool
+192883,Henrikh Mkhitaryan,Ermenia,RM|CAM|RW,81,31,22,81,Roma
+192638,Marcos Alonso,Spain,LB|LWB|LW,81,29,26,81,Chelsea
+191740,Ander Herrera,Spain,CDM|CM,81,30,16,81,Paris Saint-Germain
+190972,Eduardo Salvio,Argentina,RM|RW,81,30,8,81,Boca Juniors
+190813,Stephan El Shaarawy,Italy,LM|LW,81,27,30,81,Shanghai Greenland Shenhua FC
+190544,Adem Ljajic,Serbia,CAM|LW,81,28,4,81,Besiktas JK
+189881,Chris Smalling,England,CB,81,30,31,81,Roma
+189805,Luuk de Jong,Netherlands,ST,81,29,12,81,Sevilla FC
+189125,Giacomo Bonaventura,Italy,CM,81,30,13,81,Milan
+188829,Nicolas Nkoulou,Cameroon,CB,81,30,5,81,Torino
+187754,Marlos,Ukraine,RM|CAM,81,32,4,81,Shakhtar Donetsk
+186627,Mario Balotelli,Italy,ST,81,29,34,81,Brescia
+186345,Kieran Trippier,England,RB,81,29,17,81,Atlético Madrid
+185221,Luiz Gustavo,Brazil,CB|CDM,81,33,4,81,Fenerbahçe SK
+184942,Giuliano,Brazil,CAM,81,30,3,81,Al Nassr
+184941,Alexis Sánchez,Chile,LM|LW,81,31,46,81,Inter
+184431,Sebastian Giovinco,Italy,ST|CAM|CF,81,33,14,81,Al Hilal
+183907,Jérôme Boateng,Germany,CB,81,31,15,81,FC Bayern München
+183512,Yuri Berchiche,Spain,LB,81,30,9,81,Athletic Club
+179944,David Luiz,Brazil,CB,81,33,35,81,Arsenal
+179645,Simon Kjær,Denmark,CB,81,31,23,81,Milan
+178086,Adán,Spain,GK,81,33,10,81,Atlético Madrid
+177458,Sven Bender,Germany,CB|CDM,81,31,10,81,Bayer 04 Leverkusen
+177457,Lars Bender,Germany,RB|CDM|CM,81,31,5,81,Bayer 04 Leverkusen
+173426,Simon Mignolet,Belgium,GK,81,32,0,81,Club Brugge KV
+172879,Sokratis,Greece,CB,81,32,18,81,Arsenal
+165229,Laurent Koscielny,France,CB,81,34,7,81,FC Girondins de Bordeaux
+164835,Lukasz Fabianski,Poland,GK,81,35,7,81,West Ham United
+163489,Andrea Consigli,Italy,GK,81,33,3,81,Sassuolo
+159261,Fabio Quagliarella,Italy,ST,81,37,5,81,Sampdoria
+159145,Bafétimbi Gomis,France,ST,81,34,7,81,Al Hilal
+153244,André-Pierre Gignac,France,ST|CF,81,34,10,81,Tigres U.A.N.L.
+138412,James Milner,England,RB|LB|CM,81,34,21,81,Liverpool
+104389,Rune Almenning Jarstein,Norway,GK,81,35,5,81,Hertha BSC
+245308,Mauro Evidio Nérez,Uruguay,LB|LM,80,32,4,80,Free Agents
+245300,Matías David Baldona,Uruguay,CDM|CM,80,36,4,80,Free Agents
+245294,Jorge Ezequiel Serendero,Uruguay,GK,80,32,1,80,Free Agents
+245279,Reguilón,Spain,LB|LM,80,23,44,87,Sevilla FC
+244621,Vinícius,Brazil,ST,80,25,20,85,SL Benfica
+244369,Viktor Tsygankov,Ukraine,RM|LM,80,22,14,86,Dynamo Kyiv
+244260,Dani Olmo,Spain,RM|LM|CAM,80,22,47,89,RB Leipzig
+242444,João Félix,Portugal,ST|LM|CF,80,20,133,93,Atlético Madrid
+241671,Dominik Livakovic,Croatia,GK,80,25,8,86,Dinamo Zagreb
+239085,Erling Braut Haaland,Norway,ST,80,20,371,90,Borussia Dortmund
+236679,Melendo,Spain,RM|CM,80,22,14,86,RCD Espanyol
+235569,Tanguy Ndombele,France,CDM|CM,80,23,46,88,Tottenham Hotspur
+234153,Carlos Soler,Spain,RM|LM|CM,80,23,15,86,Valencia CF
+233419,Raphinha,Brazil,RM|RW,80,23,8,85,Stade Rennais FC
+232411,Christopher Nkunku,France,ST|CM|CAM,80,22,32,86,RB Leipzig
+232119,Çaglar Söyüncü,Turkey,CB,80,24,42,85,Leicester City
+230347,Welington Dano,Brazil,LB|LM,80,20,7,80,Cruzeiro
+230256,Adryan Zonta,Brazil,LB|LWB|LW,80,28,5,80,São Paulo
+230234,Everton Andrão,Brazil,CDM|CM,80,24,16,80,Fluminense
+230204,Héniton Pires,Brazil,GK,80,24,1,82,Flamengo
+229558,Dayot Upamecano,France,CB,80,21,127,89,RB Leipzig
+229167,Milot Rashica,Kosovo,CF|RW|LW,80,24,30,86,SV Werder Bremen
+228251,Lorenzo Pellegrini,Italy,CDM|CM|CAM,80,24,24,85,Roma
+228093,Marcus Thuram,France,ST|LW,80,22,19,84,Borussia Mönchengladbach
+227950,Yeray,Spain,CB,80,25,11,84,Athletic Club
+227796,Christian Pulisic,United States,LM|RW|LW,80,21,139,86,Chelsea
+227535,Rodrigo Bentancur,Uruguay,CM,80,23,62,87,Juventus
+227290,Marko Dmitrovic,Serbia,GK,80,28,3,81,SD Eibar
+226851,Benjamin Pavard,France,RB|CB,80,24,65,85,FC Bayern München
+225711,Abdou Diallo,France,LB|CB,80,24,13,84,Paris Saint-Germain
+225663,Alexandr Golovin,Russia,CM|CAM,80,24,34,86,AS Monaco Football Club SA
+225508,Eric Bailly,Ivory Coast,CB,80,26,31,83,Manchester United
+225375,Konrad Laimer,Austria,RB|CDM|CM,80,23,20,85,RB Leipzig
+225193,Merino,Spain,CM,80,24,13,86,Real Sociedad
+224458,Diogo Jota,Portugal,CF|LW,80,23,32,86,Wolverhampton Wanderers
+224232,Nicolò Barella,Italy,CM|CAM,80,23,46,88,Inter
+224069,Karl Toko-Ekambi,Cameroon,ST|LM,80,27,8,81,Olympique Lyonnais
+223874,Valentin Rongier,France,CM|CAM,80,25,6,83,Olympique de Marseille
+223578,Mata,Spain,ST,80,31,5,80,Getafe CF
+222400,Harry Winks,England,CDM|CM,80,24,22,85,Tottenham Hotspur
+221992,Hirving Lozano,Mexico,ST|RW|LW,80,24,69,84,Napoli
+220182,Jason Denayer,Belgium,CB,80,25,16,86,Olympique Lyonnais
+219985,Matias Vecino,Uruguay,CDM,80,28,13,80,Inter
+219809,Tiemoué Bakayoko,France,CDM|CM,80,25,19,82,AS Monaco Football Club SA
+219693,Diego Carlos,Brazil,CB,80,27,97,83,Sevilla FC
+216388,Allan Saint-Maximin,France,ST|LM|LW,80,23,57,86,Newcastle United
+216194,Dani García,Spain,CDM|CM,80,30,4,80,Athletic Club
+216145,Armando Izzo,Italy,CB,80,28,8,82,Torino
+215223,Walter Benítez,Argentina,GK,80,27,9,83,OGC Nice
+215061,Darío Benedetto,Argentina,ST,80,30,14,80,Olympique de Marseille
+214584,Franco Armani,Argentina,GK,80,33,10,80,River Plate
+213874,Thiago Mendes,Brazil,CDM|CM,80,28,11,80,Olympique Lyonnais
+213661,Andreas Christensen,Denmark,CB,80,24,23,85,Chelsea
+211575,André Gomes,Portugal,CDM|CM,80,26,11,83,Everton
+210896,Morgan Sanson,France,CM|CAM,80,25,13,84,Olympique de Marseille
+210513,Juan Fernando Quintero,Colombia,CAM,80,27,8,81,River Plate
+209297,Fred,Brazil,CDM|CM,80,27,34,82,Manchester United
+208920,Nathan Aké,Netherlands,CB,80,25,95,84,AFC Bournemouth
+208618,Lucas Vázquez,Spain,RM|RW,80,29,16,80,Real Madrid
+208498,Munas Dabbur,Israel,ST,80,28,6,80,TSG 1899 Hoffenheim
+208330,Adnan Januzaj,Belgium,RM|RW,80,25,18,83,Real Sociedad
+208141,Gabriel,Brazil,CDM|CM,80,26,5,83,SL Benfica
+208135,Abdoulaye Doucouré,France,CDM|CM|CAM,80,27,15,83,Watford
+208128,Hakan Çalhanoglu,Turkey,CM|LW,80,26,34,81,Milan
+207791,Yussuf Poulsen,Denmark,ST,80,26,19,82,RB Leipzig
+207471,Franco Vázquez,Argentina,LM|CM|CAM,80,31,5,80,Sevilla FC
+206517,Jack Grealish,England,CM|CAM|LW,80,24,106,85,Aston Villa
+206467,Alassane Plea,France,ST|LW,80,27,11,81,Borussia Mönchengladbach
+206413,Taras Stepanenko,Ukraine,CDM,80,30,2,80,Shakhtar Donetsk
+205988,Luke Shaw,England,LB,80,25,34,82,Manchester United
+205632,Lucas Ocampos,Argentina,RW|LW,80,26,28,83,Sevilla FC
+205362,Matija Nastasic,Serbia,CB,80,27,6,82,FC Schalke 04
+204884,Benjamin Mendy,France,LB,80,26,35,85,Manchester City
+204638,Willi Orban,Hungary,CB,80,27,11,82,RB Leipzig
+203895,Pozuelo,Spain,CAM|CF,80,28,6,80,Toronto FC
+203890,Šime Vrsaljko,Croatia,RB,80,28,8,80,Atlético Madrid
+203841,Nick Pope,England,GK,80,28,61,81,Burnley
+203757,Zé Luís,Cape Verde,ST,80,29,1,80,FC Porto
+202935,Álvaro,Spain,CB,80,30,6,80,Olympique de Marseille
+202750,Willy Boly,France,CB,80,29,5,80,Wolverhampton Wanderers
+202695,James Tarkowski,England,CB,80,27,5,81,Burnley
+202685,Simone Zaza,Italy,ST,80,29,8,80,Torino
+202648,Sergi Darder,Spain,LM|CM|CAM,80,26,4,83,RCD Espanyol
+201956,Salif Sané,Senegal,CB|CDM,80,29,9,80,FC Schalke 04
+201417,Matt Doherty,Republic of Ireland,RWB|RW,80,28,4,80,Wolverhampton Wanderers
+201143,Aïssa Mandi,Algeria,CB,80,28,36,81,Real Betis
+201119,Ismaily,Brazil,LB,80,30,7,80,Shakhtar Donetsk
+200316,Timo Horn,Germany,GK,80,27,6,82,1. FC Köln
+200155,Hans Vanaken,Belgium,CM|CAM,80,27,4,80,Club Brugge KV
+199823,Campaña,Spain,CDM|CM,80,27,2,83,Levante UD
+199715,Vitolo,Spain,ST|RM|LM,80,30,7,80,Atlético Madrid
+199503,Granit Xhaka,Switzerland,CDM|CM,80,27,24,81,Arsenal
+199110,Luis Muriel,Colombia,ST,80,29,10,80,Atalanta
+199005,Mathew Ryan,Australia,GK,80,28,8,82,Brighton & Hove Albion
+198784,Alex Oxlade-Chamberlain,England,RM|CM,80,26,24,83,Liverpool
+198118,Josuha Guilavogui,France,CB|CDM|CM,80,29,3,80,VfL Wolfsburg
+196432,Enzo Pérez,Argentina,CDM|CM,80,34,2,80,River Plate
+195086,Dejan Lovren,Croatia,CB,80,31,32,80,Liverpool
+193314,Aitor,Spain,GK,80,29,3,82,Levante UD
+192366,Nicolás Otamendi,Argentina,CB,80,32,14,80,Manchester City
+192318,Mario Götze,Germany,CM|CAM|CF,80,28,25,80,Borussia Dortmund
+191202,Nemanja Matic,Serbia,CDM|CM,80,31,17,80,Manchester United
+190674,Benjamin André,France,CDM|CM,80,29,4,80,LOSC Lille
+189690,Guaita,Spain,GK,80,33,2,80,Crystal Palace
+189505,Pedro,Spain,RW|LW,80,33,17,80,Chelsea
+189362,Hulk,Brazil,ST|RW,80,34,41,80,Shanghai SIPG FC
+189271,Francis Coquelin,France,CDM|CM,80,29,10,80,Valencia CF
+189068,Bas Dost,Netherlands,ST,80,31,4,80,Eintracht Frankfurt
+187607,Artem Dzyuba,Russia,ST,80,31,13,80,Free Agents
+187072,Lars Stindl,Germany,CAM|CF,80,31,3,80,Borussia Mönchengladbach
+184484,Gylfi Sigur?sson,Iceland,CM|CAM,80,30,9,80,Everton
+183498,Marco Parolo,Italy,CDM|CM,80,35,8,80,Lazio
+182002,Sidnei,Brazil,CB,80,30,3,80,Real Betis
+181786,Vedran Corluka,Croatia,CB,80,34,3,80,Lokomotiv Moscow
+178509,Olivier Giroud,France,ST,80,33,26,80,Chelsea
+178088,Juan Mata,Spain,RM|CAM,80,32,11,80,Manchester United
+177633,Ángel,Spain,ST,80,33,2,80,Getafe CF
+177600,Beñat,Spain,CM,80,33,6,80,Athletic Club
+177326,Mathieu Valbuena,France,LM|CAM,80,35,5,80,Olympiacos CFP
+176930,Marcelo Díaz,Chile,CDM|CM,80,33,1,80,Racing Club
+176600,Kévin Gameiro,France,ST,80,33,5,80,Valencia CF
+175379,Pedro León,Spain,RM|LM,80,33,1,80,SD Eibar
+173771,Lukasz Piszczek,Poland,RB|CB,80,35,14,80,Borussia Dortmund
+173373,Sergio Romero,Argentina,GK,80,33,6,80,Manchester United
+172522,Daniel Wass,Denmark,RB|RM|CM,80,31,4,80,Valencia CF
+172114,Diego Valeri,Argentina,ST|CAM,80,34,1,80,Portland Timbers
+171897,Andrés Guardado,Mexico,CDM|LM|CM,80,33,9,80,Real Betis
+171579,Raúl García,Spain,ST|CAM,80,34,6,80,Athletic Club
+170368,Erik Lamela,Argentina,RM|LM|CAM,80,28,20,80,Tottenham Hotspur
+169588,Jonny Evans,Northern Ireland,CB,80,32,12,80,Leicester City
+165109,Stefan Radu,Romania,CB,80,33,14,80,Lazio
+163155,Ben Foster,England,GK,80,37,5,80,Watford
+162240,Mousa Dembélé,Belgium,CDM|CM|CAM,80,33,6,80,Guangzhou R&F FC
+154472,Jorge Molina,Spain,ST,80,38,3,80,Getafe CF
+148119,Igor Akinfeev,Russia,GK,80,34,10,80,PFC CSKA Moscow
+143121,José Sosa,Argentina,CDM|CM,80,35,1,80,Trabzonspor
+142707,Lisandro López,Argentina,ST,80,37,13,80,Racing Club
+139068,Nani,Portugal,RW|LW,80,33,11,80,Orlando City Soccer Club
+54050,Wayne Rooney,England,ST|CM|CAM,80,34,54,80,Derby County
+45186,Joaquín,Spain,ST|RM|LM,80,39,16,80,Real Betis
+24630,Pepe Reina,Spain,GK,80,37,5,80,Aston Villa
+251573,Renan Lodi,Brazil,LB,79,22,31,86,Atlético Madrid
+245315,Enzo Manuel Aguerro,Uruguay,ST,79,32,2,79,Free Agents
+245306,Leandro Miguel Sáreda,Uruguay,GK,79,28,0,79,Free Agents
+245302,Enzo Martín Riquero,Uruguay,CDM|CM|CAM,79,32,0,79,Free Agents
+245298,Daniel Martín Lenzado,Uruguay,LB|CB,79,32,1,79,Free Agents
+241461,Ferrán Torres,Spain,RM|LM|CF,79,20,139,88,Valencia CF
+241184,Junior Firpo,Spain,LB|LM,79,23,27,85,FC Barcelona
+239433,Nemanja Maksimovic,Serbia,CDM|CM,79,25,5,84,Getafe CF
+239301,Lisandro Martínez,Argentina,CB|CDM,79,22,24,86,Ajax
+239231,Cucurella,Spain,LB|LM,79,22,46,88,Getafe CF
+238794,Vinícius Jr.,Brazil,LW,79,20,133,92,Real Madrid
+238476,Dan-Axel Zagadou,France,CB,79,21,57,86,Borussia Dortmund
+238359,Wendel,Brazil,CM,79,22,7,87,Sporting CP
+237678,Ibrahima Konaté,France,CB,79,21,74,88,RB Leipzig
+237238,Scott McTominay,Scotland,CDM|CM,79,23,44,86,Manchester United
+235926,Matías Zaracho,Argentina,RM|CM|CAM,79,22,35,85,Racing Club
+234612,Jonathan Ikoné,France,RM|CAM,79,22,34,86,LOSC Lille
+234035,Odriozola,Spain,RB,79,24,38,84,FC Bayern München
+233306,Dean Henderson,England,GK,79,23,46,87,Sheffield United
+233064,Mason Mount,England,CM|CAM|RW,79,21,136,87,Chelsea
+232097,Amine Harit,Morocco,LM|CM|CAM,79,23,20,85,FC Schalke 04
+231969,Ruslan Malinovskyi,Ukraine,CDM|CM|CAM,79,27,26,80,Atalanta
+231691,Alban Lafont,France,GK,79,21,38,87,FC Nantes
+231352,Tammy Abraham,England,ST,79,22,83,86,Chelsea
+230869,Unai Simón,Spain,GK,79,23,18,85,Athletic Club
+230442,Matheus Bardeira,Brazil,ST,79,20,3,81,São Paulo
+230440,Fredditinho,Brazil,ST,79,32,0,79,Palmeiras
+230426,Arturo Inálcio,Brazil,CM|CAM,79,20,0,81,Flamengo
+230379,Vieirundinho,Brazil,CB,79,32,1,79,Santos
+230312,Gabri Prestão,Brazil,GK,79,28,1,79,Internacional
+230285,Vincente Dourado,Brazil,CB,79,24,0,81,Flamengo
+230251,Melvin Parrela,Brazil,CDM,79,20,1,79,Centro Sportivo Alagoano
+230212,Antônio Chiamuloira,Brazil,LB|CB,79,20,4,79,Internacional
+230201,Maikel Catarino,Brazil,RB|RM,79,24,6,79,Atlético Mineiro
+230020,Pierre Lees-Melou,France,CM,79,27,4,80,OGC Nice
+229857,Stefano Sensi,Italy,CDM|CM,79,24,13,84,Inter
+229788,Rubén Alcaraz,Spain,CDM|CM,79,29,2,79,R. Valladolid CF
+229237,Manuel Akanji,Switzerland,CB,79,25,33,85,Borussia Dortmund
+228687,Kasper Dolberg,Denmark,ST,79,22,23,85,OGC Nice
+228336,Florian Grillitsch,Austria,CDM|CM,79,24,2,83,TSG 1899 Hoffenheim
+228092,Sander Berge,Norway,CDM|CM,79,22,31,87,Sheffield United
+227813,Oleksandr Zinchenko,Ukraine,LB,79,23,45,85,Manchester City
+226456,Pablo Fornals,Spain,RM|LM|CAM,79,24,7,85,West Ham United
+226229,Thilo Kehrer,Germany,RB|CB,79,23,31,84,Paris Saint-Germain
+225309,Nadiem Amiri,Germany,CM|CAM,79,23,19,85,Bayer 04 Leverkusen
+224309,Joan Jordán,Spain,CDM|CM|CAM,79,26,10,84,Sevilla FC
+224254,Cristian Pavón,Argentina,LM|RW|LW,79,24,23,85,LA Galaxy
+223724,Stefan Lainer,Austria,RB,79,27,2,80,Borussia Mönchengladbach
+223113,Krzysztof Piatek,Poland,ST,79,25,30,84,Hertha BSC
+222943,Jony,Spain,LM,79,29,11,79,Lazio
+222709,Petros,Brazil,CDM|CM,79,31,2,79,Al Nassr
+222028,Julian Weigl,Germany,CB|CDM|CM,79,24,13,82,SL Benfica
+221491,Nico Elvedi,Switzerland,RB|CB,79,23,18,84,Borussia Mönchengladbach
+221479,Dominic Calvert-Lewin,England,ST,79,23,11,84,Everton
+221445,Wu Lei,China PR,ST|RM|LM,79,28,16,79,RCD Espanyol
+220883,Rafael Santos Borré,Colombia,ST,79,24,17,85,River Plate
+220523,Yerry Mina,Colombia,CB,79,25,14,83,Everton
+220477,Mattia Caldara,Italy,CB,79,26,10,84,Atalanta
+220253,Munir,Spain,ST|RW|LW,79,24,21,84,Sevilla FC
+220018,Ante Rebic,Croatia,ST|CAM|LW,79,26,46,82,Milan
+219792,Baptiste Santamaria,France,CDM|CM,79,25,3,83,Angers SCO
+216435,Stanislav Lobotka,Slovakia,CDM|CM,79,25,6,84,Napoli
+216189,Capa,Spain,RB,79,28,5,79,Athletic Club
+215353,Lucas Alario,Argentina,ST,79,27,8,80,Bayer 04 Leverkusen
+215071,Milton Casco,Argentina,LB|LWB|LW,79,32,1,79,River Plate
+214979,Juan Musso,Argentina,GK,79,26,15,82,Udinese
+214947,Jean-Philippe Gbamin,Ivory Coast,CDM|CM,79,24,8,84,Everton
+214766,Carlos Izquierdoz,Argentina,CB,79,31,3,79,Boca Juniors
+214092,Alexey Miranchuk,Russia,ST|CAM,79,24,11,84,Lokomotiv Moscow
+213761,Abderrazak Hamdallah,Morocco,ST,79,29,8,79,Al Nassr
+213666,Ruben Loftus-Cheek,England,LM|CM,79,24,16,85,Chelsea
+213648,Pierre-Emile Højbjerg,Denmark,CM,79,24,18,84,Southampton
+213516,Ricardo Horta,Portugal,RW|LW,79,25,5,82,SC Braga
+213160,Roman Zobnin,Russia,CDM|LM|CM,79,26,10,84,Spartak Moscow
+212692,Rony Lopes,Portugal,LM|LW,79,24,14,84,Sevilla FC
+212623,Santi Mina,Spain,ST|RW,79,24,7,84,RC Celta
+212501,Leander Dendoncker,Belgium,CB|CDM,79,25,15,84,Wolverhampton Wanderers
+211241,Rubén Peña,Spain,RB,79,29,3,79,Villarreal CF
+210935,Domenico Berardi,Italy,ST|RW,79,25,13,82,Sassuolo
+210617,Samu Castillejo,Spain,RM|LM,79,25,37,81,Milan
+210455,Jonny,Spain,LWB|LW,79,26,10,82,Wolverhampton Wanderers
+210411,Otávio,Brazil,RM|CM|CAM,79,25,7,82,FC Porto
+210315,De Tomás,Spain,ST,79,25,11,83,RCD Espanyol
+210047,Fabian Schär,Switzerland,CB,79,28,4,81,Newcastle United
+209288,Florent Mollet,France,CAM,79,28,1,79,Montpellier Hérault SC
+208620,Omar Mascarell,Spain,CDM|CM,79,27,3,81,FC Schalke 04
+208004,Joël Veltman,Netherlands,RB|CB,79,28,13,80,Ajax
+207807,Ryan Fraser,Scotland,LM,79,26,19,80,AFC Bournemouth
+207599,Michael Keane,England,CB,79,27,4,80,Everton
+207439,Leandro Paredes,Argentina,CDM|CM,79,26,29,83,Paris Saint-Germain
+206545,Manu Trigueros,Spain,CDM|CM,79,28,1,79,Villarreal CF
+206511,Maximilian Arnold,Germany,CDM|CM|CAM,79,26,9,82,VfL Wolfsburg
+206304,Luka Milivojevic,Serbia,CDM|CM,79,29,5,79,Crystal Palace
+206225,Denis Cheryshev,Russia,LM,79,29,9,79,Valencia CF
+205976,Leo Baptistao,Brazil,ST|RM|RW,79,27,9,80,Wuhan Zall Professional FC
+205923,Ben Davies,Wales,LB|LWB|LW,79,27,15,80,Tottenham Hotspur
+205686,Téji Savanier,France,CDM|CM,79,28,1,79,Montpellier Hérault SC
+205569,James Ward-Prowse,England,CM,79,25,6,83,Southampton
+205192,Denis Suárez,Spain,LM|CM,79,26,12,80,RC Celta
+205114,Takashi Inui,Japan,RM|LM,79,32,3,79,SD Eibar
+204529,Michy Batshuayi,Belgium,ST,79,26,30,82,Chelsea
+204277,Roque Mesa,Spain,CDM|CM,79,31,1,79,CD Leganés
+204259,Santiago Arias,Colombia,RB,79,28,24,79,Atlético Madrid
+204077,M'Baye Niang,Senegal,ST,79,25,12,83,Stade Rennais FC
+204024,Christoph Kramer,Germany,CDM|CM,79,29,2,79,Borussia Mönchengladbach
+203843,Damián Suárez,Uruguay,RB,79,32,1,79,Getafe CF
+203747,Héctor Bellerín,Spain,RWB|RB|RW,79,25,47,84,Arsenal
+203605,Pavel Kaderábek,Czech Republic,RWB|RB|RM|RW,79,28,4,79,TSG 1899 Hoffenheim
+202884,Leonardo Spinazzola,Italy,RB|LB|LM,79,27,10,79,Roma
+202642,Fernando,Brazil,CDM|CM,79,28,5,80,Beijing Sinobo Guoan FC
+201519,Jordan Veretout,France,CDM|CM,79,27,7,81,Roma
+201454,Faouzi Ghoulam,Algeria,LB,79,29,8,79,Napoli
+201325,Ciprian Tataru?anu,Romania,GK,79,34,3,79,Olympique Lyonnais
+200536,Nico Schulz,Germany,LB|LWB|LM|LW,79,27,9,80,Borussia Dortmund
+200315,Cristian Tello,Spain,RM|LM,79,28,6,79,Real Betis
+199915,Lewis Dunk,England,CB,79,28,7,81,Brighton & Hove Albion
+199641,Matz Sels,Belgium,GK,79,28,2,81,RC Strasbourg Alsace
+199577,Sergi Gómez,Spain,CB,79,28,6,81,Sevilla FC
+199416,Ibai Gómez,Spain,RW|LW,79,30,2,79,Athletic Club
+199393,Nicolas Pallois,France,CB,79,32,0,79,FC Nantes
+199304,Danilo,Brazil,RB|LB,79,29,16,79,Juventus
+199206,Domagoj Vida,Croatia,RB|CB,79,31,6,79,Besiktas JK
+199189,Ross Barkley,England,CM|CAM,79,26,22,82,Chelsea
+198077,Patrick Herrmann,Germany,RM|CF|RW,79,29,5,79,Borussia Mönchengladbach
+198031,Sérgio Oliveira,Portugal,CM,79,28,2,80,FC Porto
+197853,Serge Aurier,Ivory Coast,RWB|RB|RW,79,27,56,80,Tottenham Hotspur
+197242,Grzegorz Krychowiak,Poland,CDM|CM,79,30,4,79,Lokomotiv Moscow
+197225,Nicolás Lodeiro,Uruguay,RM|CAM|CF,79,31,2,79,Seattle Sounders FC
+196978,Callum Wilson,England,ST,79,28,6,79,AFC Bournemouth
+195859,Danny Ings,England,ST,79,28,16,79,Southampton
+194879,Sergi Enrich,Spain,ST,79,30,2,79,SD Eibar
+194222,Laguardia,Spain,CB,79,30,0,79,D. Alavés
+194022,André Almeida,Portugal,RB,79,29,5,79,SL Benfica
+193983,Andy Delort,Algeria,ST,79,28,2,79,Montpellier Hérault SC
+193738,Younès Belhanda,Morocco,CM|CAM,79,30,1,79,Galatasaray SK
+193601,Germán Pezzella,Argentina,CB,79,29,8,81,Fiorentina
+193152,Herrerín,Spain,GK,79,32,5,79,Athletic Club
+192816,Leandro Cabrera,Uruguay,LB|CB,79,28,7,81,RCD Espanyol
+192789,Mario Gaspar,Spain,RB,79,29,5,79,Villarreal CF
+192678,Kike García,Spain,ST,79,30,0,79,SD Eibar
+192641,Kevin Vogt,Germany,CB,79,28,3,79,SV Werder Bremen
+192598,Ai Kesen,China PR,ST,79,31,5,79,Guangzhou Evergrande Taobao FC
+192492,Fabián Orellana,Chile,RM|LM|CAM,79,34,7,79,SD Eibar
+192227,Shkodran Mustafi,Germany,CB,79,28,17,81,Arsenal
+191687,Maicon,Brazil,CB,79,31,2,79,Al Nassr
+189433,Benjamin Hübner,Germany,CB,79,31,1,79,TSG 1899 Hoffenheim
+188988,Manuel Lanzini,Argentina,LM|CM|CAM,79,27,11,80,West Ham United
+188427,Senad Lulic,Bosnia & Herzegovina,LM,79,34,3,79,Lazio
+188081,Alex Teixeira,Brazil,ST|CAM|LW,79,30,6,79,Jiangsu Suning FC
+188042,Matías Suárez,Argentina,ST|LW,79,32,2,79,River Plate
+187936,Steven Nzonzi,France,CDM|CM,79,31,8,79,Stade Rennais FC
+187052,Yann M'Vila,France,CDM|CM,79,30,3,79,AS Saint-Étienne
+186569,Sven Ulreich,Germany,GK,79,31,5,79,FC Bayern München
+186547,Mateo Musacchio,Argentina,CB,79,29,11,79,Milan
+186537,Cristhian Stuani,Uruguay,ST,79,33,3,79,Girona FC
+184881,Sofiane Feghouli,Algeria,RM|CAM|RW,79,30,5,79,Galatasaray SK
+184144,Nicolás Gaitán,Argentina,CAM,79,32,5,79,LOSC Lille
+183900,Diego Perotti,Argentina,LM|LW,79,32,9,79,Roma
+183394,Moussa Sissoko,France,CDM|RM|CM,79,30,21,79,Tottenham Hotspur
+179784,Benedikt Höwedes,Germany,LB|CB,79,32,9,79,Lokomotiv Moscow
+178424,Antunes,Portugal,LB,79,33,3,79,Getafe CF
+178311,Éder,Italy,ST,79,33,2,79,Jiangsu Suning FC
+178213,Etienne Capoue,France,CDM|CM,79,32,7,79,Watford
+177604,Nacho Monreal,Spain,LB,79,34,7,79,Real Sociedad
+177392,Dieumerci Mbokani,DR Congo,ST,79,34,0,79,Royal Antwerp FC
+176919,Nahuel Guzmán,Argentina,GK,79,34,2,79,Tigres U.A.N.L.
+176550,David Ospina,Colombia,GK,79,31,7,79,Napoli
+173306,Cristian Ansaldi,Argentina,LB|LM,79,33,8,79,Torino
+173221,Antonio Candreva,Italy,RM,79,33,8,79,Inter
+171791,José Fonte,Portugal,CB,79,36,8,79,LOSC Lille
+166706,Martin Škrtel,Slovakia,CB,79,35,6,79,Medipol Basaksehir FK
+161648,Hatem Ben Arfa,France,ST|CAM,79,33,12,79,R. Valladolid CF
+158963,Lucas Biglia,Argentina,CDM|CM,79,34,8,79,Milan
+158121,Benoît Costil,France,GK,79,33,1,79,FC Girondins de Bordeaux
+153260,Hilton,Brazil,CB,79,42,6,79,Montpellier Hérault SC
+146748,Diego López,Spain,GK,79,38,3,79,RCD Espanyol
+142754,Javier Mascherano,Argentina,CB|CDM|CM,79,36,18,79,Estudiantes de La Plata
+124375,Burak Yilmaz,Turkey,ST,79,35,15,79,Besiktas JK
+110677,Moyá,Spain,GK,79,36,1,79,Real Sociedad
+20775,Quaresma,Portugal,RM|LM,79,36,27,79,Kasimpasa SK
+245303,Federico Luis Contedo,Uruguay,CAM|CF,78,36,1,78,Free Agents
+245297,Giovanni Luis Quintana,Uruguay,RB|RM,78,36,0,78,Free Agents
+245295,Edgar Manuel Guichón,Uruguay,LB|LM,78,32,0,78,Free Agents
+243812,Rodrygo,Brazil,RW|LW,78,19,61,91,Real Madrid
+243238,Júnior Moraes,Ukraine,ST,78,33,5,78,Shakhtar Donetsk
+242236,Ferro,Portugal,CB,78,23,8,85,SL Benfica
+241852,Moussa Diaby,France,LM,78,21,24,87,Bayer 04 Leverkusen
+241727,Predrag Rajkovic,Serbia,GK,78,24,7,86,Stade de Reims
+241486,Jules Koundé,France,CB,78,21,38,86,Sevilla FC
+241464,Pau Torres,Spain,CB,78,23,44,86,Villarreal CF
+241095,Nikola Vlašic,Croatia,LM|CAM,78,22,16,86,PFC CSKA Moscow
+241084,Luis Díaz,Colombia,LM,78,23,20,86,FC Porto
+240900,Unai Núñez,Spain,CB,78,23,4,84,Athletic Club
+240754,Youcef Atal,Algeria,RB|RW,78,24,39,84,OGC Nice
+240679,Teun Koopmeiners,Netherlands,CB|CDM,78,22,10,85,AZ
+240289,Calero,Spain,CB,78,24,3,83,RCD Espanyol
+237239,Enis Bardhi,North Macedonia,LM|CM|CAM,78,25,7,83,Levante UD
+236987,Boubacar Kamara,France,CB|CDM,78,20,62,87,Olympique de Marseille
+236355,Luiz Felipe,Brazil,CB,78,23,29,87,Lazio
+235945,Marc Roca,Spain,CDM|CM,78,23,20,85,RCD Espanyol
+235889,Cengiz Ünder,Turkey,RM|RW,78,23,23,84,Roma
+235805,Federico Chiesa,Italy,CF|RW,78,22,55,85,Fiorentina
+235424,Diadie Samassékou,Mali,CDM|CM,78,24,1,83,TSG 1899 Hoffenheim
+235410,Youssef En-Nesyri,Morocco,ST,78,23,11,83,Sevilla FC
+235353,Ismaïla Sarr,Senegal,RM|LM,78,22,41,88,Watford
+234943,Florian Neuhaus,Germany,CM|CAM,78,23,13,86,Borussia Mönchengladbach
+234742,Harvey Barnes,England,CAM|LW,78,22,27,85,Leicester City
+234642,Édouard Mendy,Senegal,GK,78,28,1,81,Stade Rennais FC
+234378,Declan Rice,England,CDM|CM,78,21,69,86,West Ham United
+234236,Patrik Schick,Czech Republic,ST|CF|RW,78,24,24,84,RB Leipzig
+233731,Alexander Isak,Sweden,ST,78,20,38,86,Real Sociedad
+233096,Denzel Dumfries,Netherlands,RB,78,24,20,82,PSV
+232665,Mauro Arambarri,Uruguay,CDM|CM,78,24,2,83,Getafe CF
+232580,Gabriel,Brazil,CB,78,22,73,85,LOSC Lille
+232293,Victor Osimhen,Nigeria,ST,78,21,205,88,LOSC Lille
+231633,Issa Diop,France,CB,78,23,16,85,West Ham United
+231521,Exequiel Palacios,Argentina,RM|CM|CAM,78,21,30,88,Bayer 04 Leverkusen
+230977,Miguel Almirón,Paraguay,RM|CAM|LW,78,26,9,79,Newcastle United
+230965,Nahitan Nández,Uruguay,CDM|RM|CM,78,24,19,84,Cagliari
+230938,Franck Yannick Kessié,Ivory Coast,CM,78,23,34,84,Milan
+230767,Renato Sanches,Portugal,RM|CM,78,22,37,85,LOSC Lille
+230460,Prazeracinho,Brazil,LW,78,20,1,80,Flamengo
+230431,Sidney Pessinho,Brazil,CDM|CM,78,28,2,78,Internacional
+230406,Guilson Paiva,Brazil,RM|RW,78,24,1,80,Flamengo
+230385,Albertinho Dutra,Brazil,LM|LW,78,28,1,78,São Paulo
+230360,Everticinho,Brazil,RB|RM|CM,78,20,10,78,Grêmio
+230269,Claudio Coíntra,Brazil,CAM|CF,78,24,2,78,Internacional
+230216,Adnan Vidual,Brazil,RB,78,28,0,78,Palmeiras
+230184,Ronaldo Esler,Brazil,LB|LM,78,20,3,78,Atlético Mineiro
+230065,Suat Serdar,Germany,CDM|CM|CAM,78,23,9,84,FC Schalke 04
+229909,Andrey Lunev,Russia,GK,78,28,6,79,Free Agents
+229773,Georgiy Dzhikiya,Russia,CB,78,26,11,82,Spartak Moscow
+229624,Sergi Guardiola,Spain,ST,78,29,5,78,R. Valladolid CF
+229391,Palhinha,Portugal,CDM|CM,78,25,5,84,SC Braga
+228941,André Silva,Portugal,ST,78,24,22,83,Eintracht Frankfurt
+228520,Ezequiel Ávila,Argentina,ST|RM,78,26,7,81,CA Osasuna
+228236,Simon Deli,Ivory Coast,CB,78,28,8,80,Club Brugge KV
+227476,Soares,Brazil,ST,78,29,10,78,FC Porto
+226766,Daniel Podence,Portugal,CF|RW|LW,78,24,15,82,Wolverhampton Wanderers
+226168,Maximilian Eggestein,Germany,CDM|CM|CAM,78,23,18,85,SV Werder Bremen
+226166,Nordi Mukiele,France,RB|CB,78,22,48,85,RB Leipzig
+225997,Benjamin Verbic,Slovenia,RM|LM|CF,78,26,8,79,Dynamo Kyiv
+225951,Denis Bouanga,Gabon,RM|LM,78,25,6,81,AS Saint-Étienne
+225263,Duje Caleta-Car,Croatia,CB,78,23,5,83,Olympique de Marseille
+225126,Ellyes Skhiri,Tunisia,CDM|CM,78,25,2,82,1. FC Köln
+225116,Alex Meret,Italy,GK,78,23,30,87,Napoli
+225085,Jonathan Bamba,France,LM,78,24,10,83,LOSC Lille
+223898,Paul Bernardoni,France,GK,78,23,4,84,Nîmes Olympique
+223697,Robin Gosens,Germany,LM,78,26,23,81,Atalanta
+223627,Omar Al Soma,Syria,ST,78,31,3,78,Al Ahli
+223597,Ruben Aguilar,France,RWB|RB|RW,78,27,3,79,AS Monaco Football Club SA
+223273,Mario Pašalic,Croatia,CM|CAM,78,25,25,82,Atalanta
+223061,Franco Cervi,Argentina,LM,78,26,8,80,SL Benfica
+222390,Unai López,Spain,CDM|CM,78,24,2,82,Athletic Club
+221639,Mariano,Dominican Republic,ST,78,26,10,81,Real Madrid
+220651,Angeliño,Spain,LB,78,23,28,83,RB Leipzig
+220570,Jan Bednarek,Poland,CB,78,24,9,84,Southampton
+220093,Hans Hateboer,Netherlands,RM,78,26,15,79,Atalanta
+219581,Samuel Gigot,France,CB,78,26,9,83,Spartak Moscow
+219258,Pedro Henrique,Brazil,CB,78,27,5,81,Vitória Guimarães
+218066,Mbwana Ally Samatta,Tanzania,ST,78,27,2,79,Aston Villa
+217699,Islam Slimani,Algeria,ST,78,32,9,78,AS Monaco Football Club SA
+216655,Bastos,Angola,CB,78,28,7,79,Lazio
+216643,Léo Dubois,France,RB,78,25,14,82,Olympique Lyonnais
+216531,Paulinho,Portugal,ST,78,27,4,79,SC Braga
+216452,Gonçalo Paciência,Portugal,ST,78,25,4,81,Eintracht Frankfurt
+216451,Jean Michaël Seri,Ivory Coast,CDM|CM,78,29,8,78,Galatasaray SK
+216150,Davide Zappacosta,Italy,RWB|RB|RW,78,28,4,79,Roma
+215785,Keita Baldé,Senegal,ST|LM|LW,78,25,23,81,AS Monaco Football Club SA
+215716,Aleksandar Mitrovic,Serbia,ST,78,25,24,82,Fulham
+215689,Andrea Petagna,Italy,ST,78,25,7,83,SPAL
+215590,Ayoze Pérez,Spain,RM|RW,78,27,10,79,Leicester City
+215466,Nikola Maksimovic,Serbia,CB,78,28,3,79,Napoli
+215399,Rúben Vezo,Portugal,RB|CB,78,26,1,83,Levante UD
+215251,Guido Herrera,Argentina,GK,78,28,0,79,Club Atlético Talleres
+215135,Leonardo Sigali,Argentina,CB,78,33,0,78,Racing Club
+215057,Iván Marcone,Argentina,CDM|CM,78,30,5,78,Boca Juniors
+214394,Wilmar Barrios,Colombia,CDM|CM,78,26,7,83,Free Agents
+214132,Yimmi Chará,Colombia,ST|RM|CAM,78,29,8,78,Portland Timbers
+214097,Benjamin Bourigeaud,France,LM|CM,78,26,2,81,Stade Rennais FC
+214047,Mateus Uribe,Colombia,CDM|CM,78,29,4,78,FC Porto
+213956,Adama Traoré,Spain,RWB|RW,78,24,130,84,Wolverhampton Wanderers
+213353,Guélor Kanga,Gabon,CM|CAM,78,29,6,78,Sparta Praha
+213135,Divock Origi,Belgium,ST|LW,78,25,40,83,Liverpool
+212977,Niklas Stark,Germany,CB|CDM,78,25,9,83,Hertha BSC
+212886,Wylan Cyprien,France,CDM|CM,78,25,6,80,OGC Nice
+212811,Mario Lemina,Gabon,CDM|CM,78,26,7,81,Galatasaray SK
+212616,Rodrigo Javier De Paul,Argentina,CM|CF,78,26,46,82,Udinese
+212442,José Sá,Portugal,GK,78,27,4,81,Olympiacos CFP
+212219,Alexander Djiku,France,CB|CDM,78,25,2,81,RC Strasbourg Alsace
+212187,Philipp Max,Germany,LB|LWB|LM|LW,78,26,2,80,FC Augsburg
+212153,Roberto Gagliardini,Italy,CDM|CM,78,26,2,81,Inter
+211899,Florian Niederlechner,Germany,ST,78,29,0,78,FC Augsburg
+211515,Pierluigi Gollini,Italy,GK,78,25,19,82,Atalanta
+210864,Elseid Hysaj,lbania,RB|LB,78,26,12,81,Napoli
+210736,Emerson,Italy,LB|LM,78,25,22,82,Chelsea
+210385,Rui Silva,Portugal,GK,78,26,2,83,Granada CF
+210324,Jonas Hofmann,Germany,RM|CM|CAM,78,28,5,79,Borussia Mönchengladbach
+210287,Jhon Córdoba,Colombia,ST,78,27,8,79,1. FC Köln
+208787,Adrien Thomasson,France,CM|CAM,78,26,4,81,RC Strasbourg Alsace
+208777,Óliver Torres,Spain,CM|LW,78,25,15,83,Sevilla FC
+208461,Marten de Roon,Netherlands,CM,78,29,20,78,Atalanta
+208334,Jonas Hector,Germany,LB|CDM,78,30,6,78,1. FC Köln
+208295,Romain Saïss,Morocco,CB|CM,78,30,6,78,Wolverhampton Wanderers
+208268,Bryan Cristante,Italy,CDM|CM|CAM,78,25,11,82,Roma
+208104,Matheus,Brazil,GK,78,28,2,82,SC Braga
+207732,Roger,Spain,ST,78,29,0,78,Levante UD
+207664,Carlos Bacca,Colombia,ST,78,33,2,78,Villarreal CF
+207557,Robin Olsen,Sweden,GK,78,30,3,78,Cagliari
+207494,Jesse Lingard,England,RM|CAM,78,27,39,78,Manchester United
+207421,Leandro Trossard,Belgium,LM|LW,78,25,5,81,Brighton & Hove Albion
+206516,Will Hughes,England,CDM|RM|CM,78,25,10,83,Watford
+205705,Zouhair Feddal,Morocco,CB,78,30,5,78,Real Betis
+205525,Bernard,Brazil,LM,78,27,16,78,Everton
+205407,Daniele Baselli,Italy,CM,78,28,2,78,Torino
+205402,Jean-Paul Boëtius,Netherlands,CAM|LW,78,26,6,81,1. FSV Mainz 05
+205201,Okay Yokuslu,Turkey,CDM|CM,78,26,1,83,RC Celta
+204614,Mário Rui,Portugal,LB,78,29,10,78,Napoli
+204385,Santiago García,Uruguay,ST,78,29,2,78,Godoy Cruz
+204105,Kenny Lala,France,RWB|RB|LB|RW,78,28,18,78,RC Strasbourg Alsace
+203980,Konstantinos Fortounis,Greece,LM|CAM,78,27,2,79,Olympiacos CFP
+203775,Loris Karius,Germany,GK,78,27,16,81,Besiktas JK
+203487,Jamaal Lascelles,England,CB,78,26,8,82,Newcastle United
+203483,Davy Klaassen,Netherlands,CM|CAM,78,27,5,79,SV Werder Bremen
+203299,André Carrillo,Peru,RM,78,29,6,78,Al Hilal
+202851,Gregoire Defrel,France,ST|RW,78,29,1,78,Sassuolo
+202789,Alexander Schwolow,Germany,GK,78,28,4,79,Sport-Club Freiburg
+202335,Eric Dier,England,CB|CDM,78,26,11,82,Tottenham Hotspur
+202325,Diego Demme,Germany,CDM|CM,78,28,12,79,Napoli
+202201,Jeffrey Gouweleeuw,Netherlands,CB,78,29,0,78,FC Augsburg
+202048,Conor Coady,England,CB,78,27,9,80,Wolverhampton Wanderers
+202024,Remo Freuler,Switzerland,CM,78,28,9,78,Atalanta
+201988,Federico Fernández,Argentina,CB,78,31,7,78,Newcastle United
+201862,Marcos Rojo,Argentina,CB,78,30,10,78,Estudiantes de La Plata
+201508,Gastón Ramírez,Uruguay,CAM,78,29,2,78,Sampdoria
+201505,David López,Spain,CB|CDM,78,30,2,78,RCD Espanyol
+201377,Jeison Murillo,Colombia,CB,78,28,4,81,RC Celta
+201315,Pablo,Brazil,CB,78,29,0,79,FC Girondins de Bordeaux
+201042,Djibril Sidibé,France,RB|RM,78,28,11,78,Everton
+200677,Pedro Mendes,Portugal,CB,78,29,4,79,Montpellier Hérault SC
+200529,Nacer Chadli,Belgium,CAM|LW,78,30,2,78,RSC Anderlecht
+200215,Sebastian Rode,Germany,CDM|CM,78,29,2,78,Eintracht Frankfurt
+200110,Marco Bizot,Netherlands,GK,78,29,2,80,AZ
+199561,Nolito,Spain,LM|LW,78,33,5,78,Sevilla FC
+199354,Lucas Pérez,Spain,ST,78,31,2,78,D. Alavés
+199254,João Pedro,Brazil,CAM|CF,78,28,11,78,Cagliari
+198200,Benjamin Stambouli,France,CB|CDM,78,29,3,78,FC Schalke 04
+197948,Florian Lejeune,France,CB,78,29,2,80,Newcastle United
+197083,Daniel Caligiuri,Italy,RWB|RB|RM|RW,78,32,3,78,FC Schalke 04
+196889,Simone Verdi,Italy,LM|CF|LW,78,28,5,78,Torino
+195668,Joel Robles,Spain,GK,78,30,1,79,Real Betis
+195586,Alfre? Finnbogason,Iceland,ST,78,31,1,78,FC Augsburg
+195096,Fransérgio,Brazil,CM|CAM,78,29,0,78,SC Braga
+194794,Andriy Yarmolenko,Ukraine,RM|RW,78,30,7,78,West Ham United
+194728,Ishak Belfodil,Algeria,ST,78,28,1,78,TSG 1899 Hoffenheim
+193469,Víctor Ruiz,Spain,CB,78,31,4,78,Besiktas JK
+193361,Roberto Soriano,Italy,CM|CAM,78,29,0,78,Bologna
+193352,Ricardo Rodríguez,Switzerland,LB,78,27,13,78,PSV
+193198,Nemanja Gudelj,Serbia,CDM|CM,78,28,4,79,Sevilla FC
+193171,Jaume Costa,Spain,LB,78,32,4,78,Valencia CF
+192679,Escudero,Spain,LB|LM,78,30,3,78,Sevilla FC
+192622,Shane Duffy,Republic of Ireland,CB,78,28,1,79,Brighton & Hove Albion
+192593,Danijel Subašic,Croatia,GK,78,35,3,78,AS Monaco Football Club SA
+192445,Daniel Ginczek,Germany,ST|RW,78,29,1,78,VfL Wolfsburg
+192270,Johnathan,Brazil,ST|CAM,78,30,2,78,Tianjin TEDA FC
+192123,Chris Wood,New Zealand,ST,78,28,6,78,Burnley
+191180,Javier Pastore,Argentina,CM|CAM,78,31,4,78,Roma
+190875,Juraj Kucka,Slovakia,CDM|CM,78,33,2,78,Parma
+190765,Pascal Groß,Germany,RM|CM|CAM,78,29,7,78,Brighton & Hove Albion
+190717,Michail Antonio,England,ST|RM|LM,78,30,8,78,West Ham United
+190547,Kamil Glik,Poland,CB,78,32,11,78,AS Monaco Football Club SA
+190324,Christian Kabasele,Belgium,CB,78,29,3,79,Watford
+190264,Iago Falqué,Spain,ST|CF|RW,78,30,3,78,Genoa
+190243,Marwin Hitz,Switzerland,GK,78,32,3,78,Borussia Dortmund
+190143,Cote,Spain,LB,78,30,0,78,SD Eibar
+189712,Kevin Strootman,Netherlands,CDM|CM,78,30,4,78,Olympique de Marseille
+189682,Ben Mee,England,CB,78,30,0,78,Burnley
+189606,Julian Baumgartlinger,Austria,CDM,78,32,2,78,Bayer 04 Leverkusen
+189560,Iborra,Spain,CDM|CM,78,32,2,78,Villarreal CF
+189358,Shinji Kagawa,Japan,CM|CAM,78,31,10,78,R. Zaragoza
+189251,Sebastian Rudy,Germany,CDM|CM,78,30,3,78,TSG 1899 Hoffenheim
+189250,Salomón Rondón,Venezuela,ST,78,30,8,78,Dalian YiFang FC
+189165,Jonjo Shelvey,England,CDM|CM,78,28,3,78,Newcastle United
+188044,Alan Carvalho,China PR,ST|LM|LW,78,31,2,78,Guangzhou Evergrande Taobao FC
+188041,Rafael Carioca,Brazil,CDM|CM,78,31,3,78,Tigres U.A.N.L.
+187598,Rafael Tolói,Brazil,CB,78,29,9,78,Atalanta
+187491,Fedor Smolov,Russia,ST,78,30,7,78,RC Celta
+186905,Ashley Barnes,England,ST,78,30,4,78,Burnley
+186832,Kwadwo Asamoah,Ghana,LB|LM,78,31,10,78,Inter
+185431,Nikola Kalinic,Croatia,ST,78,32,4,78,Roma
+185422,Joshua King,Norway,ST|LM|CF,78,28,17,78,AFC Bournemouth
+185239,Ömer Toprak,Turkey,CB,78,31,2,78,SV Werder Bremen
+185195,Odion Ighalo,Nigeria,ST,78,31,10,78,Manchester United
+185132,Mikel San José,Spain,CDM|CM,78,31,1,78,Athletic Club
+184826,Adrien Silva,Portugal,CDM|CM,78,31,2,78,AS Monaco Football Club SA
+183899,Pablo Piatti,Argentina,RM|LM|LW,78,31,1,78,Toronto FC
+183108,Nordin Amrabat,Morocco,RM|LM,78,33,11,78,Al Nassr
+182945,Max-Alain Gradel,Ivory Coast,LM|LW,78,32,4,78,Toulouse Football Club
+181820,Stevan Jovetic,Montenegro,ST|CAM|CF,78,30,14,78,AS Monaco Football Club SA
+181098,Makoto Hasebe,Japan,CB|CDM,78,36,3,78,Eintracht Frankfurt
+180819,Adam Lallana,England,CM,78,32,9,78,Liverpool
+180714,Guilherme,Russia,GK,78,34,1,78,Lokomotiv Moscow
+180216,Séamus Coleman,Republic of Ireland,RB,78,31,2,78,Everton
+179847,Federico Fazio,Argentina,CB,78,33,5,78,Roma
+179783,Ralf Fährmann,Germany,GK,78,31,6,78,SK Brann
+179605,Adel Taarabt,Morocco,CM|CAM,78,31,15,78,SL Benfica
+178415,Ruud Vormer,Netherlands,CM,78,32,1,78,Club Brugge KV
+178250,Papakouli Diop,Senegal,CDM|CM,78,34,2,78,SD Eibar
+178224,Javier Hernández,Mexico,ST,78,32,21,78,LA Galaxy
+178007,Miguel Veloso,Portugal,CDM|CM,78,34,2,78,Hellas Verona
+176376,Ignacio Piatti,Argentina,ST|LM|LW,78,35,2,78,San Lorenzo de Almagro
+175254,Felipe Caicedo,Ecuador,ST|CF,78,31,12,78,Lazio
+173909,Kevin-Prince Boateng,Ghana,CM|CF,78,33,9,78,Besiktas JK
+173432,Héctor Moreno,Mexico,CB,78,32,6,78,Free Agents
+173208,Domenico Criscito,Italy,LB|CB|LM,78,33,6,78,Genoa
+172962,Victor Moses,Nigeria,RWB|RM|RW,78,29,12,78,Inter
+170733,Gervinho,Ivory Coast,RW|LW,78,33,5,78,Parma
+170370,Jonathan dos Santos,Mexico,CM,78,30,3,78,LA Galaxy
+169595,Danny Rose,England,LB|LWB|LW,78,30,13,78,Newcastle United
+164468,Gary Cahill,England,CB,78,34,3,78,Crystal Palace
+164029,Charles,Brazil,ST,78,36,2,78,SD Eibar
+163264,Tom Heaton,England,GK,78,34,3,78,Aston Villa
+162895,Cesc Fàbregas,Spain,CDM|CM|CAM,78,33,22,78,AS Monaco Football Club SA
+161956,Borja Valero,Spain,CDM|CAM,78,35,5,78,Inter
+159147,Loïc Perrin,France,CB,78,34,3,78,AS Saint-Étienne
+158626,Mathieu Debuchy,France,RWB|RB|CB|RW,78,35,7,78,AS Saint-Étienne
+158625,Dante,Brazil,CB,78,36,11,78,OGC Nice
+157301,Ryan Babel,Netherlands,ST|RW|LW,78,33,5,78,Ajax
+146296,Andrés Fernández,Spain,GK,78,33,2,78,Villarreal CF
+143001,Carlos Tévez,Argentina,ST|CAM,78,36,18,78,Boca Juniors
+140293,Antonio Mirante,Italy,GK,78,37,2,78,Roma
+140233,Guillermo Ochoa,Mexico,GK,78,35,34,78,Club América
+251696,Jhon Monsario,Ecuador,CB,77,35,0,77,Free Agents
+247851,Bruno Guimarães,Brazil,CDM|CM,77,22,27,87,Olympique Lyonnais
+246172,Samuel Chukwueze,Nigeria,RM,77,21,12,86,Villarreal CF
+245325,Vicente Damián Castro,Uruguay,CDM|CM,77,28,1,77,Free Agents
+245324,Sebastián Bruno Luna,Uruguay,RB|RM|CM,77,32,0,77,Free Agents
+245311,Andrés Daniel Píriz,Uruguay,CAM|CF,77,32,0,77,Free Agents
+245301,Leandro Agustín Baezo,Uruguay,CDM,77,32,0,77,Free Agents
+244470,Vladimír Coufal,Czech Republic,RB,77,27,2,78,SK Slavia Praha
+244263,Amir Rrahmani,Kosovo,LB|CB,77,26,3,81,Hellas Verona
+243686,Chiquinho,Portugal,CAM,77,25,4,82,SL Benfica
+243630,Jonathan David,Canada,ST|CAM,77,20,63,88,KAA Gent
+243282,Dwight McNeil,England,LM,77,20,7,86,Burnley
+241771,Anthony Nwakaeme,Nigeria,LM,77,31,6,77,Trabzonspor
+241096,Sandro Tonali,Italy,CDM|CM,77,20,168,91,Brescia
+240699,Nicolás De la Cruz,Uruguay,CM|CAM|LW,77,23,14,85,River Plate
+240240,Jean-Pierre Nsame,Cameroon,ST,77,27,5,78,BSC Young Boys
+239890,Ozan Kabak,Turkey,CB,77,20,31,86,FC Schalke 04
+239482,Galeno,Brazil,RW|LW,77,22,9,85,SC Braga
+238227,Krépin Diatta,Senegal,RM|LM,77,21,18,86,Club Brugge KV
+238160,Merih Demiral,Turkey,CB,77,22,48,86,Juventus
+238067,Nicolò Zaniolo,Italy,RM|CAM,77,21,153,87,Roma
+237715,Patrick Cutrone,Italy,ST,77,22,36,86,Fiorentina
+237692,Phil Foden,England,CM|CAM,77,20,104,89,Manchester City
+237556,Christian Luyindama,DR Congo,CB|CDM,77,26,2,80,Galatasaray SK
+237183,Matías Rojas,Paraguay,LM|CM|LW,77,24,4,83,Racing Club
+237135,Davidson,Brazil,LW,77,29,1,77,Vitória Guimarães
+236786,Martin Terrier,France,ST|LW,77,23,9,83,Olympique Lyonnais
+236690,Michael Ngadeu,Cameroon,CB,77,29,0,77,KAA Gent
+236593,Calvin Stengs,Netherlands,RW,77,21,20,86,AZ
+236496,Mattéo Guendouzi,France,CDM|CM,77,21,63,86,Arsenal
+236461,Jean-Philippe Mateta,France,ST,77,23,12,84,1. FSV Mainz 05
+236441,Fabricio Bustos,Argentina,RWB|RB|RM|RW,77,24,12,82,Independiente
+234777,Zack Steffen,United States,GK,77,25,6,82,Fortuna Düsseldorf
+234396,Alphonso Davies,Canada,LB|RM|LM,77,19,178,88,FC Bayern München
+234226,Bruno Viana,Brazil,CB,77,25,4,81,SC Braga
+234045,Henry Onyekuru,Nigeria,ST|LM,77,23,11,84,Galatasaray SK
+233927,Lucas Paquetá,Brazil,CM|CAM,77,22,58,84,Milan
+233738,Zubeldia,Spain,CB|CDM|CM,77,23,6,83,Real Sociedad
+233195,Xaver Schlager,Austria,CDM|CM|CAM,77,22,6,84,VfL Wolfsburg
+232862,Shoya Nakajima,Japan,LM|LW,77,25,10,80,FC Porto
+232756,Fikayo Tomori,England,CB,77,22,47,86,Chelsea
+232656,Theo Hernández,France,LB,77,22,63,83,Milan
+232381,Wesley,Brazil,ST,77,23,11,83,Aston Villa
+232104,Daniel James,Wales,RM|LM,77,22,76,83,Manchester United
+232099,Marko Grujic,Serbia,CDM|CM,77,24,3,84,Hertha BSC
+231887,Yusuf Yazici,Turkey,RM|CAM,77,23,9,82,LOSC Lille
+231447,Donyell Malen,Netherlands,ST|LW,77,21,26,86,PSV
+231361,Joris Gnagnon,France,CB,77,23,8,81,Stade Rennais FC
+231340,Gonzalo Montiel,Argentina,RWB|RB|RW,77,23,19,84,River Plate
+230524,Formosandrinho,Brazil,ST|CF,77,28,0,77,Botafogo
+230475,Adilson Edrada,Brazil,CAM,77,28,2,77,Santos
+230463,Simão Acunha,Brazil,CAM|CF,77,32,5,77,Atlético Mineiro
+230402,Muo Cadete,Brazil,LM,77,20,1,79,Palmeiras
+230373,Nicolás Filhei,Brazil,CM|CAM,77,24,0,79,São Paulo
+230349,Rodrigo Vuarte,Brazil,CDM,77,28,0,77,São Paulo
+230346,Jadsinho Mei,Brazil,CDM|CM,77,24,1,79,Flamengo
+230331,Wagner Laranjo,Brazil,CDM|CM,77,36,0,77,Palmeiras
+230206,Wellington Sabrão,Brazil,RB|LB,77,32,1,77,Flamengo
+230183,Gazzolisco,Brazil,LB|LWB|LM|LW,77,20,6,77,Internacional
+230182,Lucas Mantela,Brazil,GK,77,20,1,79,Palmeiras
+230147,Falaye Sacko,Mali,RB,77,25,6,82,Vitória Guimarães
+229764,Córdoba,Spain,LW,77,23,4,83,Athletic Club
+229582,Gianluca Mancini,Italy,CB|CDM,77,24,10,83,Roma
+229517,Toni Villa,Spain,LM|CAM,77,25,1,80,R. Valladolid CF
+228708,Lucas Martínez Quarta,Argentina,CB,77,24,12,85,River Plate
+228635,Borja Mayoral,Spain,ST,77,23,20,83,Levante UD
+228413,Emil Audero,Italy,GK,77,23,10,87,Sampdoria
+227275,Agustín Rossi,Argentina,GK,77,24,5,82,Club Atlético Lanús
+227127,Álex Remiro,Spain,GK,77,25,3,83,Real Sociedad
+226627,Takumi Minamino,Japan,ST|RM|CAM,77,25,30,80,Liverpool
+226515,Andrei Girotto,Brazil,CB|CDM,77,28,2,77,FC Nantes
+226491,Kieran Tierney,Scotland,LB,77,23,68,86,Arsenal
+226380,Hwang Hee Chan,Korea Republic,ST,77,24,6,82,FC Red Bull Salzburg
+226378,Ramón Ábila,Argentina,ST,77,30,2,77,Boca Juniors
+226377,Gonzalo Martínez,Argentina,CAM|CF|RW,77,27,7,80,Atlanta United
+226221,Aritz Elustondo,Spain,RB|CB,77,26,3,81,Real Sociedad
+226162,Emiliano Buendía,Argentina,RM,77,23,21,83,Norwich City
+225659,Guido Rodríguez,Argentina,CDM|CM,77,25,5,79,Real Betis
+225403,Irfan Can Kahveci,Turkey,CM|CAM,77,25,5,82,Medipol Basaksehir FK
+225201,Alex Berenguer,Spain,LM|CF|LW,77,25,10,82,Torino
+225024,Mason Holgate,England,RB|CB,77,23,15,81,Everton
+224540,Emmanuel Boateng,Ghana,ST,77,24,3,84,Dalian YiFang FC
+224396,Yeimar Gómez Andrade,Colombia,CB,77,28,0,79,Seattle Sounders FC
+224394,Fábio Martins,Portugal,CF|LW,77,27,0,78,Futebol Clube de Famalicão
+224221,Joachim Andersen,Denmark,CB,77,24,4,83,Olympique Lyonnais
+224196,Ramy Bensebaini,Algeria,LB|CB,77,25,4,81,Borussia Mönchengladbach
+224116,Dyego Sousa,Portugal,ST,77,30,4,77,SL Benfica
+224031,Adam Marušic,Montenegro,RM,77,27,3,77,Lazio
+224030,Maxime Lopez,France,CM,77,22,10,80,Olympique de Marseille
+223249,Gabriel Arias,Chile,GK,77,32,0,77,Racing Club
+223245,Brian Fernández,Argentina,ST|RM,77,25,6,80,Colón de Santa Fe
+223197,Enes Ünal,Turkey,ST,77,23,12,83,R. Valladolid CF
+223058,Daler Kuzyaev,Russia,CDM|RM|CM,77,27,6,78,Free Agents
+222715,Otávio,Brazil,CDM|CM,77,26,0,79,FC Girondins de Bordeaux
+222368,Anton Miranchuk,Russia,RM|CAM,77,24,3,84,Lokomotiv Moscow
+222357,Breel Embolo,Switzerland,ST|CAM,77,23,25,84,Borussia Mönchengladbach
+222134,Tarek Hamed,Egypt,CDM|CM,77,31,3,77,Free Agents
+222077,Manuel Locatelli,Italy,CDM|CM,77,22,19,84,Sassuolo
+221540,Raúl,Brazil,CB,77,30,0,77,SC Braga
+220710,Harry Wilson,Wales,RM|CM,77,23,15,84,AFC Bournemouth
+220604,Jaume,Spain,GK,77,29,3,79,Valencia CF
+220414,Diego Rico,Spain,LB,77,27,2,78,AFC Bournemouth
+220132,Zaldúa,Spain,RB,77,28,0,78,Real Sociedad
+219862,Miguel Borja,Colombia,ST,77,27,3,78,Junior FC
+219789,Hamari Traoré,Mali,RWB|RB|RW,77,28,5,77,Stade Rennais FC
+219733,Ludovic Ajorque,France,ST,77,26,5,80,RC Strasbourg Alsace
+219576,Rodrigo Battaglia,Argentina,CDM|CM,77,29,1,77,Sporting CP
+219455,Jonathan Calleri,Argentina,ST,77,26,8,80,RCD Espanyol
+219391,Gonzalo Escalante,Argentina,CDM|CM,77,27,3,80,SD Eibar
+219145,Guillermo Maripán,Chile,CB,77,26,3,79,AS Monaco Football Club SA
+218339,Mahmoud Dahoud,Germany,CDM|CM,77,24,21,81,Borussia Dortmund
+217546,Sequeira,Portugal,LWB|LW,77,29,0,77,SC Braga
+217235,Zainadine,Mozambique,CB,77,32,1,77,Marítimo
+217196,José Luis Palomino,Argentina,CB,77,30,13,77,Atalanta
+217036,Álex Moreno,Spain,LB|LWB|LM|LW,77,27,13,80,Real Betis
+216820,Moses Simon,Nigeria,ST|RM|LM,77,25,9,82,FC Nantes
+216816,Giovanni Simeone,Argentina,ST,77,25,18,84,Cagliari
+216549,Alexander Sørloth,Norway,ST,77,24,16,81,Trabzonspor
+216466,Wendell,Brazil,LB,77,27,11,80,Bayer 04 Leverkusen
+216373,Marcelo Goiano,Brazil,RB|CB,77,32,0,77,Sivasspor
+216054,Nery Domínguez,Argentina,CB|CDM,77,30,0,77,Racing Club
+215455,Bruno Petkovic,Croatia,ST|CAM,77,25,6,81,Dinamo Zagreb
+215162,Alejandro Donatti,Argentina,CB,77,33,0,77,San Lorenzo de Almagro
+215051,Lisandro López,Argentina,CB,77,30,2,77,Boca Juniors
+214977,Matías Kranevitter,Argentina,CDM|CM,77,27,5,81,Monterrey
+214781,Silvio Romero,Argentina,ST|RM|RW,77,32,2,77,Independiente
+214040,Frank Fabra,Colombia,LB,77,29,5,77,Boca Juniors
+214009,Gustavo Cuéllar,Colombia,CDM,77,27,3,80,Al Hilal
+213991,Jefferson Lerma,Colombia,CDM|CM,77,25,12,80,AFC Bournemouth
+213899,Éder Balanta,Colombia,CB|CDM|CM,77,27,7,80,Club Brugge KV
+213655,Alex Iwobi,Nigeria,LM,77,24,18,81,Everton
+213629,Erick Pulgar,Chile,CDM|CM,77,26,24,81,Fiorentina
+213400,Diego Laxalt,Uruguay,LM,77,27,13,77,Milan
+213388,Flavien Tait,France,LM|LW,77,27,2,77,Stade Rennais FC
+213013,Frank Acheampong,Ghana,ST|LW,77,26,11,80,Tianjin TEDA FC
+212602,Diego Llorente,Spain,CB,77,26,9,82,Real Sociedad
+212300,Jack O'Connell,England,CB,77,26,7,81,Sheffield United
+212213,Ricardo Esgaio,Portugal,RWB|RW,77,27,1,78,SC Braga
+212204,Brandon Mechele,Belgium,CB,77,27,0,79,Club Brugge KV
+212183,Nacho,Spain,LB,77,31,1,77,R. Valladolid CF
+212096,Vincenzo Grifo,Italy,LM|CF,77,27,4,77,Sport-Club Freiburg
+212067,Camilo Vargas,Colombia,GK,77,31,5,77,Club Atlas
+211368,Bruma,Portugal,RW|LW,77,25,30,78,PSV
+211267,Ricardo Centurión,Argentina,LM|RW|LW,77,27,11,77,Vélez Sarsfield
+211147,Valentino Lazaro,Austria,RWB|RB|RM|RW,77,24,19,82,Newcastle United
+211093,Callum McGregor,Scotland,CDM|CM|CAM,77,27,3,79,Celtic
+210881,John McGinn,Scotland,CM,77,25,4,82,Aston Villa
+210761,Rodolfo Pizarro,Mexico,LM|CM|CAM,77,26,7,80,Free Agents
+210679,Paulo Oliveira,Portugal,CB,77,28,0,78,SD Eibar
+210625,Kevin Mbabu,Switzerland,RB,77,25,13,82,VfL Wolfsburg
+209981,Yassine Bounou,Morocco,GK,77,29,2,78,Sevilla FC
+209519,Gaëtan Laborde,France,ST,77,26,1,80,Montpellier Hérault SC
+209236,Guilherme,Brazil,CDM|CM,77,29,1,77,Olympiacos CFP
+208622,Rubén Sobrino,Spain,ST|RM,77,28,4,77,Valencia CF
+208520,Hiroki Sakai,Japan,RB|LB,77,30,3,77,Olympique de Marseille
+208449,Christophe Hérelle,France,RB|CB,77,27,1,78,OGC Nice
+208364,Clinton Mata,Angola,RB|CB|RM,77,27,4,79,Club Brugge KV
+208230,Andreas Samaris,Greece,CDM|CM,77,31,1,77,SL Benfica
+207993,Sead Kolašinac,Bosnia & Herzegovina,LB|LWB|LW,77,27,14,80,Arsenal
+207948,Bertrand Traoré,Burkina Faso,RM|RW,77,24,6,81,Olympique Lyonnais
+207939,Guido Pizarro,Argentina,CDM|CM,77,30,3,77,Tigres U.A.N.L.
+206652,Sergio Rico,Spain,GK,77,26,7,79,Paris Saint-Germain
+206493,Yunis Abdelhamid,Morocco,CB,77,32,1,77,Stade de Reims
+206058,Mattia De Sciglio,Italy,RB|LB,77,27,22,78,Juventus
+205855,Marko Livaja,Croatia,ST|CAM|CF,77,26,1,79,AEK Athens
+205850,Leonardo Pavoletti,Italy,ST,77,31,7,77,Cagliari
+205431,Niclas Füllkrug,Germany,ST,77,27,2,78,SV Werder Bremen
+205427,Djaniny,Cape Verde,ST|RM|CAM,77,29,1,77,Al Ahli
+205391,Soualiho Meïté,France,CDM|CM,77,26,0,80,Torino
+205186,Paulo Gazzaniga,Argentina,GK,77,28,7,80,Tottenham Hotspur
+205083,Fayçal Fajr,Morocco,CDM|CM,77,31,0,77,Getafe CF
+204936,John Egan,Republic of Ireland,CB,77,27,9,79,Sheffield United
+204691,Mauricio Pereyra,Uruguay,CM|CAM|RW,77,30,2,77,Orlando City Soccer Club
+204538,Raúl Ruidíaz,Peru,ST,77,30,5,77,Seattle Sounders FC
+204497,Kevin Stöger,Austria,CM|CAM,77,26,2,78,Fortuna Düsseldorf
+204308,Hendrik Van Crombrugge,Belgium,GK,77,27,0,80,RSC Anderlecht
+204125,Jan Boril,Czech Republic,RB|LB|CB,77,29,3,77,SK Slavia Praha
+204082,John Brooks,United States,CB,77,27,10,80,VfL Wolfsburg
+203106,Leonardo Bittencourt,Germany,RM|CM|CAM,77,26,5,79,SV Werder Bremen
+203030,Robin Knoche,Germany,CB,77,28,2,79,VfL Wolfsburg
+202849,Jannik Vestergaard,Denmark,CB,77,27,8,78,Southampton
+202429,Danny da Costa,Germany,RWB|RB|RM|RW,77,27,7,79,Eintracht Frankfurt
+202054,Naldo,Brazil,CB,77,31,3,77,RCD Espanyol
+201939,Cristiano Piccini,Italy,RB,77,27,3,78,Valencia CF
+201860,Ermin Bicakcic,Bosnia & Herzegovina,CB,77,30,0,77,TSG 1899 Hoffenheim
+201858,Nicola Sansone,Italy,ST|CAM|LW,77,28,2,77,Bologna
+201262,Vladimír Darida,Czech Republic,CDM|CM|CAM,77,29,2,77,Hertha BSC
+201144,Milan Badelj,Croatia,CDM|CM,77,31,1,77,Fiorentina
+200353,Adama Soumaoro,France,CB,77,28,5,80,Genoa
+200318,Mark Uth,Germany,ST|CAM|CF,77,28,5,77,1. FC Köln
+200228,Bruno,Spain,CB,77,30,0,77,Levante UD
+200094,Magomed Ozdoev,Russia,CDM|CM,77,27,2,78,Free Agents
+200054,Pedro Obiang,Equatorial Guinea,CDM|CM,77,28,1,78,Sassuolo
+199833,Lars Unnerstall,Germany,GK,77,30,2,78,PSV
+199652,Dennis Praet,Belgium,CM|CAM,77,26,7,80,Leicester City
+198949,Kévin Malcuit,France,RB|RM,77,28,13,77,Napoli
+198946,Danilo D'Ambrosio,Italy,RB|LB|CB,77,31,11,77,Inter
+198719,Nathan Redmond,England,LM|CF,77,26,3,78,Southampton
+198658,Fredrik Midtsjø,Norway,CDM|CM,77,26,1,79,AZ
+198657,Jonas Svensson,Norway,RB,77,27,3,78,AZ
+198513,Cláudio Ramos,Portugal,GK,77,28,3,80,CD Tondela
+198368,Tomás Pina,Spain,CDM|CM,77,32,0,77,D. Alavés
+198230,Germán,Spain,CB,77,33,0,77,Granada CF
+198140,Rogelio Funes Mori,Argentina,ST,77,29,4,77,Monterrey
+197837,Dedryck Boyata,Belgium,CB,77,29,3,77,Hertha BSC
+197756,Jordan Ayew,Ghana,ST|RM,77,28,6,77,Crystal Palace
+195202,Tom Cairney,Scotland,CM|CAM,77,29,6,77,Fulham
+194958,Aaron Mooy,Australia,CM|CAM,77,29,4,77,Brighton & Hove Albion
+194957,Phil Jones,England,CB,77,28,15,77,Manchester United
+194932,Andros Townsend,England,ST|RM|RW,77,29,1,77,Crystal Palace
+194845,Wahbi Khazri,Tunisia,ST|CAM,77,29,6,77,AS Saint-Étienne
+194229,Hugo Mallo,Spain,RB,77,29,2,77,RC Celta
+194209,Youssef El Arabi,Morocco,ST,77,33,2,77,Olympiacos CFP
+193886,Daniel Didavi,Germany,CAM|CF,77,30,1,77,VfB Stuttgart
+193532,Gary Medel,Chile,CB|CDM,77,32,11,77,Bologna
+193158,Davy Pröpper,Netherlands,CDM|CM,77,28,7,77,Brighton & Hove Albion
+193061,Roberto Pereyra,Argentina,LM,77,29,5,77,Watford
+193011,Steve Cook,England,CB,77,29,1,77,AFC Bournemouth
+192722,Romain Hamouma,France,RM|CF|RW,77,33,0,77,AS Saint-Étienne
+192708,Carlos Eduardo,Brazil,LM|CAM,77,30,2,77,Al Hilal
+192546,Enda Stevens,Republic of Ireland,LWB|LW,77,30,4,77,Sheffield United
+191076,Jóhann Berg Gu?mundsson,Iceland,RM|LM,77,29,6,77,Burnley
+191053,Tomás Rincón,Venezuela,CDM|CM,77,32,3,77,Torino
+190778,Jeroen Zoet,Netherlands,GK,77,29,4,78,FC Utrecht
+190745,Marco Silvestri,Italy,GK,77,29,5,77,Hellas Verona
+190362,Teemu Pukki,Finland,ST,77,30,62,77,Norwich City
+190149,De Marcos,Spain,RB|RW,77,31,2,77,Athletic Club
+190113,Mert Günok,Turkey,GK,77,31,6,77,Medipol Basaksehir FK
+189681,Rafael,Brazil,RB,77,30,6,77,Olympique Lyonnais
+189506,Victor Sánchez,Spain,RB|CDM|CM,77,32,1,77,RCD Espanyol
+189461,Jack Wilshere,England,CDM|CM|CAM,77,28,12,77,West Ham United
+189423,Souza,Brazil,CDM|CM,77,31,3,77,Al Ahli
+189324,Alex McCarthy,England,GK,77,30,0,77,Southampton
+189280,Ashley Westwood,England,CM,77,30,1,77,Burnley
+189177,John Fleck,Scotland,CM,77,28,2,77,Sheffield United
+188955,Gustavo Bou,Argentina,ST|CAM,77,30,1,77,New England Revolution
+188770,Admir Mehmedi,Switzerland,CF|RW|LW,77,29,1,77,VfL Wolfsburg
+188388,Ryad Boudebouz,Algeria,RM|CAM,77,30,2,77,AS Saint-Étienne
+188268,Lautaro Acosta,Argentina,ST|RW|LW,77,32,1,77,Club Atlético Lanús
+188103,Rochina,Spain,RM|CM|CAM,77,29,1,77,Levante UD
+187735,Alan Dzagoev,Russia,CDM|CM|CAM,77,30,12,77,PFC CSKA Moscow
+187570,Douglas,Brazil,GK,77,37,3,77,Vitória Guimarães
+186801,Cheikhou Kouyaté,Senegal,CDM|CM,77,30,3,77,Crystal Palace
+186682,Montoro,Spain,CDM,77,32,0,77,Granada CF
+186143,Oliver Norwood,Northern Ireland,CM,77,29,7,77,Sheffield United
+184949,Mariano,Brazil,RB,77,34,1,77,Galatasaray SK
+184858,Alan Kardec,Brazil,ST|RW|LW,77,31,2,77,Chongqing Dangdai Lifan FC SWM Team
+184252,Lucas Pratto,Argentina,ST,77,32,4,77,River Plate
+184069,Sandro Wagner,Germany,ST,77,32,8,77,Tianjin TEDA FC
+183855,Angelo Ogbonna,Italy,CB,77,32,5,77,West Ham United
+183580,Nils Petersen,Germany,ST,77,31,3,77,Sport-Club Freiburg
+183427,Fabian Delph,England,LB|CDM|CM,77,30,6,77,Everton
+183285,Mamadou Sakho,France,CB,77,30,5,77,Crystal Palace
+183129,Ciaran Clark,Republic of Ireland,CB,77,30,4,77,Newcastle United
+183125,Troy Deeney,England,ST,77,32,13,77,Watford
+182941,Pablo Aguilar,Paraguay,CB,77,33,2,77,Cruz Azul
+182495,Martín Cáceres,Uruguay,RB|CB,77,33,12,77,Fiorentina
+180334,Marcelo,Brazil,CB,77,33,3,77,Olympique Lyonnais
+179789,Damien Da Silva,France,CB,77,32,1,77,Stade Rennais FC
+179560,Miralem Sulejmani,Serbia,LM,77,31,3,77,BSC Young Boys
+179527,Loïc Rémy,France,ST,77,33,7,77,LOSC Lille
+178255,Ryan Donk,Netherlands,CB|CDM,77,34,2,77,Galatasaray SK
+177553,Vieirinha,Portugal,RB|RM|LM,77,34,3,77,PAOK
+176733,Marcus Berg,Sweden,ST|CF,77,33,8,77,Free Agents
+176104,Valter Birsa,Slovenia,CAM|RW,77,33,0,77,Cagliari
+175895,Vadis Odjidja-Ofoe,Belgium,CDM|CM,77,31,1,77,KAA Gent
+174543,Claudio Bravo,Chile,GK,77,37,15,77,Manchester City
+173818,Adrián López,Spain,ST|LM,77,32,3,77,CA Osasuna
+173546,James Tomkins,England,CB,77,31,1,77,Crystal Palace
+173474,Zlatko Junuzovic,Austria,LM|CM|CAM,77,32,2,77,FC Red Bull Salzburg
+172862,Niklas Moisander,Finland,CB,77,34,2,77,SV Werder Bremen
+172287,Manu García,Spain,CDM|CM,77,34,2,77,D. Alavés
+171828,Ignacio Scocco,Argentina,ST,77,35,0,77,River Plate
+169705,Ryan Bertrand,England,LB|LWB|LW,77,30,5,77,Southampton
+167905,Antonio Valencia,Ecuador,RB|CDM,77,34,11,77,LDU Quito
+164376,Graziano Pellè,Italy,ST,77,35,2,77,Shandong Luneng TaiShan FC
+163301,Jonathan Orozco,Mexico,GK,77,34,1,77,Santos Laguna
+161754,Javi García,Spain,CB|CDM|CM,77,33,5,77,Real Betis
+160741,David Abraham,Argentina,CB,77,34,3,77,Eintracht Frankfurt
+158133,Jefferson Farfán,Peru,ST|RM,77,35,6,77,Lokomotiv Moscow
+157304,Thomas Vermaelen,Belgium,CB,77,34,6,77,Vissel Kobe
+155946,Robert Snodgrass,Scotland,RM|CM,77,32,2,77,West Ham United
+153177,Mauro Zárate,Argentina,ST|CAM|CF,77,33,6,77,Boca Juniors
+146963,Javier Pinola,Argentina,CB,77,37,2,77,River Plate
+146952,Iván Cuéllar,Spain,GK,77,36,3,77,CD Leganés
+142902,Andriy Pyatov,Ukraine,GK,77,36,0,77,Shakhtar Donetsk
+137351,Daniel Baier,Germany,CDM|CM,77,36,1,77,FC Augsburg
+80,Emre Belözoglu,Turkey,CDM|CM,77,39,6,77,Fenerbahçe SK
+251698,Kevin Berlaso,Ecuador,RB,76,32,0,76,Free Agents
+251692,Alexander Aguilmera,Ecuador,CB,76,34,0,76,Free Agents
+251691,Alan Zamorado,Ecuador,LM,76,39,0,76,Free Agents
+247263,Edmond Tapsoba,Burkina Faso,CB,76,21,17,86,Bayer 04 Leverkusen
+247030,Petr Ševcík,Czech Republic,CDM|RM|CM,76,26,0,79,SK Slavia Praha
+246960,Mohamed Ihattaren,Netherlands,CAM|RW,76,18,34,88,PSV
+245327,Ángelo Damián Vera,Uruguay,ST|CF,76,32,0,76,Free Agents
+245326,Mauro Agustín Fagundez,Uruguay,CDM,76,36,0,76,Free Agents
+245322,Guillermo Luis Ichazo,Uruguay,RB|LB|CB,76,28,2,76,Free Agents
+244467,Ondrej Kolár,Czech Republic,GK,76,25,2,81,SK Slavia Praha
+244316,Luís Maximiano,Portugal,GK,76,21,20,86,Sporting CP
+243780,Kangin Lee,Korea Republic,RM|LM|CAM,76,19,33,86,Valencia CF
+240716,Mathías Olivera,Uruguay,LB|LM,76,22,7,84,Getafe CF
+240702,Roman Yaremchuk,Ukraine,ST|LM,76,24,2,80,KAA Gent
+240190,Kunde Malong,Cameroon,CDM|CM,76,25,5,81,1. FSV Mainz 05
+239837,Alexis Mac Allister,Argentina,CM|CAM|LW,76,21,20,86,Brighton & Hove Albion
+239015,Emmanuel Dennis,Nigeria,ST|RW|LW,76,22,6,83,Club Brugge KV
+238744,Weston McKennie,United States,CB|CDM|CM,76,21,18,86,FC Schalke 04
+238095,Nikola Milenkovic,Serbia,RB|CB,76,22,28,83,Fiorentina
+237819,Nicolás Domínguez,Argentina,CDM|CM,76,22,22,88,Bologna
+237629,Arne Maier,Germany,CDM|CM,76,21,9,85,Hertha BSC
+237604,Alan Franco,Argentina,RB|CB,76,23,12,83,Independiente
+237207,Samuel Kalu,Nigeria,RM|LM|RW,76,22,7,81,FC Girondins de Bordeaux
+236791,Antonín Barák,Czech Republic,CM|CAM,76,25,4,79,Lecce
+236639,Xeka,Portugal,CDM|CM,76,25,3,81,LOSC Lille
+236532,Robin Koch,Germany,CB|CDM,76,24,5,80,Sport-Club Freiburg
+236506,Marcos Senesi,Argentina,CB,76,23,6,85,Feyenoord
+236401,Noussair Mazraoui,Morocco,RB|CM,76,22,12,82,Ajax
+236311,Marko Rog,Croatia,CM,76,25,7,80,Cagliari
+236295,Aarón Martín,Spain,LB,76,23,6,83,1. FSV Mainz 05
+235997,Fran Beltrán,Spain,CDM|CM|CAM,76,21,7,84,RC Celta
+235944,Brais Méndez,Spain,RM|LM,76,23,6,85,RC Celta
+235866,Christian Kouamé,Ivory Coast,ST|CF,76,22,13,83,Fiorentina
+235844,Edson Álvarez,Mexico,CB|CDM,76,22,18,83,Ajax
+235134,Pablo Rosario,Netherlands,CDM|CM,76,23,2,82,PSV
+234711,Josip Brekalo,Croatia,LM|LW,76,22,4,84,VfL Wolfsburg
+234678,Joakim Mæhle,Denmark,RB,76,23,12,83,KRC Genk
+234573,Aurélio Buta,Portugal,RB|RM,76,23,12,82,Royal Antwerp FC
+234569,Florentino,Portugal,CDM|CM,76,20,30,86,SL Benfica
+234128,Luiz Araújo,Brazil,RM|LM,76,24,9,83,LOSC Lille
+233866,Odsonne Edouard,France,ST,76,22,38,85,Celtic
+233631,Amath Ndiaye,Senegal,LM,76,24,10,83,Getafe CF
+233556,Riccardo Orsolini,Italy,RM|CAM|RW,76,23,19,85,Bologna
+233265,Rémi Oudin,France,RM|CAM,76,23,1,80,FC Girondins de Bordeaux
+232999,Tyler Adams,United States,RWB|CDM|RW,76,21,27,86,RB Leipzig
+232244,Santiago Ascacíbar,Argentina,CDM|CM,76,23,6,82,Hertha BSC
+232229,Justin Bijlow,Netherlands,GK,76,22,1,84,Feyenoord
+232144,Felix Uduokhai,Germany,CB,76,22,2,81,FC Augsburg
+231416,Dodi Lukébakio,Belgium,ST|RM|LM,76,22,8,82,Hertha BSC
+231102,Ludovic Blas,France,RM|CAM,76,22,8,83,FC Nantes
+230727,Gautier Larsonneur,France,GK,76,23,0,82,Stade Brestois 29
+230613,Amadou Diawara,Guinea,CDM|CM,76,23,8,82,Roma
+230578,Mouctar Diakhaby,France,CB,76,23,5,81,Valencia CF
+230528,Rafael Cachoira,Brazil,CB|CDM,76,20,1,76,Fortaleza
+230502,Dênildo Stein,Brazil,ST|CF,76,36,0,76,Cruzeiro
+230453,David Seijalbo,Brazil,CDM,76,24,1,76,Cruzeiro
+230401,Duirval Diniz,Brazil,RB|CB,76,24,1,76,Club Athletico Paranaense
+230388,Davi Parrela,Brazil,CB|CDM,76,20,2,76,Avaí
+230371,Victildinho,Brazil,RB|RM,76,24,0,76,Goiás
+230355,Rubens Freitosa,Brazil,CM,76,36,1,76,Palmeiras
+230337,Andeson Trigo,Brazil,LB|LM|CAM,76,32,1,76,Fluminense
+230328,Pierrino Faria,Brazil,GK,76,36,0,76,Santos
+230318,Nelsildo Reis,Brazil,GK,76,20,4,76,Botafogo
+230317,Fred Aníbão,Brazil,GK,76,28,0,76,Club Athletico Paranaense
+230295,Cris Laranjeiros,Brazil,CB,76,28,1,76,São Paulo
+230250,Emilio Piodão,Brazil,CDM|CM,76,28,1,76,Bahia
+230241,Enzo Chissano,Brazil,RB|LB|CB,76,28,1,76,Palmeiras
+230230,Eltildo Correia,Brazil,RB|LB|CB,76,28,3,76,Atlético Mineiro
+230224,Juli Freitinho,Brazil,CB,76,20,0,76,Bahia
+230197,Alexo Baia,Brazil,RB|RM,76,32,1,76,Cruzeiro
+229862,Edu Expósito,Spain,CDM|CM|CAM,76,23,2,84,SD Eibar
+229712,Jorge,Brazil,LB,76,24,5,80,AS Monaco Football Club SA
+229636,Gastón Pereiro,Uruguay,CAM|RW,76,25,5,80,Cagliari
+228881,Davide Calabria,Italy,RB,76,23,27,82,Milan
+228819,Matías Vargas,Argentina,LM|CAM|LW,76,23,10,85,RCD Espanyol
+228747,Oussama Idrissi,Morocco,LW,76,24,5,81,AZ
+228579,Benjamin Henrichs,Germany,RB|LB|RM,76,23,10,80,AS Monaco Football Club SA
+228414,Matheus Pereira,Brazil,RM|LM|CAM,76,24,13,82,West Bromwich Albion
+228302,Pedraza,Spain,LB|LWB|LM|LW,76,24,3,81,Real Betis
+228295,Rob Holding,England,CB,76,24,16,83,Arsenal
+228229,Fabián Balbuena,Paraguay,CB,76,28,3,77,West Ham United
+227772,Gastón Giménez,Argentina,CB|CDM|CM,76,29,2,76,Chicago Fire Soccer Club
+227236,André-Franck Zambo Anguissa,Cameroon,CDM|CM,76,24,10,82,Villarreal CF
+227234,Lucas Tousart,France,CDM|CM,76,23,15,81,Olympique Lyonnais
+227222,Frédéric Guilbert,France,RWB|RB|RW,76,25,3,81,Aston Villa
+226637,Rubén Duarte,Spain,LB,76,24,3,81,D. Alavés
+226537,Vincent Janssen,Netherlands,ST,76,26,10,79,Monterrey
+226379,Marcos Díaz,Argentina,GK,76,34,0,76,Boca Juniors
+226300,Ugurcan Çakir,Turkey,GK,76,24,10,81,Trabzonspor
+226078,Trezeguet,Egypt,RM|RW|LW,76,25,8,79,Aston Villa
+225647,Martín Campaña,Uruguay,GK,76,31,1,76,Independiente
+225439,Rolando Mandragora,Italy,CDM|CM,76,23,4,82,Udinese
+225293,Habib Diallo,Senegal,ST,76,25,1,81,Football Club de Metz
+225161,Vallejo,Spain,CB,76,23,18,82,Granada CF
+225028,Nemanja Radoja,Serbia,CM,76,27,1,77,Levante UD
+225018,Florin Andone,Romania,ST,76,27,4,77,Galatasaray SK
+224933,Kevin Lasagna,Italy,ST,76,27,14,77,Udinese
+224869,Bustinza,Spain,RB|CB,76,28,0,78,CD Leganés
+224490,Mehmet Zeki Çelik,Turkey,RB,76,23,29,82,LOSC Lille
+224425,Marius Wolf,Germany,RB|RM,76,25,5,79,Hertha BSC
+224371,Jarrod Bowen,England,RM,76,23,7,83,West Ham United
+224294,Lewis Cook,England,CM,76,23,6,82,AFC Bournemouth
+224158,Sofyan Amrabat,Morocco,CM,76,23,10,83,Hellas Verona
+224081,Kalvin Phillips,England,CB|CDM,76,24,33,82,Leeds United
+223816,Jonathan Rodríguez,Uruguay,ST|LW,76,27,4,79,Cruz Azul
+223710,Vedat Muriqi,Kosovo,ST,76,26,10,79,Fenerbahçe SK
+223550,Jonas Omlin,Switzerland,GK,76,26,1,81,FC Basel 1893
+223334,Joelinton,Brazil,ST|LM,76,23,9,82,Newcastle United
+223329,Andrea Conti,Italy,RB|RM,76,26,12,79,Milan
+223053,Ángel Mena,Ecuador,RM|CAM|RW,76,32,2,76,Club León
+222501,Timothy Castagne,Belgium,RM|LM,76,24,14,81,Atalanta
+222148,Ondrej Duda,Slovakia,CM|CAM,76,25,7,81,Norwich City
+221714,Alfredo Morelos,Colombia,ST,76,24,13,85,Rangers FC
+221697,Ollie Watkins,England,ST|RW|LW,76,24,17,81,Brentford
+221174,Mislav Oršic,Croatia,ST|LM|LW,76,27,8,76,Dinamo Zagreb
+220714,Philip Billing,Denmark,CM,76,24,8,82,AFC Bournemouth
+220621,Saïd Benrahma,Algeria,RM|RW|LW,76,24,29,81,Brentford
+220334,Óscar Romero,Paraguay,ST|RM|CAM,76,28,1,76,San Lorenzo de Almagro
+220196,David Brooks,Wales,RM,76,23,18,84,AFC Bournemouth
+220085,Luca Waldschmidt,Germany,ST|CF,76,24,7,81,Sport-Club Freiburg
+219953,Embarba,Spain,ST|RM|LM,76,28,0,76,RCD Espanyol
+219681,Jordan Amavi,France,LB,76,26,7,79,Olympique de Marseille
+219571,Camarasa,Spain,RM|CM|CAM,76,26,4,80,D. Alavés
+218154,Khama Billiat,Zimbabwe,ST|CAM|RW,76,29,1,76,Kaizer Chiefs
+216778,Rúben Semedo,Portugal,CB|CDM,76,26,5,80,Olympiacos CFP
+216774,Wesley Hoedt,Netherlands,CB,76,26,8,79,Royal Antwerp FC
+216700,Maximiliano Meza,Argentina,RM|CAM|LW,76,27,5,76,Monterrey
+216320,Seko Fofana,Ivory Coast,CDM|CM,76,25,12,80,Udinese
+216266,Kenny Tete,Netherlands,RB,76,24,7,80,Olympique Lyonnais
+216158,Silvan Widmer,Switzerland,RB,76,27,1,77,FC Basel 1893
+216065,Marco Sportiello,Italy,GK,76,28,1,76,Atalanta
+215798,Maxwel Cornet,Ivory Coast,LWB|RW|LW,76,23,11,82,Olympique Lyonnais
+215639,Kenedy,Brazil,LM,76,24,14,82,Getafe CF
+215616,Jason,Spain,RM,76,26,2,79,Getafe CF
+215245,Adrien Hunou,France,ST|LM,76,26,4,79,Stade Rennais FC
+215147,Lautaro Giannetti,Argentina,CB,76,26,0,81,Vélez Sarsfield
+215123,Alan Aguerre,Argentina,GK,76,29,0,78,Newell's Old Boys
+214988,Leonel Miranda,Argentina,CDM|CM,76,26,1,79,Racing Club
+213884,Ryan Christie,Scotland,RM|CM|CAM,76,25,3,80,Celtic
+213814,Federico Di Francesco,Italy,CF|RW|LW,76,26,3,79,SPAL
+213732,Alexandr Selikhov,Russia,GK,76,26,3,79,Spartak Moscow
+213374,Aderllan Santos,Brazil,CB,76,31,0,76,Rio Ave FC
+213296,Nabil Bentaleb,Algeria,CDM|CM|CAM,76,25,2,80,Newcastle United
+213051,Mohamed Elneny,Egypt,CDM|CM,76,28,7,77,Besiktas JK
+212911,Hernâni,Portugal,RM|LM,76,28,1,76,Levante UD
+212678,Ludwig Augustinsson,Sweden,LB|LWB|LM|LW,76,26,4,79,SV Werder Bremen
+212626,Davie Selke,Germany,ST,76,25,3,81,SV Werder Bremen
+212491,Arthur Masuaku,DR Congo,LB|LWB|LW,76,26,8,78,West Ham United
+212245,Yannick Gerhardt,Germany,CM,76,26,0,79,VfL Wolfsburg
+212207,Nicolae Stanciu,Romania,RM|CM|CAM,76,27,2,79,SK Slavia Praha
+212196,Pione Sisto,Denmark,LM|LW,76,25,5,79,RC Celta
+212150,Max Meyer,Germany,LM|CM,76,24,15,79,Crystal Palace
+211784,Neal Maupay,France,ST,76,23,12,81,Brighton & Hove Albion
+211706,Pere Pons,Spain,CDM|CM,76,27,0,77,D. Alavés
+211408,Karol Linetty,Poland,CM,76,25,8,80,Sampdoria
+211382,Ibrahim Amadou,France,CB|CDM,76,27,3,79,CD Leganés
+211354,Marco Benassi,Italy,CM,76,25,8,79,Fiorentina
+211101,Rubén Blanco,Spain,GK,76,25,5,83,RC Celta
+211022,Rubén García,Spain,ST|LM|CAM,76,27,3,77,CA Osasuna
+210930,Carles Gil,Spain,RM|CM|CAM,76,27,1,76,New England Revolution
+210537,Renato Steffen,Switzerland,RM|LM|RW,76,28,2,76,VfL Wolfsburg
+210463,Darwin Machís,Venezuela,ST|LM,76,27,3,76,Granada CF
+210423,Albert Rusnák,Slovakia,CAM,76,26,1,80,Real Salt Lake
+210282,Bruno Peres,Brazil,RB|RM,76,30,15,76,Roma
+210212,Garry Rodrigues,Cape Verde,RM|LM,76,29,0,76,Fenerbahçe SK
+209846,Christian Günter,Germany,LB|LWB|LM|LW,76,27,3,77,Sport-Club Freiburg
+209669,Dimitrios Siovas,Greece,CB,76,31,0,76,CD Leganés
+208615,Christopher Jullien,France,CB,76,27,4,79,Celtic
+208451,Robin Quaison,Sweden,ST|LM|CAM,76,26,4,79,1. FSV Mainz 05
+208450,Andreas Pereira,Brazil,RM|CAM,76,24,26,80,Manchester United
+207894,Tobias Strobl,Germany,CB|CDM,76,30,1,76,Borussia Mönchengladbach
+207790,Kaan Ayhan,Turkey,CB,76,25,12,79,Fortuna Düsseldorf
+207733,Filipe Augusto,Brazil,CDM|CM,76,26,5,76,Rio Ave FC
+207707,Marçal,Brazil,LB|CB,76,31,2,76,Olympique Lyonnais
+207562,Sebastian Andersson,Sweden,ST,76,29,5,76,1. FC Union Berlin
+207537,Jordan Lukaku,Belgium,LB|LM,76,26,11,79,Lazio
+207441,Luciano Vietto,Argentina,ST|LW,76,26,14,77,Sporting CP
+206655,Eduardo Vargas,Chile,ST|CAM|CF,76,30,9,76,Tigres U.A.N.L.
+206654,Pablo Marí,Spain,CB,76,26,19,81,Arsenal
+206591,Mitchell Weiser,Germany,RB|RM,76,26,10,79,Bayer 04 Leverkusen
+206198,Dominique Heintz,Germany,CB,76,26,0,78,Sport-Club Freiburg
+206115,Isaac Hayden,England,CDM|CM,76,25,4,83,Newcastle United
+206003,Yvon Mvogo,Switzerland,GK,76,26,8,81,RB Leipzig
+205995,Jetro Willems,Netherlands,LB|LWB|LM|LW,76,26,11,79,Newcastle United
+205989,Calum Chambers,England,RB|CB|CDM,76,25,16,81,Arsenal
+205965,Stefan Ristovski,North Macedonia,RB,76,28,2,76,Sporting CP
+205633,Lucas Castro,Argentina,CM|CAM,76,31,4,76,SPAL
+205566,Alberto Moreno,Spain,LB,76,28,11,77,Villarreal CF
+205469,Solomon Kverkvelia,Georgia,CB,76,28,1,78,Lokomotiv Moscow
+205364,Filip Novák,Czech Republic,LB,76,30,1,76,Trabzonspor
+205193,Karim Rekik,Netherlands,CB,76,25,3,80,Hertha BSC
+205081,Diego Oliveira,Brazil,ST,76,30,4,76,F.C. Tokyo
+204760,Charlie Taylor,England,LB,76,26,1,78,Burnley
+204738,Renato Ibarra,Ecuador,RM,76,29,5,76,Club América
+204472,Bouna Sarr,France,RB|RW,76,28,4,76,Olympique de Marseille
+204366,Jürgen Locadia,Netherlands,ST|LM|LW,76,26,2,79,FC Cincinnati
+204355,Paul Dummett,Wales,LB|CB,76,28,2,77,Newcastle United
+204341,Luís Neto,Portugal,CB,76,32,0,76,Sporting CP
+204240,Baptiste Reynet,France,GK,76,29,0,76,Toulouse Football Club
+203965,Viktor Fischer,Denmark,ST|LM,76,26,6,78,FC København
+203903,Lucas Andersen,Denmark,CM|CF|LW,76,25,6,79,Aalborg BK
+203362,Mohamed Elyounoussi,Norway,RM|LM|CAM,76,25,3,79,Celtic
+202697,Jack Stephens,England,CB,76,26,1,80,Southampton
+202493,Aleix Vidal,Spain,RB|RM,76,30,5,76,D. Alavés
+201976,Alfred Gomis,Senegal,GK,76,26,3,78,Dijon FCO
+201931,Gabriel,Brazil,GK,76,27,3,80,Lecce
+201884,Robbie Brady,Republic of Ireland,RM|LM,76,28,0,76,Burnley
+201510,Layvin Kurzawa,France,LB|LM,76,27,14,77,Paris Saint-Germain
+201389,Cristiano Biraghi,Italy,LB|LM,76,27,4,77,Inter
+201049,Lorenzo Tonelli,Italy,CB,76,30,6,76,Sampdoria
+201046,Riccardo Saponara,Italy,CM|CAM,76,28,2,76,Lecce
+200630,James Forrest,Scotland,RWB|RM|LM|RW,76,29,12,76,Celtic
+200429,Benito Raman,Belgium,ST|RM|LM,76,25,4,79,FC Schalke 04
+200223,Adam Maher,Netherlands,CDM|CM,76,27,3,79,FC Utrecht
+199986,Arbilla,Spain,RB|LB|CB,76,33,0,76,SD Eibar
+199827,Pablo Hernández,Chile,CDM|CM|CAM,76,33,4,76,Independiente
+199767,Marco van Ginkel,Netherlands,CM,76,27,8,77,Chelsea
+199737,Wilson Eduardo,Angola,ST|RW|LW,76,30,3,76,SC Braga
+199667,Ramiro Funes Mori,Argentina,CB,76,29,3,77,Villarreal CF
+199626,André André,Portugal,CDM|CM,76,30,0,76,Vitória Guimarães
+199439,Michael Gregoritsch,Austria,ST|CAM,76,26,2,79,FC Schalke 04
+198683,Manolo Gabbiadini,Italy,ST,76,28,4,76,Sampdoria
+198129,Celso Ortíz,Paraguay,CDM|CM,76,31,2,76,Monterrey
+197891,Juanmi,Spain,ST|LM|LW,76,27,4,77,Real Betis
+196934,Oguzhan Özyakup,Turkey,CDM|CM|CAM,76,27,2,77,Feyenoord
+196899,Héldon,Cape Verde,RM|LM,76,31,0,76,Al Taawoun
+196801,Mexer,Mozambique,CB,76,31,0,76,FC Girondins de Bordeaux
+196150,Teófilo Gutiérrez,Colombia,ST,76,35,2,76,Junior FC
+196147,Giovanni Moreno,Colombia,ST|CAM,76,34,5,76,Shanghai Greenland Shenhua FC
+196143,Dorlan Pabón,Colombia,RM|RW,76,32,3,76,Monterrey
+194911,Adrián,Spain,GK,76,33,9,76,Liverpool
+194665,Stefan Ilsanker,Austria,CB|CDM,76,31,1,76,Eintracht Frankfurt
+194644,Montoya,Spain,RWB|RB|RW,76,29,7,76,Brighton & Hove Albion
+194333,Rafal Gikiewicz,Poland,GK,76,32,0,76,1. FC Union Berlin
+194201,Pontus Jansson,Sweden,CB,76,29,6,77,Brentford
+193683,Xavier Chavalerin,France,CDM,76,29,2,76,Stade de Reims
+193440,Nick Viergever,Netherlands,LB|CB,76,30,2,76,PSV
+193408,Haris Seferovic,Switzerland,ST,76,28,3,76,SL Benfica
+193290,Martin Braithwaite,Denmark,ST|LM,76,29,19,76,FC Barcelona
+193116,Maxime Gonalons,France,CDM|CM,76,31,5,76,Granada CF
+192991,Cenk Tosun,Turkey,ST,76,29,5,76,Crystal Palace
+192906,Luis Miguel Rodríguez,Argentina,ST|CAM,76,35,4,76,Colón de Santa Fe
+192663,Fabian Klos,Germany,ST,76,32,1,76,DSC Arminia Bielefeld
+192427,Júnior Caiçara,Brazil,RB,76,31,1,76,Medipol Basaksehir FK
+192371,Fabián Rinaudo,Argentina,CDM|CM,76,33,0,76,Rosario Central
+192358,Sergio Padt,Netherlands,GK,76,30,2,76,FC Groningen
+192342,Edwin Cardona,Colombia,CAM|LW,76,27,2,77,Club Tijuana
+192045,Luis Rodríguez,Mexico,RB,76,29,8,76,Tigres U.A.N.L.
+192041,Néstor Araújo,Mexico,CB,76,28,2,78,RC Celta
+192012,Diego Reyes,Mexico,CB,76,27,9,79,Tigres U.A.N.L.
+191628,Leandro Chichizola,Argentina,GK,76,30,1,76,Getafe CF
+191627,Mats Rits,Belgium,CDM|CM,76,27,0,79,Club Brugge KV
+191011,Luigi Sepe,Italy,GK,76,29,4,76,Parma
+190734,Giorgi Makaridze,Georgia,GK,76,30,1,77,Vitória Setúbal
+190653,Isaac Brizuela,Mexico,RM|LW,76,29,2,76,Guadalajara
+190607,Darwin Quintero,Colombia,ST|LM|CAM,76,32,4,76,Houston Dynamo
+190577,Sebastián Blanco,Argentina,RM|LM|CAM,76,32,1,76,Portland Timbers
+190531,Eliaquim Mangala,France,CB,76,29,13,77,Valencia CF
+190520,Tony Jantschke,Germany,RB|CB,76,30,3,76,Borussia Mönchengladbach
+190456,Nathaniel Clyne,England,RB,76,29,11,76,Liverpool
+190416,Damien Le Tallec,France,CDM|CM,76,30,2,76,Montpellier Hérault SC
+190059,Steven Zuber,Switzerland,LWB|LM|CM|LW,76,28,15,76,TSG 1899 Hoffenheim
+189908,Lukasz Skorupski,Poland,GK,76,29,2,78,Bologna
+189860,Kiko Femenía,Spain,RB,76,29,3,76,Watford
+189725,Tom Cleverley,England,CM|CAM,76,30,2,76,Watford
+189615,Aaron Cresswell,England,LB|CB,76,30,1,76,West Ham United
+189574,Iturraspe,Spain,CDM|CM,76,31,4,76,RCD Espanyol
+189296,Etrit Berisha,lbania,GK,76,31,2,76,SPAL
+189127,Serdar Aziz,Turkey,CB,76,29,2,77,Fenerbahçe SK
+189060,Aleksandar Dragovic,Austria,CB,76,29,7,77,Bayer 04 Leverkusen
+189053,Francesco Caputo,Italy,ST,76,32,6,76,Sassuolo
+188942,Victor Wanyama,Kenya,CDM|CM,76,29,7,76,Impact Montréal
+188335,Ante Budimir,Croatia,ST,76,29,2,76,RCD Mallorca
+188253,James McCarthy,Republic of Ireland,CDM|CM,76,29,1,76,Crystal Palace
+188155,Daryl Janmaat,Netherlands,RB,76,31,0,76,Watford
+188005,Camacho,Spain,CB|CDM,76,30,3,76,VfL Wolfsburg
+186684,Kiko Olivas,Spain,CB,76,31,1,76,R. Valladolid CF
+186330,Theodor Gebre Selassie,Czech Republic,RB|RM,76,33,2,76,SV Werder Bremen
+186302,Elías Hernández,Mexico,RM,76,32,0,76,Cruz Azul
+186200,Fabio Borini,Italy,CF|LW,76,29,3,76,Hellas Verona
+186190,Patrick van Aanholt,Netherlands,LB,76,29,4,76,Crystal Palace
+186148,Ron-Robert Zieler,Germany,GK,76,31,4,76,Hannover 96
+185174,Andrea Poli,Italy,CDM|CM,76,30,3,76,Bologna
+184999,Maurício,Brazil,CDM,76,31,0,76,PAOK
+184873,Ismaël Traoré,Ivory Coast,CB,76,33,2,76,Angers SCO
+184190,Romain Thomas,France,CB,76,32,0,76,Angers SCO
+184037,Martin Kelly,England,RB|CB,76,30,1,76,Crystal Palace
+183966,Facundo Roncaglia,Argentina,RB|CB,76,33,1,76,CA Osasuna
+183909,Ibrahima Traoré,Guinea,RM|RW,76,32,3,76,Borussia Mönchengladbach
+183895,Maxi Moralez,Argentina,CM|CAM,76,33,6,76,New York City FC
+183820,Matthieu Dossevi,Togo,RM|RW,76,32,0,76,Toulouse Football Club
+183714,Simon Terodde,Germany,ST,76,32,1,76,1. FC Köln
+183556,Neven Subotic,Serbia,CB,76,31,2,76,1. FC Union Berlin
+183497,Orestis Karnezis,Greece,GK,76,35,1,76,Napoli
+183491,Zanka,Denmark,CB,76,30,5,76,Fortuna Düsseldorf
+183426,Daniel Schwaab,Germany,CB,76,31,3,76,PSV
+183376,Ljubomir Fejsa,Serbia,CDM|CM,76,31,0,76,D. Alavés
+183130,Marc Albrighton,England,RM|LM|RW,76,30,7,76,Leicester City
+182896,Roberto Rosales,Venezuela,RWB|RB|RW,76,31,3,76,CD Leganés
+182879,Balázs Dzsudzsák,Hungary,RM|CAM,76,33,3,76,Al Ain FC
+182629,Beto,Portugal,GK,76,38,3,76,Göztepe SK
+182212,Anthony Modeste,France,ST,76,32,4,76,1. FC Köln
+182184,Dale Stephens,England,CDM|CM,76,31,4,76,Brighton & Hove Albion
+181318,Albin Ekdal,Sweden,CDM|CM,76,31,2,76,Sampdoria
+181271,Borek Dockal,Czech Republic,CM|CAM,76,31,1,76,Sparta Praha
+179591,Pablo Hernández,Spain,RM|CM|CAM,76,35,6,76,Leeds United
+179546,Marko Marin,Germany,RM|LM|CAM,76,31,1,76,Al Ahli
+178614,Varela,Cape Verde,CB,76,32,2,76,PAOK
+178416,Jeremain Lens,Netherlands,RM|LM,76,32,4,76,Besiktas JK
+178160,Thomas Mangani,France,CM,76,33,1,76,Angers SCO
+178091,Stefano Okaka,Italy,ST,76,30,3,76,Udinese
+178090,Diego Biseswar,Netherlands,LM|CAM,76,32,1,76,PAOK
+177983,Cristian Zapata,Colombia,CB,76,33,6,76,Genoa
+177765,Papiss Demba Cissé,Senegal,ST,76,35,4,76,Alanyaspor
+177358,Morgan Schneiderlin,France,CDM|CM,76,30,5,76,Everton
+177019,Fabian Lustenberger,Switzerland,CB|CDM,76,32,0,76,BSC Young Boys
+176994,Régis Gurtner,France,GK,76,33,1,76,Amiens SC
+176944,Marouane Fellaini,Belgium,CDM|CM,76,32,16,76,Shandong Luneng TaiShan FC
+176915,Augusto Fernández,Argentina,CDM|CM,76,34,3,76,Beijing Renhe FC
+176894,Mossoró,Brazil,CM|CAM,76,37,1,76,Göztepe SK
+176794,Ola Toivonen,Sweden,ST|CAM|CF,76,34,2,76,Melbourne Victory
+176571,André Ayew,Ghana,ST|RM|LM,76,30,14,76,Swansea City
+176009,Sven Kums,Belgium,CDM|CM,76,32,0,76,KAA Gent
+172203,Fraser Forster,England,GK,76,32,2,76,Celtic
+172143,Lasse Schøne,Denmark,CDM|CM,76,34,4,76,Genoa
+172049,Eljero Elia,Netherlands,LM|LW,76,33,4,76,Medipol Basaksehir FK
+171972,James McArthur,Scotland,CM,76,32,0,76,Crystal Palace
+171896,Hugo Ayala,Mexico,CB,76,33,2,76,Tigres U.A.N.L.
+170815,Steven Defour,Belgium,CDM|CM,76,32,5,76,Royal Antwerp FC
+170797,Nuri Sahin,Turkey,CDM|CM,76,31,3,76,SV Werder Bremen
+170597,Tim Krul,Netherlands,GK,76,32,4,76,Norwich City
+170369,Giovani dos Santos,Mexico,ST|CAM|CF,76,31,5,76,Club América
+169792,Jay Rodriguez,England,ST,76,31,2,76,Burnley
+169706,Jack Cork,England,CM,76,31,1,76,Burnley
+169181,Kenneth Vermeer,Netherlands,GK,76,34,2,76,LAFC
+169115,Andrea Masiello,Italy,CB,76,34,4,76,Genoa
+168530,Jardel,Brazil,CB,76,34,0,76,SL Benfica
+167943,Yohan Cabaye,France,CM,76,34,5,76,AS Saint-Étienne
+166072,Danilo,Brazil,CB,76,36,2,76,Bologna
+164859,Theo Walcott,England,RM,76,31,16,76,Everton
+163925,Alessandro Diamanti,Italy,CAM|CF,76,37,0,76,Western United FC
+162369,Vedad Ibiševic,Bosnia & Herzegovina,ST,76,35,0,76,Hertha BSC
+162280,Adrian Mierzejewski,Poland,RM|CM|CAM,76,33,1,76,Chongqing Dangdai Lifan FC SWM Team
+162131,Llorente,Spain,ST,76,35,6,76,Napoli
+159175,Alaixys Romao,Togo,CDM|CM,76,36,0,76,Stade de Reims
+158942,Léo Matos,Brazil,RB|LB|RM,76,34,1,76,PAOK
+158232,Salomon Kalou,Ivory Coast,ST|RM|LM,76,34,6,76,Hertha BSC
+156432,Guillaume Hoarau,France,ST,76,36,1,76,BSC Young Boys
+154950,Yuriy Zhirkov,Russia,LB|LM,76,36,3,76,Free Agents
+152999,Rodrigo Palacio,Argentina,ST|CAM,76,38,5,76,Bologna
+152997,Darío Cvitanich,Argentina,ST,76,36,1,76,Racing Club
+152996,Per Ciljan Skjelbred,Norway,CDM|CM,76,33,0,76,Hertha BSC
+152912,José Sand,Argentina,ST,76,40,3,76,Club Atlético Lanús
+152879,Mark Noble,England,CDM|CM,76,33,6,76,West Ham United
+152554,Gaël Clichy,France,LB,76,35,5,76,Medipol Basaksehir FK
+147006,Diego Castro,Spain,CAM|LW,76,38,1,76,Perth Glory
+146758,Soldado,Spain,ST,76,35,3,76,Granada CF
+144622,Raffael,Brazil,ST|CF,76,35,2,76,Borussia Mönchengladbach
+144429,Oscar Wendt,Sweden,LB,76,34,2,76,Borussia Mönchengladbach
+143745,Arda Turan,Turkey,LM|CM,76,33,13,76,FC Barcelona
+139860,Jérémy Morel,Madagascar,LB|CB,76,36,2,76,Stade Rennais FC
+134744,Atiba Hutchinson,Canada,CDM|CM,76,37,3,76,Besiktas JK
+50542,Jermain Defoe,England,ST,76,37,5,76,Rangers FC
+251702,Pedro Vaquizo,Ecuador,RM|RW,75,34,0,75,Free Agents
+251353,Kodjo Fo-Doh Laba,Togo,ST,75,28,1,75,Al Ain FC
+248243,Eduardo Camavinga,France,CM,75,17,94,86,Stade Rennais FC
+247204,Emerson,Brazil,RWB|RB|RM|RW,75,21,49,85,Real Betis
+246914,Robert Rojas,Paraguay,CB,75,24,2,82,River Plate
+246069,Lukas Rupp,Germany,RM|CM,75,29,4,75,Norwich City
+245850,Ibrahim Traoré,Ivory Coast,CDM|CM|CAM,75,31,2,75,SK Slavia Praha
+245307,Pablo Nicolás Dárenas,Uruguay,GK,75,36,0,75,Free Agents
+244950,Juan Gabriel Rodríguez,Argentina,CB,75,26,0,80,Defensa y Justicia
+244915,Mohammed Salisu,Ghana,CB,75,21,24,85,R. Valladolid CF
+244791,Patrik Hrošovsky,Slovakia,CDM|CM,75,28,0,75,KRC Genk
+244778,Francisco Trincão,Portugal,RW|LW,75,20,159,88,SC Braga
+244383,Mykyta Burda,Ukraine,RB|LB|CB,75,25,7,82,Dynamo Kyiv
+244373,Vitaliy Buyalskyi,Ukraine,CM|CAM,75,27,5,76,Dynamo Kyiv
+244269,Filip Benkovic,Croatia,CB,75,23,6,83,Bristol City
+244193,Jovane Cabral,Cape Verde,RW|LW,75,22,13,83,Sporting CP
+243952,Andriy Lunin,Ukraine,GK,75,21,46,87,R. Oviedo
+243715,William Saliba,France,CB,75,19,96,88,AS Saint-Étienne
+243245,Orkun Kökçü,Turkey,CM|CAM,75,19,8,85,Feyenoord
+243007,Lukáš Masopust,Czech Republic,ST|RM|LM,75,27,0,75,SK Slavia Praha
+242663,Sebastiaan Bornauw,Belgium,CB,75,21,8,83,1. FC Köln
+241827,Martín,Spain,RB|RM,75,24,0,80,D. Alavés
+241788,Mehdi Taremi,Iran,ST|CF,75,28,6,75,Rio Ave FC
+241721,Rafael Leão,Portugal,ST,75,21,62,86,Milan
+241686,Manu Vallejo,Spain,ST|LM|CAM,75,23,4,84,Valencia CF
+241202,Patson Daka,Zambia,ST,75,21,27,84,FC Red Bull Salzburg
+241103,Zinho Vanheusden,Belgium,CB,75,21,22,86,Standard de Liège
+240950,Pedro Gonçalves,Portugal,CM,75,22,1,86,Futebol Clube de Famalicão
+240359,Omar Alderete,Paraguay,CB,75,23,4,84,FC Basel 1893
+240243,Matheus Cunha,Brazil,ST|CAM,75,21,30,85,Hertha BSC
+240046,João Victor,Brazil,LM|CF|LW,75,26,2,76,VfL Wolfsburg
+240033,David Hovorka,Czech Republic,CB,75,26,1,79,SK Slavia Praha
+239956,Myron Boadu,Netherlands,ST,75,19,34,88,AZ
+239817,Boubakary Soumaré,France,CDM|CM,75,21,12,85,LOSC Lille
+239272,Vasilios Barkas,Greece,GK,75,26,2,78,AEK Athens
+238858,Bruno Tabata,Brazil,RW|LW,75,23,3,83,Portimonense SC
+238463,Amadou Haidara,Mali,RM|CM,75,22,21,83,RB Leipzig
+238392,Elisha Owusu,France,CDM|CM,75,22,0,83,KAA Gent
+238370,Marin Pongracic,Croatia,CB,75,22,1,82,VfL Wolfsburg
+238074,Reece James,England,RB|CDM,75,20,84,87,Chelsea
+237942,Pervis Estupiñán,Ecuador,LB,75,22,9,82,CA Osasuna
+237560,Moussa Djenepo,Mali,RM|LM,75,22,5,83,Southampton
+237383,Alessandro Bastoni,Italy,CB,75,21,54,85,Inter
+237297,Yordan Osorio,Venezuela,CB,75,26,3,80,Free Agents
+237221,Juan Foyth,Argentina,RB|CB,75,22,30,85,Tottenham Hotspur
+237034,Juan Camilo Hernández,Colombia,ST|RM|CAM,75,21,10,82,RCD Mallorca
+236920,Justin Kluivert,Netherlands,RM|LM|LW,75,21,48,85,Roma
+236699,Saša Lukic,Serbia,CDM|CM,75,23,4,82,Torino
+236610,Moise Kean,Italy,ST,75,20,51,85,Everton
+236403,Evan Ndicka,France,LB|CB,75,20,25,85,Eintracht Frankfurt
+236331,Erick Cabaco,Uruguay,CB,75,25,4,80,Getafe CF
+236276,Arnaut Danjuma Groeneveld,Netherlands,LM,75,23,2,81,AFC Bournemouth
+236245,Alberth Elis,Honduras,ST|RM|RW,75,24,9,81,Houston Dynamo
+236221,Darko Brašanac,Serbia,CDM|RM|CM,75,28,0,75,CA Osasuna
+235883,Ryan Sessegnon,England,LB|LM|LW,75,20,44,86,Tottenham Hotspur
+235813,Razvan Marin,Romania,CDM|CM,75,24,4,80,Ajax
+235794,Eberechi Eze,England,LM|CAM,75,22,15,83,Queens Park Rangers
+235663,Guus Til,Netherlands,CM|CAM,75,22,3,82,Spartak Moscow
+235634,Ghislain Konan,Ivory Coast,LB,75,24,2,81,Stade de Reims
+235467,Marcelino Moreno,Argentina,CM|RW|LW,75,26,0,80,Club Atlético Lanús
+235454,Malang Sarr,France,LB|CB,75,21,50,80,OGC Nice
+235173,Ibrahim Sangaré,Ivory Coast,CDM|CM,75,22,4,85,Toulouse Football Club
+235042,Dimitri Liénard,France,CDM|CM,75,32,1,75,RC Strasbourg Alsace
+235008,Lucas Robertone,Argentina,CM|CAM,75,23,7,84,Vélez Sarsfield
+234986,Panagiotis Retsos,Greece,RB|LB|CB,75,21,19,84,Sheffield United
+234913,Christian Fassnacht,Switzerland,RM|LM|CAM,75,26,1,76,BSC Young Boys
+234835,Domingos Duarte,Portugal,CB,75,25,3,79,Granada CF
+234826,Toni Martínez,Spain,ST,75,23,1,83,Futebol Clube de Famalicão
+234774,Konstantinos Laifis,Cyprus,LB|CB,75,27,0,77,Standard de Liège
+234730,Valentin Rosier,France,RB|LB,75,23,5,82,Sporting CP
+234728,László Bénes,Slovakia,CM|CAM,75,22,5,81,Borussia Mönchengladbach
+234725,Idrissa Doumbia,Ivory Coast,CDM|CM,75,22,4,83,Sporting CP
+234574,Diogo Dalot,Portugal,RB|LB,75,21,45,85,Manchester United
+234568,Gedson Fernandes,Portugal,CM,75,21,16,84,Tottenham Hotspur
+234426,Marcão,Brazil,CB,75,24,5,80,Galatasaray SK
+234102,Ionu? Andrei Radu,Romania,GK,75,23,13,86,Parma
+233959,Sebastián Villa,Colombia,RM|LM|RW,75,24,12,81,Boca Juniors
+233934,Aaron Ramsdale,England,GK,75,22,12,83,AFC Bournemouth
+233486,Robin Le Normand,France,CB,75,23,6,82,Real Sociedad
+233113,Aleñá,Spain,RM|CM|CAM,75,22,23,83,Real Betis
+233029,Rodrigo Aliendro,Argentina,CM,75,29,0,75,Colón de Santa Fe
+232869,Gen Shoji,Japan,CB,75,27,3,77,Gamba Osaka
+232730,Daichi Kamada,Japan,ST|CAM|CF,75,23,13,79,Eintracht Frankfurt
+232226,Denys Boyko,Ukraine,GK,75,32,2,75,Dynamo Kyiv
+231936,Ben White,England,CB|CDM,75,22,17,84,Leeds United
+231838,Maximilian Wöber,Austria,LB|CB,75,22,4,83,FC Red Bull Salzburg
+231826,Yann Karamoh,France,RM|RW,75,22,11,84,Parma
+231640,Ontiveros,Spain,RM|LM|LW,75,22,6,82,Villarreal CF
+231612,Romain Del Castillo,France,RM|LM|CF,75,24,3,79,Stade Rennais FC
+231414,Waldo,Spain,ST|LM,75,24,3,81,R. Valladolid CF
+231235,Kelvin Amian,France,RB|CB,75,22,7,79,Toulouse Football Club
+230967,Brian Lozano,Uruguay,RM|LM,75,26,7,76,Santos Laguna
+230850,Gojko Cimirot,Bosnia & Herzegovina,CDM|CM,75,27,0,75,Standard de Liège
+230685,Emre Akbaba,Turkey,CDM|CM|CAM,75,27,4,76,Galatasaray SK
+230625,Matheus Reis,Brazil,LB,75,25,0,79,Rio Ave FC
+230564,Mijat Gacinovic,Serbia,CM|CAM,75,25,4,80,Eintracht Frankfurt
+230507,Nicholas Aldair,Brazil,ST,75,28,0,75,Fluminense
+230497,Erick Gameira,Brazil,ST|CF,75,28,0,75,Club Athletico Paranaense
+230469,Ailton Guevara,Brazil,ST|CAM|CF,75,28,2,75,Centro Sportivo Alagoano
+230468,José Mirazar,Brazil,CAM|LW,75,24,2,75,Grêmio
+230465,Allan Bardinho,Brazil,CM|CAM,75,28,1,75,Botafogo
+230457,Gabrisco Aníbal,Brazil,CDM|CM,75,28,0,75,Fortaleza
+230449,Diegildo Ramos,Brazil,ST|RM,75,28,0,75,Flamengo
+230427,Elildo Petri,Brazil,RM|CAM,75,24,0,77,Palmeiras
+230423,Pascoal Muscato,Brazil,CDM|CM,75,28,0,75,Santos
+230408,Fabrio Farinha,Brazil,LM|CAM,75,28,5,75,Atlético Mineiro
+230381,Kaimo Lima,Brazil,LB|CB|CDM,75,24,0,75,Fluminense
+230348,Lafortiscinho,Brazil,LB,75,28,0,75,Botafogo
+230341,Joshuando Sá,Brazil,LB|LWB|LW,75,24,0,75,Santos
+230336,Danisco Fachini,Brazil,CDM,75,32,0,75,Flamengo
+230327,Gérson Damesio,Brazil,CB,75,28,1,75,Flamengo
+230326,Lino Essier,Brazil,CB,75,28,0,75,São Paulo
+230323,Kaíquão Castro,Brazil,GK,75,24,0,75,Fluminense
+230274,Dani Rochelinhas,Brazil,CM|CAM,75,28,2,75,Chapecoense
+230252,Jorginhson,Brazil,CDM|CM|CAM,75,28,1,75,Goiás
+230229,Otávio Cairinho,Brazil,RB|CB,75,28,1,75,Internacional
+230227,Caio Nunson,Brazil,LB|CB,75,20,0,75,Goiás
+230208,Lúcio Corteijo,Brazil,RB,75,32,0,75,Vasco da Gama
+230195,Alexio Sanctos,Brazil,GK,75,28,0,75,São Paulo
+230189,Silas Almeim,Brazil,LB|LM,75,28,0,75,Goiás
+230165,Simão Donatinho,Brazil,GK,75,24,1,75,Cruzeiro
+230043,Faitout Maouassa,France,LB|LWB|LW,75,22,4,79,Stade Rennais FC
+230042,Youssef Aït Bennasser,Morocco,CDM|CM,75,24,4,79,FC Girondins de Bordeaux
+230021,Joseph Aidoo,Ghana,CB,75,24,6,81,RC Celta
+230005,Tom Davies,England,CDM|CM,75,22,8,81,Everton
+229804,Alexandru Mitri?a,Romania,LM|LW,75,25,1,78,New York City FC
+229752,Djibril Sow,Switzerland,CM,75,23,3,84,Eintracht Frankfurt
+229593,Marko Pjaca,Croatia,CAM|RW|LW,75,25,5,78,RSC Anderlecht
+229406,João Novais,Portugal,CM,75,27,0,78,SC Braga
+229359,Jorge Miramón,Spain,RWB|RB|RW,75,31,2,75,Levante UD
+229221,William,Brazil,RB|LB|RM,75,25,1,79,VfL Wolfsburg
+229071,Karim Onisiwo,Austria,ST|RM,75,28,2,75,1. FSV Mainz 05
+228981,Yohan Boli,Ivory Coast,ST,75,26,1,77,Free Agents
+228675,Dmitriy Barinov,Russia,CB|CDM,75,23,1,82,Lokomotiv Moscow
+228509,Jeff Reine-Adélaïde,France,RM|CM|CAM,75,22,12,85,Olympique Lyonnais
+227873,Almamy Touré,France,RB|CB,75,24,6,80,Eintracht Frankfurt
+227508,Melero,Spain,CDM|CM|CAM,75,26,1,78,Levante UD
+227274,David Barbona,Argentina,RM|LM,75,25,0,78,Racing Club
+226861,Sada Thioub,Senegal,RM|LM|RW,75,25,0,79,Angers SCO
+226789,Angelo Fulgini,France,RM|CM,75,23,4,82,Angers SCO
+226536,Omar Colley,Gambia,CB,75,27,4,78,Sampdoria
+226414,Marcus Coco,France,RM|LM,75,24,1,80,FC Nantes
+226376,Kaku,Paraguay,CAM,75,25,1,80,New York Red Bulls
+226211,Roger Guedes,Brazil,ST|CF,75,23,7,80,Shandong Luneng TaiShan FC
+226060,Roger Assalé,Ivory Coast,ST,75,26,4,78,CD Leganés
+226045,Jesús Gallardo,Mexico,LB|LM|LW,75,25,4,78,Monterrey
+225878,Cecilio Domínguez,Paraguay,LM|LW,75,25,3,78,Independiente
+225859,Moussa Niakhaté,France,CB,75,24,2,81,1. FSV Mainz 05
+225782,Ainsley Maitland-Niles,England,RWB|RB|RM|RW,75,22,31,83,Arsenal
+225733,Cesinha,Brazil,ST|CAM|LW,75,30,1,75,Daegu FC
+225713,Jean-Kévin Augustin,France,ST,75,23,16,81,Leeds United
+225699,Anuar,Morocco,CDM|CM|CAM,75,25,1,80,Panathinaikos FC
+225359,Constantin Budescu,Romania,ST|LM|CAM,75,31,3,75,Asocia?ia Fotbal Club Astra Giurgiu
+225182,Jarlan Barrera,Colombia,RM|CAM,75,24,3,82,Atlético Nacional
+224739,Peter Olayinka,Nigeria,ST|RM|LM,75,24,4,79,SK Slavia Praha
+224538,Pedro Nuno,Portugal,CM|CAM|LW,75,25,0,78,Moreirense FC
+224422,Jérémie Boga,Ivory Coast,ST|LM|LW,75,23,25,84,Sassuolo
+224348,Lucas Hoyos,Argentina,GK,75,31,0,75,Vélez Sarsfield
+224263,Jonjoe Kenny,England,RWB|RB|RW,75,23,10,83,FC Schalke 04
+224251,Robin Zentner,Germany,GK,75,25,1,79,1. FSV Mainz 05
+224218,François Kamano,Guinea,LM|CF|LW,75,24,11,78,FC Girondins de Bordeaux
+224075,André Simões,Portugal,CDM|CM,75,30,0,75,AEK Athens
+224065,Domingo Blanco,Argentina,RM|CM|RW,75,25,2,80,Independiente
+224003,Sergio Herrera,Spain,GK,75,27,1,77,CA Osasuna
+223926,Samuel Bastien,Belgium,CDM|CM,75,23,2,80,Standard de Liège
+223885,Alexander Nübel,Germany,GK,75,23,25,85,FC Schalke 04
+223641,Timo Baumgartl,Germany,CB,75,24,2,80,PSV
+223138,Anthony Briançon,France,CB,75,25,1,78,Nîmes Olympique
+222994,Marvelous Nakamba,Zimbabwe,CDM|CM,75,26,7,78,Aston Villa
+222515,Zinedine Ferhat,Algeria,RM,75,27,0,75,Nîmes Olympique
+222429,Andrés Cubas,Paraguay,CDM|CM,75,24,1,82,Club Atlético Talleres
+222160,Youssouf Koné,Mali,LB,75,25,6,82,Olympique Lyonnais
+222123,Aaron Long,United States,CB,75,27,5,78,New York Red Bulls
+221919,Arbër Zeneli,Kosovo,LM|LW,75,25,2,78,Stade de Reims
+221832,Lucas Olaza,Uruguay,LB,75,26,4,80,RC Celta
+221587,Joe Lolley,England,RM|LM|RW,75,27,8,75,Nottingham Forest
+221310,Andrés Felipe Roa,Colombia,LM|CM|CAM,75,27,3,76,Independiente
+221306,Michael Barrios,Colombia,ST|RM|RW,75,29,3,75,FC Dallas
+221219,Germán Conti,Argentina,CB,75,26,1,81,Club Atlas
+221016,Nikola Vukcevic,Montenegro,CDM|CM,75,28,0,76,Levante UD
+221014,Carlos Fernández,Spain,ST|CAM,75,24,5,82,Granada CF
+220948,Serhiy Sydorchuk,Ukraine,CDM|CM,75,29,4,75,Dynamo Kyiv
+220932,Lovre Kalinic,Croatia,GK,75,30,7,75,Toulouse Football Club
+220925,Alessandro Schöpf,Austria,RWB|RM|CM|RW,75,26,3,76,FC Schalke 04
+220854,Érick Gutiérrez,Mexico,CM,75,25,8,80,PSV
+220715,Ezequiel Ponce,Argentina,ST,75,23,4,81,Spartak Moscow
+220337,Junior Alonso,Paraguay,LB|CB|LWB|LW,75,27,4,78,Boca Juniors
+220332,Ángel Romero,Paraguay,ST|LM|RW,75,28,3,75,San Lorenzo de Almagro
+220287,Juan Ignacio Dinenno,Argentina,ST,75,25,8,80,U.N.A.M.
+220131,Mbaye Diagne,Senegal,ST,75,28,6,75,Club Brugge KV
+219932,Antonio Sanabria,Paraguay,ST,75,24,24,82,Genoa
+219879,Matías Pisano,Argentina,RM|CAM|RW,75,28,3,75,América de Cali
+219793,Thomas Didillon,France,GK,75,24,1,79,KRC Genk
+219732,Georges-Kévin Nkoudou,France,LM,75,25,6,78,Besiktas JK
+219536,Ignacio Pussetto,Argentina,ST|RM,75,24,6,81,Watford
+219244,David von Ballmoos,Switzerland,GK,75,25,1,81,BSC Young Boys
+218868,Alejandro Silva,Uruguay,RM|RW,75,30,1,75,Club Olimpia
+218659,Matt Targett,England,LB|LWB|LW,75,24,4,82,Aston Villa
+218534,Sargis Adamyan,Ermenia,ST|LM|CAM,75,27,1,76,TSG 1899 Hoffenheim
+217877,Théo Bongonda,Belgium,CAM|RW|LW,75,24,1,79,KRC Genk
+217870,Giovanni Di Lorenzo,Italy,RB|RM,75,26,20,77,Napoli
+216742,Miha Mevlja,Slovenia,CB,75,30,2,76,Free Agents
+216433,Anwar El Ghazi,Netherlands,RW|LW,75,25,7,78,Aston Villa
+216380,Daley Sinkgraven,Netherlands,LB|CM,75,25,5,80,Bayer 04 Leverkusen
+216350,Arijan Ademi,North Macedonia,CDM|CM,75,29,0,75,Dinamo Zagreb
+216258,Ihlas Bebou,Togo,ST|RM|LW,75,26,2,78,TSG 1899 Hoffenheim
+215930,Tin Jedvaj,Croatia,RB|LB|CB,75,24,11,82,FC Augsburg
+215792,Jemerson,Brazil,CB|CDM,75,27,2,77,AS Monaco Football Club SA
+215699,Youssouf Sabaly,Senegal,RB|LB|RM,75,27,0,75,FC Girondins de Bordeaux
+215559,Lucas Evangelista,Brazil,CM|CAM|RW,75,25,3,78,Vitória Guimarães
+215531,Deniz Türüç,Turkey,RM,75,27,2,75,Fenerbahçe SK
+215502,Bartlomiej Dragowski,Poland,GK,75,22,19,82,Fiorentina
+215421,Deyverson,Brazil,ST,75,29,2,75,Getafe CF
+215334,Guido Carrillo,Argentina,ST,75,29,1,75,CD Leganés
+215228,Cristian Lema,Argentina,CB,75,30,0,75,Newell's Old Boys
+215199,Rubén Botta,Argentina,RM|CAM|CF,75,30,0,75,Defensa y Justicia
+215193,Lucas Menossi,Argentina,CDM|CM,75,27,2,78,San Lorenzo de Almagro
+215165,Ciro Rius,Argentina,RM|RW,75,31,3,75,Rosario Central
+215119,Lucas Romero,Argentina,RB|CDM|CM,75,26,16,80,Independiente
+215108,Julio Buffarini,Argentina,RB,75,31,3,75,Boca Juniors
+215079,Pablo Pérez,Argentina,CDM|CM,75,34,2,75,Newell's Old Boys
+215064,Julio Furch,Argentina,ST,75,31,2,75,Santos Laguna
+215015,Bruno Bianchi,Argentina,CB,75,31,0,75,Colón de Santa Fe
+214838,Óscar Opazo,Chile,RB|LB,75,29,6,75,Colo-Colo
+214692,Christian Cueva,Peru,RM|LM|CAM,75,28,1,75,Pachuca
+214639,Postigo,Spain,CB,75,31,0,75,Levante UD
+214570,Stiven Mendoza,Colombia,RM|LM|LW,75,28,2,75,Amiens SC
+214491,Luis Quiñones,Colombia,RM|LM,75,29,1,75,Tigres U.A.N.L.
+214350,Michael Rangel,Colombia,ST,75,29,2,75,América de Cali
+213951,Helton Leite,Brazil,GK,75,29,1,77,Boavista FC
+213689,Ben Pearson,England,CDM,75,25,1,79,Preston North End
+213597,Diego Valdés,Chile,CM|CAM,75,26,2,78,Santos Laguna
+213577,Puertas,Spain,RM|LM,75,28,1,75,Granada CF
+213432,Facundo Ferreyra,Argentina,ST,75,29,2,75,RCD Espanyol
+213414,William Troost-Ekong,Nigeria,CB,75,26,1,79,Udinese
+213114,Diego Rolán,Uruguay,ST|LM|CAM,75,27,2,76,Fútbol Club Juárez
+212933,Laurent Depoitre,Belgium,ST,75,31,2,75,KAA Gent
+212888,Carlos Salcedo,Mexico,CB,75,26,9,77,Tigres U.A.N.L.
+212878,Nicolás Castillo,Chile,ST,75,27,7,76,Club América
+212755,Jorrit Hendrix,Netherlands,CDM|CM,75,25,3,79,PSV
+212722,DeAndre Yedlin,United States,RWB|RB|RW,75,27,15,78,Newcastle United
+212541,Leonel Vangioni,Argentina,LB,75,33,3,75,Monterrey
+212476,Medrán,Spain,CDM|CM|CAM,75,26,3,77,Chicago Fire Soccer Club
+212432,Jo Hyeon Woo,Korea Republic,GK,75,28,3,77,Ulsan Hyundai Horang-i
+212419,Tyrone Mings,England,CB,75,27,9,78,Aston Villa
+212267,Ivan Cavaleiro,Portugal,LM|RW|LW,75,26,7,76,Fulham
+212260,Hwang Ui Jo,Korea Republic,ST|LM|CF,75,27,1,76,FC Girondins de Bordeaux
+212212,Dominik Kohr,Germany,CDM|CM,75,26,1,77,Eintracht Frankfurt
+212127,Darko Lazovic,Serbia,RM|LM,75,29,7,75,Hellas Verona
+212023,Robert Beric,Slovenia,ST,75,29,2,75,Chicago Fire Soccer Club
+211999,Rani Khedira,Germany,CB|CDM,75,26,2,78,FC Augsburg
+211927,Kwon Chang Hoon,Korea Republic,RM|CF,75,26,2,76,Sport-Club Freiburg
+211879,Janik Haberer,Germany,RM|CM,75,26,1,77,Sport-Club Freiburg
+211856,Kevin Akpoguma,Germany,CB,75,25,4,80,TSG 1899 Hoffenheim
+211461,Luiz Phellype,Brazil,ST,75,26,1,76,Sporting CP
+211381,Sofiane Boufal,Morocco,LM,75,26,3,76,Southampton
+211361,Danilo Cataldi,Italy,CDM|CM,75,25,6,79,Lazio
+211269,Guillermo Fernández,Argentina,LM|CM|CAM,75,28,5,75,Boca Juniors
+211263,Lisandro Magallán,Argentina,CB,75,26,2,77,D. Alavés
+211119,Pedro Santos,Portugal,RM|LM|CAM,75,32,0,75,Columbus Crew SC
+211108,Fernandinho,Brazil,CF|RW|LW,75,27,1,75,Guangzhou Evergrande Taobao FC
+211107,Frederico Venâncio,Portugal,CB,75,27,0,78,Vitória Guimarães
+211098,Bradley Dack,England,ST|CAM,75,26,3,77,Blackburn Rovers
+210972,Manquillo,Spain,RWB|RB|LWB|RW|LW,75,26,7,78,Newcastle United
+210828,Björn Engels,Belgium,CB,75,25,5,80,Aston Villa
+210719,Marc-Oliver Kempf,Germany,CB,75,25,5,79,VfB Stuttgart
+210489,Louis Schaub,Austria,RM|CAM,75,25,3,79,Hamburger SV
+210450,Abdoulaye Touré,France,CDM|CM,75,26,2,78,FC Nantes
+210384,Ridgeciano Haps,Netherlands,LB|LW,75,27,3,77,Feyenoord
+210377,João Teixeira,Portugal,CAM|LW,75,27,1,75,Vitória Guimarães
+210333,Alexander Szymanowski,Argentina,LM,75,31,0,75,CD Leganés
+210281,Cristian Pellerano,Argentina,CDM|CM,75,38,0,75,Independiente del Valle
+210136,Tomasz Kedziora,Poland,RB,75,26,2,80,Dynamo Kyiv
+210016,Diego Lopes,Brazil,CAM|LW,75,26,1,77,Rio Ave FC
+210007,André Ramalho,Brazil,CB,75,28,0,76,FC Red Bull Salzburg
+209827,Júnior Fernandes,Chile,ST|RM|LM,75,31,4,75,Alanyaspor
+209781,Pierrick Capelle,France,LB|LM|CM,75,33,0,75,Angers SCO
+209744,Eugenio Mena,Chile,LB,75,32,1,75,Racing Club
+209547,Stefan Mitrovic,Serbia,CB,75,30,0,76,RC Strasbourg Alsace
+209523,Derlis González,Paraguay,ST|RM|LM,75,26,1,76,Club Olimpia
+208621,Óscar Plano,Spain,RM|LM|CAM,75,29,2,75,R. Valladolid CF
+208535,Alfred Duncan,Ghana,CM,75,27,6,76,Fiorentina
+208509,Thomas Foket,Belgium,RB,75,25,2,80,Stade de Reims
+208224,Petros Mantalos,Greece,LM|CAM,75,28,0,75,AEK Athens
+208165,Berat Djimsiti,lbania,CB,75,27,8,77,Atalanta
+207928,Tom Rogic,Australia,CAM,75,27,0,76,Celtic
+207624,Kenneth Omeruo,Nigeria,CB,75,26,0,80,CD Leganés
+207616,Adam Webster,England,CB,75,25,2,79,Brighton & Hove Albion
+206594,Solly March,England,RM|LM,75,26,3,78,Brighton & Hove Albion
+206590,Moi Gómez,Spain,LM|CM,75,26,3,78,Villarreal CF
+206414,Sergiy Kryvtsov,Ukraine,CB,75,29,0,76,Shakhtar Donetsk
+206411,Denys Garmash,Ukraine,CM|CAM,75,30,2,75,Çaykur Rizespor
+206075,Sam Johnstone,England,GK,75,27,1,79,West Bromwich Albion
+205966,Amin Younes,Germany,LM|LW,75,26,3,76,Napoli
+205943,Vlad Chiriche?,Romania,CB,75,30,3,75,Sassuolo
+205897,Nathaniel Chalobah,England,CDM|CM,75,25,10,79,Watford
+205670,Dwight Gayle,England,ST|LW,75,29,3,75,Newcastle United
+205531,Valerio Verre,Italy,CM|CAM|CF,75,26,2,78,Hellas Verona
+205346,Ryan Fredericks,England,RB,75,27,3,76,West Ham United
+205295,Hillal Soudani,Algeria,ST|LM|CAM,75,32,0,75,Olympiacos CFP
+205211,Milan Borjan,Canada,GK,75,32,0,75,Free Agents
+204883,Brice Samba,Congo,GK,75,26,3,79,Nottingham Forest
+204757,Toño García,Spain,LB|LM,75,30,0,75,Levante UD
+204346,Fede Vico,Spain,CAM,75,26,2,79,Granada CF
+204121,Jakub Brabec,Czech Republic,CB,75,27,0,77,Viktoria Plzen
+203886,Adrien Trebel,France,CDM|CM,75,29,0,75,RSC Anderlecht
+203872,Gabriel Hauche,Argentina,ST|LM|LW,75,33,0,75,Argentinos Juniors
+203796,Felipe Gutiérrez,Chile,CDM|CM,75,29,1,75,Sporting Kansas City
+203280,Valère Germain,France,ST,75,30,3,75,Olympique de Marseille
+203067,Diego Chará,Colombia,CDM|CM,75,34,2,75,Portland Timbers
+203042,Jack Butland,England,GK,75,27,16,79,Stoke City
+202934,Ogenyi Onazi,Nigeria,CDM|CM,75,27,2,76,Denizlispor
+202858,Fabián Castillo,Colombia,ST|LM,75,28,5,75,Gallos Blancos de Querétaro
+202811,Emiliano Martínez,Argentina,GK,75,27,95,78,Arsenal
+202445,Rodrigo Ely,Brazil,CB,75,26,3,79,D. Alavés
+202330,Abdoulay Diaby,Mali,RM|LM,75,29,4,75,Besiktas JK
+202282,Stuart Armstrong,Scotland,RM|CM,75,28,1,75,Southampton
+202088,Felix Klaus,Germany,RM|LM|RW,75,27,0,75,VfL Wolfsburg
+202078,Darlington Nagbe,United States,CDM|CM,75,30,0,75,Columbus Crew SC
+202061,Jasmin Kurtic,Slovenia,CM|CAM,75,31,0,75,Parma
+201982,Jonathan Schmid,France,RWB|RB|RM|RW,75,30,4,75,Sport-Club Freiburg
+201943,Andreas Cornelius,Denmark,ST,75,27,9,76,Parma
+201893,Recio,Spain,CDM|CM,75,29,0,75,CD Leganés
+201303,Rasmus Falk,Denmark,RM|LM|CM,75,28,3,75,FC København
+201269,Frederik Rønnow,Denmark,GK,75,27,1,77,Eintracht Frankfurt
+201118,Cédric,Portugal,RB,75,28,7,75,Arsenal
+201073,Nicolas De Préville,France,CF|LW,75,29,0,75,FC Girondins de Bordeaux
+200855,George Baldock,England,RWB|RW,75,27,3,76,Sheffield United
+200826,Mauro Quiroga,Argentina,ST,75,30,0,75,Club Necaxa
+200752,Juan Jesus,Brazil,LB|CB,75,29,7,75,Roma
+200746,John Lundstram,England,CM,75,26,4,78,Sheffield United
+200641,Yevhen Konoplyanka,Ukraine,LM|CAM|LW,75,30,4,75,Shakhtar Donetsk
+200478,Jeff Hendrick,Republic of Ireland,RM|CM|CAM,75,28,1,75,Burnley
+200438,Guilherme,Brazil,RM|CAM,75,29,4,75,Trabzonspor
+199904,Jesse Joronen,Finland,GK,75,27,0,77,Brescia
+199852,Nicolai Jørgensen,Denmark,ST,75,29,4,75,Feyenoord
+199792,Anders Christiansen,Denmark,CDM|CM,75,30,2,75,Malmö FF
+199745,Erik Sviatchenko,Denmark,CB,75,28,1,76,FC Midtjylland
+199729,Daniel Royer,Austria,RM|LM|LW,75,30,2,75,New York Red Bulls
+199669,Leandro González Pirez,Argentina,CB,75,28,1,77,Club Tijuana
+199633,Matthew Lowton,England,RB,75,31,1,75,Burnley
+199602,John Guidetti,Sweden,ST,75,28,5,75,Hannover 96
+199576,Oriol Romeu,Spain,CDM|CM,75,28,3,76,Southampton
+199559,Roberto Inglese,Italy,ST,75,28,2,75,Parma
+199422,Jordy Clasie,Netherlands,CDM|CM,75,29,5,75,AZ
+199419,Yoann Court,France,RM|LM,75,30,0,75,Stade Brestois 29
+199386,Bryan Linssen,Netherlands,ST|LM,75,29,1,75,Vitesse
+199158,Sergio Álvarez,Spain,CB|CDM|CM,75,28,0,76,SD Eibar
+199069,Vincent Aboubakar,Cameroon,ST,75,28,5,75,FC Porto
+198861,Nampalys Mendy,France,CDM|CM,75,28,5,75,Leicester City
+198760,Saphir Taïder,Algeria,CDM|CM|LW,75,28,2,75,Impact Montréal
+198715,Sergio León,Spain,ST,75,31,1,75,Levante UD
+198640,Zakaria Labyad,Morocco,CAM|RW,75,27,2,76,Ajax
+198614,Raúl Navas,Spain,CB,75,32,0,75,CA Osasuna
+198581,Óscar Murillo,Colombia,CB,75,32,0,75,Pachuca
+198347,Franco Jara,Argentina,ST,75,32,1,75,Pachuca
+198023,Ximo Navarro,Spain,RB|CB,75,30,0,75,D. Alavés
+198006,Jens Toornstra,Netherlands,CM|CAM,75,31,3,75,Feyenoord
+196942,Iñigo Pérez,Spain,LB|CDM|CM,75,32,0,75,CA Osasuna
+196069,José Pedro Fuenzalida,Chile,RB|RM|RW,75,35,5,75,Universidad Católica
+195363,Jeffrey Bruma,Netherlands,CB,75,28,2,76,1. FSV Mainz 05
+195361,Javi López,Spain,RB|LB,75,34,3,75,RCD Espanyol
+195272,Marco Davide Faraoni,Italy,RB|RM,75,28,1,75,Hellas Verona
+195088,Miloš Ninkovic,Serbia,LM|CAM,75,35,2,75,Sydney FC
+194806,Craig Dawson,England,CB,75,30,2,75,Watford
+194138,Andre Gray,England,ST,75,29,6,75,Watford
+193847,Osmar,Spain,CB|CDM|CM,75,32,1,75,FC Seoul
+193844,Portillo,Spain,RM|LM,75,30,0,75,Getafe CF
+193839,Rômulo,Italy,RM|CM|CAM,75,33,0,75,Brescia
+193584,Guido Burgstaller,Austria,ST,75,31,1,75,FC Schalke 04
+193311,Philipp Bargfrede,Germany,CDM,75,31,2,75,SV Werder Bremen
+192667,Allan Nyom,Cameroon,RB|LB|RM,75,32,3,75,Getafe CF
+192620,Holger Badstuber,Germany,CB,75,31,2,75,VfB Stuttgart
+192612,Mato Jajalo,Bosnia & Herzegovina,CDM|CM,75,32,0,75,Udinese
+192587,Artur Ioni?a,Moldova,CM|CAM,75,29,2,75,Cagliari
+192575,Emmanuel Badu,Ghana,CDM|CM,75,29,1,75,Hellas Verona
+192565,Yunus Malli,Turkey,LM|CM|CAM,75,28,0,75,1. FC Union Berlin
+192557,Marvin Plattenhardt,Germany,LB,75,28,5,75,Hertha BSC
+192350,Javier Aquino,Mexico,LM,75,30,2,75,Tigres U.A.N.L.
+191910,Kim Shin Wook,Korea Republic,ST,75,32,4,75,Shanghai Greenland Shenhua FC
+191783,Valon Berisha,Kosovo,LM|CM|CAM,75,27,4,75,Fortuna Düsseldorf
+191565,Yuya Osako,Japan,ST|CAM|CF,75,30,3,75,SV Werder Bremen
+191164,Fidel Martínez,Ecuador,ST|RM|LM,75,30,0,75,Barcelona Guayaquil
+191135,Lago Júnior,Ivory Coast,ST|LM,75,29,2,75,RCD Mallorca
+191055,Dídac Vilà,Spain,LB,75,31,5,75,RCD Espanyol
+190971,Osvaldo Alonso,Cuba,CDM|CM,75,34,2,75,Minnesota United FC
+190885,Adam Smith,England,RB|LB,75,29,2,75,AFC Bournemouth
+190868,Kévin Théophile-Catherine,France,RB|CB,75,30,1,75,Dinamo Zagreb
+190824,Omar Elabdellaoui,Norway,RB,75,28,5,75,Olympiacos CFP
+190666,Manuel Gulde,Germany,CB,75,29,0,75,Sport-Club Freiburg
+190569,Stefan Frei,United States,GK,75,34,0,75,Seattle Sounders FC
+190558,Ike Opara,United States,CB,75,31,5,75,Minnesota United FC
+190156,Rubén Pérez,Spain,CDM|CM,75,31,0,75,CD Leganés
+190034,Timothée Kolodziejczak,France,LB|CB,75,28,2,76,AS Saint-Étienne
+189963,Wilfried Bony,Ivory Coast,ST,75,31,18,75,Al Ittihad
+189857,Quique,Spain,ST|RM|LM,75,30,1,75,SD Eibar
+189795,Éder,Portugal,ST,75,32,1,75,Lokomotiv Moscow
+189600,Josef Hušbauer,Czech Republic,CM|CAM,75,30,0,75,SG Dynamo Dresden
+189484,Davide Santon,Italy,RB|LB,75,29,8,75,Roma
+189410,Danny Latza,Germany,CDM|CM,75,30,2,75,1. FSV Mainz 05
+189390,Bastian Oczipka,Germany,LB|CB,75,31,1,75,FC Schalke 04
+189354,Susaeta,Spain,RW|LW,75,32,5,75,Melbourne City
+189221,João Aurélio,Portugal,RB,75,31,1,75,Moreirense FC
+189218,Ryan Jack,Scotland,CDM|CM,75,28,1,76,Rangers FC
+189169,Jonathas,Brazil,ST,75,31,2,75,Elche CF
+189157,Yannick Bolasie,DR Congo,RW|LW,75,31,1,75,Sporting CP
+189084,Eloy Room,Curacao,GK,75,31,2,75,Columbus Crew SC
+189043,Daniel Brosinski,Germany,RB|LB,75,32,1,75,1. FSV Mainz 05
+188938,Cristian Álvarez,Argentina,GK,75,34,1,75,R. Zaragoza
+188879,Alfred N'Diaye,Senegal,CDM|CM,75,30,0,75,Al Shabab
+188313,Diogo Viana,Portugal,RWB|RW,75,30,5,75,SC Braga
+188197,Lucas Viatri,Argentina,ST,75,33,0,75,Colón de Santa Fe
+188166,Matt Phillips,Scotland,RM|RW,75,29,3,75,West Bromwich Albion
+187924,Clément Grenier,France,CM|CAM,75,29,4,75,Stade Rennais FC
+187800,Mauricio Isla,Chile,RB,75,32,4,75,Fenerbahçe SK
+187702,Omar El Kaddouri,Morocco,LM|CM|CAM,75,29,0,75,PAOK
+187421,Jorge Hernández,Mexico,CDM|CM,75,31,0,75,Pachuca
+187075,Dayro Moreno,Colombia,ST,75,34,5,75,Club Atlético Talleres
+186521,Bernardo Espinosa,Colombia,CB,75,31,0,75,RCD Espanyol
+186408,Sebastián Fernández,Uruguay,ST|RM|CAM,75,35,1,75,Club Nacional de Football
+186395,Matt Ritchie,Scotland,LWB|RM|LW,75,30,2,75,Newcastle United
+186392,Joel Ward,England,RB,75,30,2,75,Crystal Palace
+186351,Leroy Fer,Netherlands,CDM,75,30,3,75,Feyenoord
+186146,Danny Welbeck,England,ST|LW,75,29,10,75,Watford
+186132,Danny Drinkwater,England,CM,75,30,6,75,Aston Villa
+186119,Miroslav Stoch,Slovakia,RM|LM|CAM,75,30,5,75,PAOK
+186098,Rodolfo Cota,Mexico,GK,75,33,4,75,Club León
+184703,Luis Montes,Mexico,CDM|CM|CAM,75,34,4,75,Club León
+184626,Nicolás Sánchez,Argentina,CB,75,34,3,75,Monterrey
+184392,Matteo Darmian,Italy,RB|LB,75,30,5,75,Parma
+184274,Chris Basham,England,CB,75,32,5,75,Sheffield United
+184089,Mehdi Carcela-González,Morocco,RM|CAM|RW,75,31,0,75,Standard de Liège
+184082,Lamine Koné,Ivory Coast,CB,75,31,2,75,RC Strasbourg Alsace
+183871,Nicolai Müller,Germany,RM|CAM,75,32,1,75,Western Sydney Wanderers
+183666,Roberto,Spain,GK,75,34,0,75,D. Alavés
+183569,Eric Maxim Choupo-Moting,Cameroon,ST|LW,75,31,7,75,Paris Saint-Germain
+183520,Fran Mérida,Spain,CDM|CM,75,30,1,75,CA Osasuna
+183483,Konstantinos Mitroglou,Greece,ST,75,32,2,75,PSV
+183389,Giovanni Sio,Ivory Coast,ST|RM,75,31,3,75,Gençlerbirligi SK
+183353,Víctor Díaz,Spain,RB,75,32,0,75,Granada CF
+182836,Andy Carroll,England,ST,75,31,8,75,Newcastle United
+182744,Jose Holebas,Greece,LB,75,36,1,75,Watford
+182670,Mahmut Tekdemir,Turkey,CB|CDM|CM,75,32,3,75,Medipol Basaksehir FK
+182179,Sebastian De Maio,France,CB,75,33,1,75,Udinese
+182168,Andrea Ranocchia,Italy,CB,75,32,11,75,Inter
+182133,Alexandru Epureanu,Moldova,CB,75,33,0,75,Medipol Basaksehir FK
+181481,Danny Vukovic,Australia,GK,75,35,0,75,KRC Genk
+180808,Ondrej Kúdela,Czech Republic,CB|CDM,75,33,2,75,SK Slavia Praha
+180706,Craig Cathcart,Northern Ireland,CB,75,31,3,75,Watford
+180283,Ki Sung Yueng,Korea Republic,CDM|CM,75,31,1,75,RCD Mallorca
+179551,Ola Kamara,Norway,ST|LW,75,30,1,75,D.C. United
+179516,Rouwen Hennings,Germany,ST,75,32,0,75,Fortuna Düsseldorf
+178253,Ivo,Brazil,CM,75,33,0,75,Henan Jianye FC
+177159,Fabian Johnson,United States,RB|LB|LM,75,32,2,75,Borussia Mönchengladbach
+176731,Pontus Wernbloom,Sweden,CDM,75,34,3,75,PAOK
+176483,Dmytro Chygrynskyi,Ukraine,CB,75,33,1,75,AEK Athens
+176285,Winston Reid,New Zealand,CB,75,32,0,75,Sporting Kansas City
+176237,Jozy Altidore,United States,ST,75,30,2,75,Toronto FC
+173608,Joselu,Spain,ST,75,30,1,75,D. Alavés
+173146,Luca Cigarini,Italy,CDM|CM,75,34,3,75,Cagliari
+172937,Glenn Murray,England,ST,75,36,0,75,Brighton & Hove Albion
+172723,Asmir Begovic,Bosnia & Herzegovina,GK,75,33,5,75,Milan
+172316,Coke,Spain,RB|CB|RM,75,33,0,75,Levante UD
+172018,Jonatan Maidana,Argentina,CB,75,35,3,75,Deportivo Toluca
+171875,Caner Erkin,Turkey,LB|LM,75,31,7,75,Besiktas JK
+171018,Mario Suárez,Spain,CDM|CM,75,33,4,75,Rayo Vallecano
+170719,Diego Buonanotte,Argentina,CAM,75,32,0,75,Universidad Católica
+170159,Felix Bastians,Germany,LB|CB,75,32,1,75,Tianjin TEDA FC
+170084,Wayne Hennessey,Wales,GK,75,33,1,75,Crystal Palace
+169697,Darren Randolph,Republic of Ireland,GK,75,33,2,75,West Ham United
+169324,Andreas Ulmer,Austria,LB|LWB|LM|LW,75,34,1,75,FC Red Bull Salzburg
+168621,Zeca,Greece,CM,75,31,1,75,FC København
+167959,Marcelo Grohe,Brazil,GK,75,33,2,75,Al Ittihad
+167431,Gonzalo Castro,Germany,LB|CM,75,33,3,75,VfB Stuttgart
+165769,Cássio,Brazil,GK,75,39,1,75,Al Taawoun
+165536,Gustavo Cabral,Argentina,CB,75,34,3,75,Pachuca
+163699,Stéphane Sessègnon,Benin,CM|CAM,75,36,0,75,Gençlerbirligi SK
+163665,Daniel Congré,France,CB,75,35,1,75,Montpellier Hérault SC
+162220,Sinan Bolat,Turkey,GK,75,31,3,75,Royal Antwerp FC
+161805,Valon Behrami,Switzerland,CDM|CM,75,35,2,75,Genoa
+158144,Salva Sevilla,Spain,CDM|CM,75,36,3,75,RCD Mallorca
+158138,Aaron Hunt,Germany,CM|CAM,75,33,2,75,Hamburger SV
+156412,José de Jesús Corona,Mexico,GK,75,39,4,75,Cruz Azul
+155887,Michael Bradley,United States,CDM|CM,75,32,6,75,Toronto FC
+153048,Magnus Wolff Eikrem,Norway,CM|CAM,75,29,0,75,Molde FK
+152916,Rubens Sambueza,Argentina,CDM|RM|CM,75,36,5,75,Pachuca
+152908,Ashley Young,England,RB|RM|LM,75,35,22,75,Inter
+150724,Joe Hart,England,GK,75,33,10,75,Burnley
+148803,Klaas-Jan Huntelaar,Netherlands,ST,75,36,10,75,Ajax
+148526,Pawel Kieszek,Poland,GK,75,36,0,75,Rio Ave FC
+144172,Serkan Kirintili,Turkey,GK,75,35,0,75,Konyaspor
+142966,Jesús Dátolo,Argentina,CM|CAM,75,36,1,75,Club Atlético Banfield
+142959,Mariano Barbosa,Argentina,GK,75,36,0,75,Villarreal CF
+142721,Marcelo Barovero,Argentina,GK,75,36,4,75,Monterrey
+140620,Ragnar Klavan,Estonia,CB,75,34,4,75,Cagliari
+139062,Willy Caballero,Argentina,GK,75,38,15,75,Chelsea
+135451,Gomes,Brazil,GK,75,39,1,75,Watford
+134820,Scott Brown,Scotland,CDM,75,35,2,75,Celtic
+134779,Jimmy Briand,France,ST,75,34,3,75,FC Girondins de Bordeaux
+132740,Jesper Hansen,Denmark,GK,75,35,1,75,FC Midtjylland
+47201,Silvio Proto,Belgium,GK,75,37,1,75,Lazio
+254909,Oscar Dorley,Liberia,CDM|RM|CM,74,22,1,84,SK Slavia Praha
+254247,Mostafa Mohamed,Egypt,ST,74,22,8,82,Free Agents
+253289,Guzmán Corujo,Uruguay,CB,74,24,0,81,Club Nacional de Football
+253272,Kevin Dawson,Uruguay,GK,74,28,0,74,Club Atlético Peñarol
+251712,Juan José Santigaro,Ecuador,GK,74,35,2,74,Free Agents
+251566,Gabriel Martinelli,Brazil,ST|LM|LW,74,19,69,88,Arsenal
+251221,Lukáš Kalvach,Czech Republic,CDM|CM,74,25,2,79,Viktoria Plzen
+251182,Iago,Brazil,LB|LM,74,23,1,83,FC Augsburg
+248386,Gustavo Assunção,Brazil,CDM,74,20,11,86,Futebol Clube de Famalicão
+247394,Dejan Kulusevski,Sweden,CAM|RW,74,20,36,86,Parma
+247375,Dia Saba,Israel,ST|RM|CAM,74,27,0,75,Guangzhou R&F FC
+247045,Joel Kayamba,DR Congo,RM|RW,74,28,1,74,Viktoria Plzen
+247028,Alex Král,Czech Republic,CB|CDM|CM,74,22,6,84,Spartak Moscow
+246669,Bukayo Saka,England,LB|LM|LW,74,18,83,89,Arsenal
+246618,Adam Hlozek,Czech Republic,ST|RM|LM,74,18,27,88,Sparta Praha
+246147,Mason Greenwood,England,ST|RM,74,18,274,89,Manchester United
+246113,Adrià Pedrosa,Spain,LB|LWB|LW,74,22,11,84,RCD Espanyol
+245630,Youssouf Fofana,France,CDM|CM,74,21,9,80,AS Monaco Football Club SA
+245426,Marash Kumbulla,lbania,CB,74,20,35,86,Hellas Verona
+245371,Thiago Almada,Argentina,CM|CAM|LW,74,19,83,88,Vélez Sarsfield
+245158,Luis Javier Suárez,Colombia,ST,74,22,16,85,R. Zaragoza
+244963,Ivanildo Fernandes,Portugal,CB,74,24,1,80,Çaykur Rizespor
+244727,Léandre Tawamba,Cameroon,ST,74,30,0,74,Al Taawoun
+244517,Elvis Saric,Bosnia & Herzegovina,CDM|CM,74,30,3,74,Al Ahli
+244380,Vitaliy Mykolenko,Ukraine,LB,74,21,4,83,Dynamo Kyiv
+244376,Volodymyr Shepelev,Ukraine,CDM|CM|CAM,74,23,5,83,Dynamo Kyiv
+244253,Uroš Racic,Serbia,CM,74,22,2,82,Futebol Clube de Famalicão
+244206,Nehuén Pérez,Argentina,CB,74,20,12,84,Futebol Clube de Famalicão
+243656,Nemanja Radonjic,Serbia,RW|LW,74,24,6,79,Olympique de Marseille
+243014,Bryan Mbeumo,France,ST|RM|RW,74,20,22,85,Brentford
+242384,Douglas,Brazil,ST,74,32,1,74,Vissel Kobe
+242201,Luis Milla,Spain,CDM|CM,74,25,10,80,CD Tenerife
+241907,Diego Rossi,Uruguay,ST|RW|LW,74,22,9,83,LAFC
+241854,Perr Schuurs,Netherlands,CB,74,20,14,83,Ajax
+241775,Jawad El Yamiq,Morocco,CB,74,28,0,76,R. Zaragoza
+241509,Mauro Júnior,Brazil,LM|CAM,74,21,3,81,Heracles Almelo
+241497,Colin Dagba,France,RWB|RB|RW,74,21,19,79,Paris Saint-Germain
+241168,Giorgi Chakvetadze,Georgia,LM|CAM,74,20,8,85,KAA Gent
+240976,Marcelo Saracchi,Uruguay,LB,74,22,12,81,Galatasaray SK
+240740,Callum Hudson-Odoi,England,RW|LW,74,19,91,88,Chelsea
+240493,Alexandros Paschalakis,Greece,GK,74,31,0,75,PAOK
+240471,Fernando Gorriarán,Uruguay,CDM|CM,74,25,6,78,Santos Laguna
+240037,Srdan Plavšic,Serbia,RM|LM,74,24,0,77,Sparta Praha
+239970,Paulinho,Brazil,RM|CAM,74,20,39,86,Bayer 04 Leverkusen
+239950,Pêpê,Portugal,CDM|CM,74,23,4,82,Vitória Guimarães
+238857,Wilson Manafá,Portugal,RB|LB,74,26,4,77,FC Porto
+238621,Rodrigo Becão,Brazil,CB,74,24,4,81,Udinese
+238072,Eduard Löwen,Germany,CDM|CM,74,23,1,81,FC Augsburg
+238068,Marco Richter,Germany,RM|LM|RW,74,22,1,82,FC Augsburg
+238033,Florin Ni?a,Romania,GK,74,33,2,74,Sparta Praha
+237960,Mama Baldé,Guinea Bissau,ST|RM|RW,74,24,4,78,Dijon FCO
+237646,Daniel Muñoz,Colombia,RB|CB|CM,74,24,4,82,Atlético Nacional
+237532,Rodrigo,Brazil,RB,74,27,2,75,PAOK
+237520,Mady Camara,Guinea,CDM|CM,74,23,2,81,Olympiacos CFP
+237303,Omar Kharbin,Syria,ST,74,26,4,77,Al Hilal
+237223,Julian Gressel,Germany,RWB|RM|CAM|RW,74,26,0,75,D.C. United
+237161,Sean Longstaff,England,CM|CAM,74,22,6,85,Newcastle United
+237086,Kim Min Jae,Korea Republic,CB,74,23,8,81,Beijing Sinobo Guoan FC
+237043,Roberto Alvarado,Mexico,RM|LM|CAM,74,21,8,82,Cruz Azul
+236935,Hannes Wolf,Austria,CAM,74,21,9,85,RB Leipzig
+236899,Alexandr Sobolev,Russia,ST,74,23,6,78,Spartak Moscow
+236817,Habib Maïga,Ivory Coast,CDM|CM,74,24,2,81,Football Club de Metz
+236772,Dominik Szoboszlai,Hungary,LM|CM|CAM,74,19,46,87,FC Red Bull Salzburg
+236572,Owen Wijndal,Netherlands,LB,74,20,11,84,AZ
+236527,Santiago Cáseres,Argentina,CDM|CM,74,23,4,82,Club América
+236499,Douglas Luiz,Brazil,CDM|CM,74,22,16,87,Aston Villa
+236498,Sam Lammers,Netherlands,ST,74,23,5,82,PSV
+236480,Yves Bissouma,Mali,CDM|CM,74,23,6,79,Brighton & Hove Albion
+236477,Alexis Claude-Maurice,France,LM|CAM|LW,74,22,9,79,OGC Nice
+236393,Marc Cardona,Spain,ST,74,25,5,80,CA Osasuna
+236007,Ezequiel Barco,Argentina,CF|LW,74,21,23,85,Atlanta United
+235996,Nicolas Moumi Ngamaleu,Cameroon,RM|LM,74,26,1,77,BSC Young Boys
+235565,Dylan Bronn,Tunisia,RB|CB,74,25,1,79,Football Club de Metz
+235522,Aleix Febas,Spain,CDM|CM|CAM,74,24,2,81,RCD Mallorca
+235512,Gelson Dala,Angola,ST|CF,74,24,6,79,Rio Ave FC
+235029,Fedor Chalov,Russia,ST|CF,74,22,13,82,PFC CSKA Moscow
+234870,Efecan Karaca,Turkey,RM|CAM,74,30,5,74,Alanyaspor
+234833,Florian Müller,Germany,GK,74,22,6,82,1. FSV Mainz 05
+234772,Salvi Sánchez,Spain,RM|LM,74,29,1,74,Cádiz CF
+234710,Didier Lamkel Zé,Cameroon,RM|LM,74,23,4,79,Royal Antwerp FC
+234468,Emanuel Reynoso,Argentina,LM|CM|CAM,74,24,3,80,Boca Juniors
+234458,Carlos Quintana,Argentina,CB,74,32,0,74,Argentinos Juniors
+234078,Orel Mangala,Belgium,CDM|CM,74,22,2,83,VfB Stuttgart
+234015,Caio Milaçar,Brazil,CAM,74,24,0,74,Ceará Sporting Club
+233500,Luis Sinisterra,Colombia,ST|RW|LW,74,21,8,84,Feyenoord
+233478,Miha Zajc,Slovenia,CM|CAM,74,26,3,79,Fenerbahçe SK
+233201,Chris Mepham,Wales,CB,74,22,6,82,AFC Bournemouth
+233061,Mathias Pereira Lage,Portugal,LM|CM,74,23,2,82,Angers SCO
+232905,Junya Ito,Japan,RM|RW,74,27,1,74,KRC Genk
+232805,Bernardo,Brazil,LB|LWB|LW,74,25,3,78,Brighton & Hove Albion
+232789,Teruhito Nakagawa,Japan,ST|RM,74,28,2,74,Yokohama F·Marinos
+232693,Chidozie Awaziem,Nigeria,CB,74,23,0,81,CD Leganés
+232670,Fernando Zampedri,Argentina,ST,74,32,0,74,Universidad Católica
+232517,Nicolás Silva,Argentina,RM|LM|CAM,74,30,0,74,Argentinos Juniors
+232514,Gabriel Carabajal,Argentina,LM,74,28,0,74,Unión de Santa Fe
+232488,Cristian Romero,Argentina,CB,74,22,15,84,Genoa
+232223,Konstantinos Tsimikas,Greece,LB|LWB|LW,74,24,13,79,Olympiacos CFP
+232132,Joaquín,Spain,CB|CDM,74,24,3,81,R. Valladolid CF
+232080,Jack Harrison,England,RM|LM|LW,74,23,14,80,Leeds United
+231949,Saman Ghoddos,Iran,ST|LM|LW,74,26,0,75,Amiens SC
+231777,Abdülkadir Ömür,Turkey,RM|CAM,74,21,8,83,Trabzonspor
+231745,Landry Dimata,Belgium,ST,74,22,1,81,RSC Anderlecht
+231545,Miguel Silva,Portugal,GK,74,25,1,79,Vitória Guimarães
+231485,Axel Tuanzebe,England,LB|CB,74,22,26,82,Manchester United
+231410,Brahim,Spain,RW|LW,74,20,33,86,Real Madrid
+231280,Iván Alejo,Spain,RM|LM,74,25,1,77,Cádiz CF
+231247,Braian Cufré,Argentina,LB|LWB|LW,74,23,11,81,Vélez Sarsfield
+231242,Adam Ounas,Algeria,CF|RW|LW,74,23,11,79,OGC Nice
+231236,Mathieu Cafaro,France,RM|LM|CM,74,23,3,82,Stade de Reims
+231207,Jhon Lucumi,Colombia,LB|CB,74,22,5,83,KRC Genk
+231150,Jamiro Monteiro,Cape Verde,LM|CM|CAM,74,26,0,77,Philadelphia Union
+231138,Christian Bassogog,Cameroon,ST|RM|RW,74,24,4,79,Henan Jianye FC
+231113,Zelimkhan Bakaev,Russia,CAM|RW|LW,74,24,5,83,Spartak Moscow
+231007,Josip Mišic,Croatia,CDM|CM|CAM,74,26,1,78,PAOK
+230988,Filip Krovinovic,Croatia,CM|CAM,74,24,2,80,West Bromwich Albion
+230936,Ádám Nagy,Hungary,CDM|CM,74,25,6,79,Bristol City
+230899,Ademola Lookman,England,RM|LM,74,22,16,84,RB Leipzig
+230857,Nuno da Costa,Cape Verde,ST,74,29,1,74,Nottingham Forest
+230717,Tino Kadewere,Zimbabwe,ST,74,24,6,80,Havre Athletic Club
+230665,Gustavo Sauer,Brazil,RM|LM,74,27,2,74,Boavista FC
+230503,Jadson Vidigal,Brazil,ST,74,28,0,74,Grêmio
+230495,Hélton Celanova,Brazil,ST,74,28,4,74,Internacional
+230488,Alvildo Sousa,Brazil,CM|CAM,74,24,0,74,Avaí
+230487,Leo Caldeirinha,Brazil,LM|CAM,74,24,1,74,Goiás
+230483,Jacson Zonta,Brazil,RM|LM|CAM,74,24,0,74,Goiás
+230482,Marlon Nideiro,Brazil,CAM,74,24,3,74,Grêmio
+230466,Fábio Melitinho,Brazil,LM|CAM,74,24,2,74,Fluminense
+230461,Leordinho Paes,Brazil,LM|CAM,74,20,0,74,Santos
+230445,Rodolfo Pittaça,Brazil,ST|LM,74,20,0,76,Vasco da Gama
+230437,Elias Fontoira,Brazil,CDM,74,24,1,74,Internacional
+230432,Dagoberto Esteiro,Brazil,ST,74,24,0,76,São Paulo
+230422,Murilo Sancha,Brazil,RM|CM,74,32,0,74,Vasco da Gama
+230417,Edercinho Sepa,Brazil,CDM,74,20,1,74,Grêmio
+230397,Enaldo Toxeto,Brazil,CB,74,36,2,74,Grêmio
+230354,Jesus Andradaldo,Brazil,RB,74,28,1,74,Internacional
+230339,Padilhisco,Brazil,LB|LM,74,28,1,74,Bahia
+230324,Adrianiscito,Brazil,GK,74,28,0,74,Grêmio
+230320,Victorino Magela,Brazil,GK,74,20,1,74,Bahia
+230301,Emu Teixeira,Brazil,CB,74,36,0,74,Vasco da Gama
+230282,Guto Costinho,Brazil,CB|CF,74,32,0,74,Palmeiras
+230276,Nicolás Formido,Brazil,LM|CM|CAM,74,20,2,74,Internacional
+230272,Kauã Abranches,Brazil,RB|RM|CAM,74,24,1,74,Fortaleza
+230267,Sebas Couteira,Brazil,RM|CAM,74,20,1,74,Club Athletico Paranaense
+230255,Edvaldisco,Brazil,CDM|CM|CAM,74,28,0,74,Botafogo
+230244,Leo Vimieiro,Brazil,LB,74,24,2,76,São Paulo
+230242,Lúcio Calegario,Brazil,LB|CM,74,28,2,74,São Paulo
+230239,Claudiano Sobrino,Brazil,CDM|CM,74,24,1,74,Chapecoense
+230237,Robson Denho,Brazil,CDM|CM,74,28,0,74,Avaí
+230219,Estevão Candeira,Brazil,RB|LB,74,24,0,76,Flamengo
+230218,Fabiano Sonta,Brazil,CB|CDM,74,28,0,74,Fluminense
+230215,Osvaldo Lodeiro,Brazil,RB|LB|CB,74,20,1,74,Centro Sportivo Alagoano
+230213,Kaíqundo Calado,Brazil,RB|CDM,74,24,0,76,São Paulo
+230209,Hugo Goiteira,Brazil,CB,74,28,0,74,Ceará Sporting Club
+230207,Kel Perinho,Brazil,CB,74,24,0,74,Chapecoense
+230202,Jailson Caeiro,Brazil,RB|RM,74,28,1,74,Botafogo
+230191,Enzo Marteiro,Brazil,GK,74,28,0,74,Flamengo
+230186,Enaldo Praz,Brazil,LB|LWB|LW,74,36,0,74,Grêmio
+229980,César Montes,Mexico,CB,74,23,11,82,Monterrey
+229758,Rade Krunic,Bosnia & Herzegovina,CM,74,26,5,77,Milan
+229749,Alexander Barboza,Argentina,CB,74,25,0,79,Independiente
+229699,Nicolás Benedetti,Colombia,RM|CAM,74,23,4,81,Club América
+229659,Bryan Heynen,Belgium,CDM|CM,74,23,0,80,KRC Genk
+229585,Miloš Degenek,Australia,CB|CDM,74,26,12,79,Free Agents
+229476,Waldemar Anton,Germany,CB|CDM,74,24,5,81,Hannover 96
+229148,Dalbert,Brazil,LB|LM,74,26,6,75,Fiorentina
+229010,Selim Amallah,Morocco,RM|CM|CAM,74,23,0,80,Standard de Liège
+228813,Aleix García,Spain,RM|CM|CAM,74,23,2,81,Royal Excel Mouscron
+228804,Alexis De Sart,Belgium,CDM|CM,74,23,1,80,Royal Antwerp FC
+228736,Wuilker Faríñez,Venezuela,GK,74,22,26,86,Millonarios FC
+228729,Bruno Valdez,Paraguay,RB|CB,74,27,3,76,Club América
+228717,Yoshinori Muto,Japan,ST,74,28,5,74,Newcastle United
+228698,Viktor Kovalenko,Ukraine,CM|CAM,74,24,7,81,Shakhtar Donetsk
+228386,Pape Abou Cissé,Senegal,CB,74,24,4,80,Olympiacos CFP
+228332,Hamza Choudhury,England,CDM|CM,74,22,6,80,Leicester City
+228124,Matej Jonjic,Croatia,CB,74,29,0,74,Cerezo Osaka
+227927,Kyle Walker-Peters,England,RB,74,23,11,79,Southampton
+227890,Nuno Santos,Portugal,RW|LW,74,25,3,77,Rio Ave FC
+227647,Maximilian Mittelstädt,Germany,LB|LM,74,23,2,83,Hertha BSC
+227503,Jacob Bruun Larsen,Denmark,LM,74,21,8,84,TSG 1899 Hoffenheim
+227394,Carlos González,Paraguay,ST,74,27,2,75,U.N.A.M.
+227174,Matty Cash,England,RB|RM|LM,74,22,18,82,Nottingham Forest
+227153,Cristian Borja,Colombia,LB,74,27,0,74,Sporting CP
+226853,Jeremiah St. Juste,Netherlands,RB|CB,74,23,8,79,1. FSV Mainz 05
+226807,Cristian Roldan,United States,CDM|RM|CM,74,25,4,81,Seattle Sounders FC
+226765,Lucas Gamba,Argentina,ST|LM,74,33,0,74,Rosario Central
+226754,Ismaël Bennacer,Algeria,CDM|CM,74,22,51,84,Milan
+226698,Nicolás Giménez,Argentina,CM|CAM,74,24,1,81,Arsenal de Sarandí
+226592,Jakub Jankto,Czech Republic,LM|CM,74,24,6,81,Sampdoria
+226539,Younes Namli,Denmark,RM|CAM,74,26,1,77,Colorado Rapids
+226385,Cristian Espinoza,Argentina,RM|LM|RW,74,25,1,76,San Jose Earthquakes
+226370,André Horta,Portugal,CM,74,23,3,81,SC Braga
+226086,Ángel González,Argentina,ST|RM|RW,74,26,3,77,Estudiantes de La Plata
+225880,Jorge Moreira,Paraguay,RB,74,30,5,74,Portland Timbers
+225748,Todd Cantwell,England,RM|LM,74,22,23,82,Norwich City
+225719,Kelechi Iheanacho,Nigeria,ST|CAM,74,23,13,80,Leicester City
+225706,Miguel Trauco,Peru,LB|LM,74,27,0,75,AS Saint-Étienne
+225668,Karlan Grant,England,ST|LM|LW,74,22,8,82,Huddersfield Town
+225653,Gyrano Kerk,Netherlands,ST|RW|LW,74,24,6,79,FC Utrecht
+225646,Camilo Mayada,Uruguay,RB|LB|RM,74,29,3,74,Club Atlético de San Luis
+225475,Hernani,Brazil,CDM|CM,74,26,2,78,Parma
+225410,Adam Masina,Italy,LB,74,26,2,76,Watford
+225363,Rúben Lameiras,Portugal,RW|LW,74,25,3,77,Futebol Clube de Famalicão
+224656,Ola Aina,Nigeria,RB|RM|LM,74,23,7,81,Torino
+224574,Orbelín Pineda,Mexico,CDM|LM|CM,74,24,9,81,Cruz Azul
+224510,Walter Bou,Argentina,ST,74,26,0,76,Unión de Santa Fe
+224271,Thomas Goiginger,Austria,RW,74,27,0,74,LASK Linz
+224258,Kristoffer Ajer,Norway,CB,74,22,10,82,Celtic
+224151,Henry Martín,Mexico,ST|RW,74,27,2,75,Club América
+223682,Granell,Spain,CDM|CM,74,31,2,74,Girona FC
+223671,Stefan Posch,Austria,RB|CB,74,23,1,80,TSG 1899 Hoffenheim
+223608,Eraso,Spain,RM|CM|CAM,74,30,0,74,CD Leganés
+223517,Danilo,Brazil,CB|CM,74,24,3,78,OGC Nice
+223297,Carraça,Portugal,RWB|RW,74,27,1,75,Boavista FC
+223284,Pablo Martinez,France,CB,74,31,0,74,Nîmes Olympique
+223248,Juan Martín Lucero,Argentina,ST,74,28,0,74,Defensa y Justicia
+223198,Ali Adnan,Iraq,LB|LWB|LM|LW,74,26,10,75,Vancouver Whitecaps FC
+223066,Andrés Chávez,Argentina,ST,74,29,1,74,Club Atlético Huracán
+223033,Jorge Meré,Spain,CB,74,23,2,82,1. FC Köln
+223017,Ömer Ali Sahiner,Turkey,LB|RM|LM,74,28,0,74,Konyaspor
+222951,Marek Rodák,Slovakia,GK,74,23,4,81,Fulham
+222558,Rick Karsdorp,Netherlands,RB,74,25,3,78,Feyenoord
+222511,Ezequiel Unsain,Argentina,GK,74,25,4,79,Defensa y Justicia
+222493,Marvin Friedrich,Germany,CB,74,24,1,80,1. FC Union Berlin
+221944,Peter Michorl,Austria,CDM|CM,74,25,0,78,LASK Linz
+221740,Enzo Crivelli,France,ST,74,25,3,78,Medipol Basaksehir FK
+221671,Lee Jae Sung,Korea Republic,CM|CAM|CF,74,27,2,75,Holstein Kiel
+221634,Luciano Acosta,Argentina,LM|CAM,74,26,1,75,Club Atlas
+221618,Lys Mousset,France,ST,74,24,1,79,Sheffield United
+221610,Dénes Dibusz,Hungary,GK,74,29,0,74,Free Agents
+221422,Sverrir Ingi Ingason,Iceland,RB|CB,74,26,3,78,PAOK
+221354,Miloš Veljkovic,Serbia,CB|CDM,74,24,3,78,SV Werder Bremen
+221342,Pablo Maffeo,Spain,RWB|RB|RW,74,23,11,81,Girona FC
+221323,Jérôme Junior Onguéné,Cameroon,CB,74,22,4,82,FC Red Bull Salzburg
+221201,Tim Leibold,Germany,LB|LM,74,26,2,77,Hamburger SV
+221000,Badou Ndiaye,Senegal,CDM|CM,74,29,2,74,Trabzonspor
+220905,Jean-Eudes Aholou,Ivory Coast,CDM|CM,74,26,0,78,AS Saint-Étienne
+220782,Marco Ilaimaharitra,Madagascar,CDM|CM,74,25,0,78,Sporting Charleroi
+220763,Ryan Thomas,New Zealand,CM|CAM,74,25,2,78,PSV
+220702,Gastón Silva,Uruguay,LB|CB,74,26,6,77,Independiente
+220673,Renato Tapia,Peru,CDM|CM,74,25,7,79,Feyenoord
+220633,Demarai Gray,England,CF|RW|LW,74,24,7,78,Leicester City
+220609,Valentín Vada,Argentina,CDM|CM|CAM,74,24,0,78,UD Almería
+220502,Mattia Zaccagni,Italy,CM|CAM|CF,74,25,0,80,Hellas Verona
+220475,Alberto Grassi,Italy,CM,74,25,3,78,Parma
+220295,Enner Valencia,Ecuador,ST|CAM,74,30,3,74,Tigres U.A.N.L.
+220209,Kemar Lawrence,Jamaica,LB|LWB|LW,74,27,2,75,RSC Anderlecht
+220031,Oliver McBurnie,Scotland,ST,74,24,10,81,Sheffield United
+219911,Thulani Hlatshwayo,South Africa,RB|CB,74,30,2,74,Free Agents
+219814,Sean Klaiber,Netherlands,RB,74,25,0,77,FC Utrecht
+219797,Roger Martínez,Colombia,ST,74,26,9,79,Club América
+219754,Bruno Varela,Portugal,GK,74,25,2,77,Ajax
+219728,Edgar Méndez,Spain,RM|LM|LW,74,30,0,74,D. Alavés
+219712,Sebastián Cristóforo,Uruguay,CDM|LM|CM,74,26,1,75,SD Eibar
+219585,Martin Valjent,Slovakia,CB,74,24,1,80,RCD Mallorca
+219411,José Izquierdo,Colombia,LM|LW,74,28,2,74,Brighton & Hove Albion
+219087,Sebastián Vegas,Chile,LB|CB,74,23,3,81,Monarcas Morelia
+218745,Olivier Ntcham,France,CDM|CM|CAM,74,24,2,81,Celtic
+218621,Facundo Sánchez,Argentina,RWB|RB|RM|RW,74,30,1,74,Estudiantes de La Plata
+217731,Sandro,Spain,ST|LM,74,25,4,79,R. Valladolid CF
+217605,Lukas Lerager,Denmark,CM,74,27,0,77,Genoa
+216939,Andre Blake,Jamaica,GK,74,29,2,76,Philadelphia Union
+216749,Carlos Mané,Portugal,RW|LW,74,26,2,75,Rio Ave FC
+216692,Sebastián Torrico,Argentina,GK,74,40,1,74,San Lorenzo de Almagro
+216437,Wallace,Brazil,CB,74,25,3,78,SC Braga
+216325,Angus Gunn,England,GK,74,24,7,79,Southampton
+216247,Marcel Tisserand,DR Congo,LB|CB,74,27,0,77,VfL Wolfsburg
+216175,Cican Stankovic,Austria,GK,74,27,1,77,FC Red Bull Salzburg
+216036,Rafael Delgado,Argentina,LB,74,30,0,74,Colón de Santa Fe
+216033,Jorge Broun,Argentina,GK,74,34,1,74,Gimnasia y Esgrima La Plata
+216020,Leonardo Gil,Argentina,CDM|CM,74,29,0,74,Al Ittihad
+215871,Alireza Jahanbakhsh,Iran,RM|RW|LW,74,26,7,74,Brighton & Hove Albion
+215703,Marlon,Brazil,CB,74,24,8,79,Sassuolo
+215644,Burgui,Spain,RM|LM|CAM,74,26,0,75,R. Zaragoza
+215522,Alexander Schlager,Austria,GK,74,24,1,80,LASK Linz
+215441,Serhou Guirassy,France,ST,74,24,2,80,Amiens SC
+215322,Jonathan Silva,Argentina,LB|LWB|LW,74,26,1,79,CD Leganés
+215270,Lucas Zelarayán,Argentina,LM|CAM,74,28,3,74,Columbus Crew SC
+215202,Lucas Janson,Argentina,ST|RW|LW,74,25,2,77,Vélez Sarsfield
+215107,Héctor Villalba,Paraguay,RM|LM|RW,74,26,2,77,Club Libertad
+215103,Édson Puch,Chile,LM|LW,74,33,1,74,Universidad Católica
+215089,Enzo Kalinski,Argentina,CDM|CM,74,33,2,74,Estudiantes de La Plata
+215069,Rodrigo Rey,Argentina,GK,74,29,1,74,Godoy Cruz
+215018,Brahian Alemán,Uruguay,ST|LM|CAM,74,30,0,74,Gimnasia y Esgrima La Plata
+214770,Diego González,Argentina,CM,74,32,1,74,Racing Club
+214763,Paolo Goltz,Argentina,CB,74,35,0,74,Gimnasia y Esgrima La Plata
+214717,Lorenzo Reyes,Chile,CDM|CM,74,29,3,74,Club Atlas
+214665,Juan Ramírez,Argentina,LM|CM|LW,74,27,0,75,San Lorenzo de Almagro
+214601,Stefan Medina,Colombia,RB|CB,74,28,4,74,Monterrey
+214497,Andrés Ricaurte,Colombia,CM|CAM,74,28,3,74,Independiente Medellín
+214463,Wilson Morelo,Colombia,ST,74,33,1,74,Colón de Santa Fe
+214436,Paulo Díaz,Chile,CB,74,25,1,79,River Plate
+214429,Leonardo Valencia,Chile,ST|CAM|LW,74,29,1,74,Colo-Colo
+214408,Igor Lichnovsky,Chile,CB|CDM,74,26,0,79,Cruz Azul
+214207,Felipe Pardo,Colombia,RM|CF|RW,74,29,2,74,Deportivo Toluca
+214136,Francisco Meza,Colombia,CB,74,28,0,76,Tigres U.A.N.L.
+214076,Nicolás Vikonis,Uruguay,GK,74,36,1,74,Puebla
+214026,Johan Mojica,Colombia,LB|LM,74,27,2,75,Girona FC
+213928,Eduard Sobol,Ukraine,LB|LM,74,25,3,77,Club Brugge KV
+213620,Felipe Mora,Chile,ST,74,26,2,77,Portland Timbers
+213581,Martín Nervo,Argentina,RB|CB,74,29,0,75,Club Atlas
+213242,Adrien Tameze,France,CDM|CM,74,26,1,77,Atalanta
+213095,Lucas Cavallini,Canada,ST,74,27,1,74,Vancouver Whitecaps FC
+213063,Róber,Spain,CB|CDM,74,25,2,80,Levante UD
+212715,Sebastián Palacios,Argentina,ST|RM|LM,74,28,4,74,Newell's Old Boys
+212613,Wesley Saïd,France,ST|RW|LW,74,25,2,76,Toulouse Football Club
+210441,Fran Sol,Spain,ST,74,28,4,74,Dynamo Kyiv
+210372,Rachid Ghezzal,Algeria,RM|RW,74,28,2,74,Fiorentina
+210010,Joris van Overeem,Netherlands,CDM|CM,74,26,1,76,FC Utrecht
+209984,Mikel Agu,Nigeria,CDM,74,27,0,77,Vitória Guimarães
+209839,Timo Letschert,Netherlands,CB,74,27,3,76,Hamburger SV
+209818,Joshua Brenet,Netherlands,RWB|RB|LB|RW,74,26,1,76,Vitesse
+209780,Siebe Schrijvers,Belgium,ST|RM|CAM,74,24,6,80,Club Brugge KV
+209673,Dorian Dessoleil,Belgium,CB,74,27,0,76,Sporting Charleroi
+209440,Romarinho,Brazil,ST|LM,74,29,2,74,Al Ittihad
+209329,Dória,Brazil,CB,74,25,4,77,Santos Laguna
+209289,Kévin Rodrigues,Portugal,LB|LM,74,26,1,77,CD Leganés
+208822,Marcos Júnior,Brazil,CAM,74,27,2,74,Yokohama F·Marinos
+208522,Hör?ur Magnússon,Iceland,LB|CB,74,27,1,77,PFC CSKA Moscow
+208375,Marius Müller,Germany,GK,74,27,0,79,FC Luzern
+208260,Dimitrios Kourmpelis,Greece,CB|CDM|CM,74,26,2,78,Panathinaikos FC
+208054,Leandro Fernández,Argentina,ST|LM,74,29,3,74,Independiente
+208053,Dimitrios Pelkas,Greece,RM|LM|CAM,74,26,0,77,PAOK
+207998,Danny Ward,Wales,GK,74,27,2,75,Leicester City
+207952,Semi Ajayi,Nigeria,CB|CDM,74,26,2,77,West Bromwich Albion
+207924,Lucas Lima,Brazil,LB|LM,74,28,0,74,Al Ahli
+207725,Mike van der Hoorn,Netherlands,CB,74,27,6,77,Swansea City
+207715,Nicolas López,Uruguay,RM|CAM,74,26,7,77,Tigres U.A.N.L.
+207683,Sokratis Dioudis,Greece,GK,74,27,0,77,Panathinaikos FC
+207676,Rafael Silva,Brazil,ST|RW|LW,74,28,0,74,Wuhan Zall Professional FC
+207555,Filip Helander,Sweden,CB,74,27,1,76,Rangers FC
+206651,Roberto Torres,Spain,RM|CM,74,31,1,74,CA Osasuna
+206553,Simon Falette,Guinea,CB,74,28,3,76,Fenerbahçe SK
+206544,Roman Bezus,Ukraine,CM|CAM,74,29,0,74,KAA Gent
+206306,Jordan Ferri,France,CM,74,28,2,74,Montpellier Hérault SC
+206152,Luciano Aued,Argentina,CDM|CM,74,33,1,74,Universidad Católica
+206114,Kristoffer Olsson,Sweden,CM,74,25,2,79,Free Agents
+205970,Jed Wallace,England,RM|CAM,74,26,1,75,Millwall
+205942,Silviu Lung,Romania,GK,74,31,1,74,Kayserispor
+205895,Alexander Ring,Finland,CDM|CM,74,29,0,74,New York City FC
+205756,Stefano Denswil,Netherlands,LB|CB,74,27,4,77,Bologna
+205601,Christian Atsu,Ghana,RM|LM,74,28,5,74,Newcastle United
+205590,Luís Hernández,Spain,CB,74,31,1,74,Málaga CF
+205553,Luca Ceppitelli,Italy,CB,74,30,1,74,Cagliari
+205478,Michael Krmencík,Czech Republic,ST,74,27,1,75,Club Brugge KV
+205365,Jan Kopic,Czech Republic,RW|LW,74,30,0,74,Viktoria Plzen
+205360,Kemar Roofe,Jamaica,ST,74,27,2,75,RSC Anderlecht
+205257,Naïm Sliti,Tunisia,LM|CAM,74,28,0,74,Ettifaq FC
+205188,Rachid Alioui,Morocco,ST,74,28,1,74,Angers SCO
+204876,Clerc,Spain,LB,74,28,2,74,Levante UD
+204830,Vadillo,Spain,RM|LM,74,25,1,77,Granada CF
+204713,Joel Campbell,Costa Rica,ST|RM,74,28,8,74,Club León
+204612,Ole Kristian Selnæs,Norway,CDM|CM,74,26,4,78,Shenzen FC
+204542,Yoshimar Yotún,Peru,LB|LM|CM,74,30,1,74,Cruz Azul
+204539,Luis Advíncula,Peru,RWB|RB|RW,74,30,11,74,Rayo Vallecano
+204523,Rubén Pardo,Spain,CDM|CM|CAM,74,27,2,74,FC Girondins de Bordeaux
+204496,Patrick Bauer,Germany,CB,74,27,0,77,Preston North End
+204387,Juan Carlos,Spain,ST|CM|CAM,74,29,1,74,SD Huesca
+203910,Anthony Knockaert,France,RM|RW,74,28,5,74,Fulham
+203888,Eric Botteghin,Brazil,CB,74,32,1,74,Feyenoord
+203864,Bruno Zuculini,Argentina,CB|CDM,74,27,3,75,River Plate
+203736,Stéphane Bahoken,Cameroon,ST,74,28,0,74,Angers SCO
+203668,Alfredo Donnarumma,Italy,ST,74,29,4,74,Brescia
+203633,Massimo Bruno,Belgium,RM|LM|CAM,74,26,0,75,Sporting Charleroi
+203505,Joe Bryan,England,LB|LWB|LW,74,26,1,77,Fulham
+203177,Dimitri Foulquier,France,RB|RM,74,27,1,74,Granada CF
+203128,Thomas Monconduit,France,CDM|CM,74,29,0,74,Amiens SC
+202882,Thievy Bifouma,Congo,RM|LM,74,28,5,74,Yeni Malatyaspor
+202848,Gianluca Caprari,Italy,ST|CF,74,26,6,77,Parma
+202676,Adam Taggart,Australia,ST|CF,74,27,0,77,Suwon Samsung Bluewings
+202331,Facundo Quignon,Argentina,CDM|CM,74,27,0,77,Club Atlético Lanús
+202316,Timmy Chandler,United States,RWB|RB|RM|RW,74,30,1,74,Eintracht Frankfurt
+202151,Konstantinos Stafylidis,Greece,LB|LWB|LW,74,26,1,76,TSG 1899 Hoffenheim
+201887,Daniel Johnson,Jamaica,CDM|CAM,74,27,2,75,Preston North End
+201335,Federico Santander,Paraguay,ST,74,29,3,74,Bologna
+201155,Ravel Morrison,England,CM|CAM,74,27,7,75,Middlesbrough
+200911,Bogdan Stancu,Romania,ST|LM,74,33,1,74,Gençlerbirligi SK
+200875,Emmanuel Gigliotti,Argentina,ST,74,33,2,74,Deportivo Toluca
+200759,Jeffrey Schlupp,Ghana,LB|LM|CM,74,27,3,74,Crystal Palace
+200588,Hong Jeong Ho,Korea Republic,CB,74,30,1,74,Jeonbuk Hyundai Motors
+200519,Pulido,Spain,CB,74,29,1,75,SD Huesca
+200446,Camilo,Brazil,ST,74,32,1,74,Club Tijuana
+200433,Lukas Hinterseer,Austria,ST,74,29,0,74,Hamburger SV
+200332,Tomáš Koubek,Czech Republic,GK,74,27,1,76,FC Augsburg
+200322,Soares,Brazil,CDM|CM,74,31,0,74,Gil Vicente FC
+200212,Michael Esser,Germany,GK,74,32,0,74,TSG 1899 Hoffenheim
+200206,Alan Patrick,Brazil,CDM|CAM,74,29,3,74,Shakhtar Donetsk
+200197,Nicolás Blandi,Argentina,ST,74,30,4,74,Colo-Colo
+200159,Stefan Ortega,Germany,GK,74,27,0,77,DSC Arminia Bielefeld
+199912,Sonny Kittel,Germany,CAM|LW,74,27,2,74,Hamburger SV
+199813,Gernot Trauner,Austria,CB,74,28,3,76,LASK Linz
+199562,Ilie Sánchez,Spain,CDM|CM,74,29,0,74,Sporting Kansas City
+199493,Diego Mariño,Spain,GK,74,30,0,75,R. Sporting
+199417,Harun Tekin,Turkey,GK,74,31,0,75,Fenerbahçe SK
+199274,Ilja Nestorovski,North Macedonia,ST,74,30,1,74,Udinese
+199183,Kim Bo Kyung,Korea Republic,CM|CAM,74,30,1,74,Jeonbuk Hyundai Motors
+199170,Bryan Dabo,Burkina Faso,CDM|CM,74,28,2,74,SPAL
+199060,Georgios Tzavellas,Greece,LB|CB,74,32,0,74,Alanyaspor
+199000,Trent Sainsbury,Australia,CB,74,28,2,75,Free Agents
+198817,Romain Amalfitano,France,CDM|CM,74,30,0,74,Dijon FCO
+198617,Dominick Drexler,Germany,LM|CM|CAM,74,30,4,74,1. FC Köln
+198599,Martin Linnes,Norway,RB|LB,74,28,4,74,Galatasaray SK
+198352,Stefan Bell,Germany,CB,74,28,3,75,1. FSV Mainz 05
+198128,Caio,United Arab Emirates,ST|LM,74,29,1,74,Al Ain FC
+198032,Dan Burn,England,LB|CB,74,28,4,75,Brighton & Hove Albion
+197813,Jonas Martin,France,CM,74,30,2,74,Stade Rennais FC
+197402,Anselmo,Brazil,CDM|CM,74,31,1,74,Al Wehda
+197117,Ioannis Fetfatzidis,Greece,RM|CAM|RW,74,29,2,74,Free Agents
+196318,Serdar Gürler,Turkey,RM|LM|LW,74,28,0,74,Göztepe SK
+196073,Esteban Paredes,Chile,ST,74,39,5,74,Colo-Colo
+195479,James Tavernier,England,RB,74,28,4,74,Rangers FC
+195038,Florian Kainz,Austria,RM|LM|CAM,74,27,3,74,1. FC Köln
+194996,Borja Bastón,Spain,ST,74,27,2,74,Aston Villa
+194979,Tiago Pinto,Portugal,LB,74,32,0,74,MKE Ankaragücü
+194904,Bill Hamid,United States,GK,74,29,1,76,D.C. United
+194846,Florent Hanin,France,LB,74,30,0,74,Vitória Guimarães
+194781,Renan Ribeiro,Brazil,GK,74,30,1,74,Sporting CP
+194761,Borja García,Spain,LM|CM|CAM,74,29,2,74,Girona FC
+194406,Manoel,Brazil,CB,74,30,2,74,Trabzonspor
+194359,Yuto Nagatomo,Japan,RB|LB,74,33,4,74,Galatasaray SK
+193881,Filip Duricic,Serbia,CAM|LW,74,28,4,74,Sassuolo
+193849,Conor Hourihane,Republic of Ireland,CDM|CM,74,29,1,74,Aston Villa
+193512,Milan Heca,Czech Republic,GK,74,29,0,76,Sparta Praha
+193468,Loris Benito,Switzerland,LB|CB|LM,74,28,1,74,FC Girondins de Bordeaux
+193267,Fabio Pisacane,Italy,RB|CB,74,34,3,74,Cagliari
+193141,Iván Pillud,Argentina,RB,74,34,1,74,Racing Club
+193133,Jens Stryger Larsen,Denmark,RB|CB|RM,74,29,2,74,Udinese
+192955,Mateusz Klich,Poland,CM,74,30,6,74,Leeds United
+192647,Gaëtan Charbonnier,France,ST,74,31,1,74,Stade Brestois 29
+192537,Maxime Lestienne,Belgium,LM|RW|LW,74,28,0,74,Standard de Liège
+192495,Romaine Sawyers,St Kitts Nevis,CDM|CM,74,28,1,74,West Bromwich Albion
+192397,Rafael,Brazil,GK,74,30,3,74,Reading
+192373,Milton Caraglio,Argentina,ST,74,31,3,74,Cruz Azul
+192297,Giedrius Arlauskis,Lithuania,GK,74,32,0,74,CFR Cluj
+192242,Paul Lasne,France,LWB|CM|LW,74,31,0,74,Stade Brestois 29
+192146,Vladislav Ignatiev,Russia,RB|RM,74,33,2,74,Lokomotiv Moscow
+192087,Georgiy Schennikov,Russia,LWB|LM|LW,74,29,1,74,PFC CSKA Moscow
+192073,Andrea Bertolacci,Italy,CDM|CM,74,29,2,74,Sampdoria
+191648,Maya Yoshida,Japan,CB,74,31,5,74,Sampdoria
+191210,Sébastien Corchia,France,RB,74,29,3,74,RCD Espanyol
+191173,Alejandro Bedoya,United States,CDM|CM,74,33,3,74,Philadelphia Union
+191151,Samba Sow,Mali,CDM|CM,74,31,1,74,Nottingham Forest
+191032,Gökhan Töre,Turkey,RM|LM,74,28,1,74,Yeni Malatyaspor
+190915,Kamil Wilczek,Poland,ST,74,32,2,74,Göztepe SK
+190799,Celso Borges,Costa Rica,CB|CDM|CM,74,32,2,74,Göztepe SK
+190761,Tolgay Arslan,Germany,CDM|CM,74,29,1,74,Fenerbahçe SK
+190536,Osvaldo Martínez,Paraguay,CDM|CM,74,34,1,74,Puebla
+190535,Míchel,Spain,CDM|CM,74,32,1,74,R. Valladolid CF
+190507,Etxeita,Spain,CB,74,32,0,74,Getafe CF
+190459,André Hansen,Norway,GK,74,30,1,75,Rosenborg BK
+190223,Balenziaga,Spain,LB,74,32,0,74,Athletic Club
+190195,Mamadou Samassa,Mali,GK,74,30,0,74,Sivasspor
+190120,Karl-Johan Johnsson,Sweden,GK,74,30,2,75,FC København
+190014,Yannis Salibur,France,ST|RM,74,29,1,74,RCD Mallorca
+189472,Aridane,Spain,CB,74,31,1,74,CA Osasuna
+189456,Liam Cooper,Scotland,CB,74,28,3,75,Leeds United
+189388,Dennis Diekmeier,Germany,RB,74,30,1,74,SV Sandhausen
+189303,Nélson Oliveira,Portugal,ST,74,28,1,74,AEK Athens
+189225,Bruno Fornaroli,Uruguay,ST,74,32,0,74,Perth Glory
+189207,Jimmy Durmaz,Sweden,RM|LM|CAM,74,31,0,74,Galatasaray SK
+189059,Jake Livermore,England,CDM|CM,74,30,1,74,West Bromwich Albion
+188992,Marcelo Estigarribia,Paraguay,LM|CM,74,32,2,74,Colón de Santa Fe
+188840,Miguel Lopes,Portugal,RB|CB,74,33,2,74,Kayserispor
+188802,Marcel Schmelzer,Germany,LB,74,32,5,74,Borussia Dortmund
+188600,Mehdi Abeid,Algeria,CDM|CM,74,27,0,76,FC Nantes
+188416,Stijn Wuytens,Belgium,CB,74,30,0,74,AZ
+188414,Carlos Villanueva,Chile,CAM,74,34,2,74,Al Fayha
+188400,Thomas Kaminski,Belgium,GK,74,27,0,77,KAA Gent
+188270,Bruno Ecuélé Manga,Gabon,RB|CB,74,32,1,74,Dijon FCO
+188182,Leon Balogun,Nigeria,RB|CB,74,32,5,74,Wigan Athletic
+188135,Juanfran,Spain,RWB|RB|RW,74,31,0,74,Alanyaspor
+187517,Viktor Vasin,Russia,CB,74,31,0,74,PFC CSKA Moscow
+187132,Carlos Zambrano,Peru,CB,74,31,1,74,Boca Juniors
+187033,Sean Morrison,England,CB,74,29,0,74,Cardiff City
+186992,Jesús Dueñas,Mexico,LB|CM,74,31,1,74,Tigres U.A.N.L.
+186990,Hugo González,Mexico,GK,74,29,1,75,Club Necaxa
+186961,Alberto Paloschi,Italy,ST,74,30,6,74,Cagliari
+186935,Claudemir,Brazil,CDM|CM,74,32,0,74,Sivasspor
+186695,Ezequiel Muñoz,Argentina,CB,74,29,0,75,Club Atlético Lanús
+186650,Matías Alustiza,Argentina,ST|CAM,74,36,0,74,Atlético Tucumán
+186589,Ivan Radovanovic,Serbia,CDM|CM,74,31,0,74,Genoa
+186556,Dentinho,Brazil,CAM,74,31,3,74,Shakhtar Donetsk
+186197,Gaël Kakuta,DR Congo,RM|CAM,74,29,4,74,Amiens SC
+186156,Luke Ayling,England,RB|CB,74,28,4,74,Leeds United
+186130,James Chester,Wales,CB,74,31,3,74,Stoke City
+186115,Kieran Gibbs,England,LB|LWB|LW,74,30,6,74,West Bromwich Albion
+185260,Deniz Kadah,Turkey,ST|CAM,74,34,4,74,Göztepe SK
+185181,Yoel,Spain,GK,74,31,1,74,SD Eibar
+185068,Johnny Russell,Scotland,RW,74,30,4,74,Sporting Kansas City
+184789,Ádám Szalai,Hungary,ST,74,32,3,74,1. FSV Mainz 05
+184749,Dan Gosling,England,CM,74,30,0,74,AFC Bournemouth
+184606,Fábio Pacheco,Portugal,CDM|CM,74,32,0,74,Moreirense FC
+184501,Michael Lang,Switzerland,RB|RM,74,29,1,74,SV Werder Bremen
+184457,Ricky van Wolfswinkel,Netherlands,ST|RM,74,31,3,74,FC Basel 1893
+184183,Sebastien Dewaest,Belgium,CB,74,29,0,75,KRC Genk
+184133,Castro,Portugal,CDM|CM|CAM,74,32,1,74,Göztepe SK
+183568,Sebastian Langkamp,Germany,CB,74,32,1,74,SV Werder Bremen
+183540,Barry Bannan,Scotland,CDM|CM,74,30,1,74,Sheffield Wednesday
+183346,Fabian Frei,Switzerland,CDM|CM,74,31,0,74,FC Basel 1893
+183332,Fin Bartels,Germany,RM|LM|CF,74,33,0,74,SV Werder Bremen
+183187,Valentin Stocker,Switzerland,RM|LM|CAM,74,31,1,74,FC Basel 1893
+183141,Oier,Spain,GK,74,30,1,75,RCD Espanyol
+182888,Håvard Nordtveit,Norway,CB|CDM,74,30,2,74,TSG 1899 Hoffenheim
+182001,Titi,Brazil,CB,74,32,0,74,Göztepe SK
+181573,Odil Akhmedov,Uzbekistan,CDM|CM,74,32,1,74,Shanghai SIPG FC
+181445,Rasmus Bengtsson,Sweden,CB,74,34,1,74,Malmö FF
+181402,William Vainqueur,France,CDM,74,31,3,74,Toulouse Football Club
+181262,Marek Suchy,Czech Republic,CB,74,32,2,74,FC Augsburg
+179875,Dame N'Doye,Senegal,ST,74,35,2,74,FC København
+178322,Miguel Layún,Mexico,RB|LB|RM,74,32,7,74,Monterrey
+177974,Abel Aguilar,Colombia,CDM|CM,74,35,2,74,Club Unión Magdalena S.A
+177922,Kamil Grosicki,Poland,LM,74,32,6,74,West Bromwich Albion
+177766,Gaëtan Bong,Cameroon,LB|LWB|LW,74,32,0,74,Nottingham Forest
+177723,Fabricio,Spain,GK,74,32,0,74,RCD Mallorca
+177644,Kiko Casilla,Spain,GK,74,33,3,74,Leeds United
+177525,Nabil Dirar,Morocco,RB|LB|RM,74,34,3,74,Fenerbahçe SK
+177475,Tobias Sippel,Germany,GK,74,32,1,74,Borussia Mönchengladbach
+177448,Gustav Svensson,Sweden,CB|CDM|CM,74,33,2,74,Seattle Sounders FC
+177280,Tore Reginiussen,Norway,CB,74,34,1,74,Rosenborg BK
+176993,Bojan,Spain,ST|CAM|CF,74,29,10,74,Impact Montréal
+176772,Alexandre Oukidja,Algeria,GK,74,32,0,74,Football Club de Metz
+176553,Simone Missiroli,Italy,CDM|CM,74,34,1,74,SPAL
+176048,Kei Kamara,Sierra Leone,ST,74,35,0,74,Colorado Rapids
+175847,Baiano,Brazil,RB,74,33,0,74,Alanyaspor
+174549,Matías Fernández,Chile,CM|CAM,74,34,8,74,Colo-Colo
+174379,Gonzalo Castro,Uruguay,ST|RM|LM,74,35,2,74,Club Nacional de Football
+173857,Mariano Andújar,Argentina,GK,74,36,1,74,Estudiantes de La Plata
+172953,Adrian Mariappa,Jamaica,RB|CB,74,33,1,74,Watford
+172768,Andrew Surman,England,CM,74,33,1,74,AFC Bournemouth
+172685,José Crespo,Spain,RB|LB|CB,74,33,1,74,PAOK
+172553,Jonas Lössl,Denmark,GK,74,31,2,74,Huddersfield Town
+172425,Souleymane Bamba,Ivory Coast,CB,74,35,2,74,Cardiff City
+172175,Kevin Mirallas,Belgium,LM|CAM,74,32,6,74,Royal Antwerp FC
+172113,Matías Fritzler,Argentina,CDM,74,33,1,74,Colón de Santa Fe
+170664,Cristian Rodríguez,Uruguay,LM|CM|CAM,74,34,2,74,Club Atlético Peñarol
+170320,Lorenzo De Silvestri,Italy,RB|RM,74,32,2,74,Torino
+168585,Ron Vlaar,Netherlands,CB,74,35,1,74,AZ
+168565,Hugo Rodallega,Colombia,ST,74,35,1,74,Denizlispor
+168326,Salvatore Bocchetti,Italy,CB,74,33,1,74,Hellas Verona
+167669,Federico Higuaín,Argentina,CAM,74,35,1,74,D.C. United
+167665,Nicolás Domingo,Argentina,CB|CDM|CM,74,35,0,74,Club Olimpia
+165560,Marco Ruben,Argentina,ST,74,33,1,74,Rosario Central
+165517,Fernando Gago,Argentina,CB|CDM|CM,74,34,8,74,Vélez Sarsfield
+165429,Claudiu Ke?erü,Romania,ST,74,33,2,74,Free Agents
+165247,Itumeleng Khune,South Africa,GK,74,33,3,74,Kaizer Chiefs
+165239,Samir Nasri,France,CM|CAM|LW,74,33,8,74,RSC Anderlecht
+164994,Jakub Blaszczykowski,Poland,RM,74,34,3,74,Wisla Kraków
+164878,Lior Refaelov,Israel,CM|CAM,74,34,1,74,Royal Antwerp FC
+164464,Bradley Wright-Phillips,England,ST,74,35,1,74,LAFC
+164459,Sebastian Larsson,Sweden,CDM|CM,74,35,4,74,AIK
+163806,Sergio,Spain,GK,74,33,0,74,RC Celta
+163083,Rolando,Portugal,CB,74,34,1,74,SC Braga
+162409,Giuseppe Rossi,Italy,ST,74,33,4,74,Real Salt Lake
+162329,Karim El Ahmadi,Morocco,CDM|CM,74,35,0,74,Al Ittihad
+162297,Daniele Padelli,Italy,GK,74,34,0,74,Inter
+162221,Faris Haroun,Belgium,CDM,74,34,0,74,Royal Antwerp FC
+158905,Pirmin Schwegler,Switzerland,CDM|CM,74,33,1,74,Western Sydney Wanderers
+158856,Christian Gentner,Germany,CDM|CM|CAM,74,34,1,74,1. FC Union Berlin
+158800,Willem Janssen,Netherlands,CB,74,34,0,74,FC Utrecht
+158372,Ibrahim Afellay,Netherlands,CM|CAM,74,34,2,74,PSV
+157665,Scott Dann,England,CB,74,33,0,74,Crystal Palace
+157492,Jorge Valdivia,Chile,CAM,74,36,5,74,Monarcas Morelia
+157217,Neri Cardozo,Argentina,CM|CAM,74,33,1,74,Defensa y Justicia
+156713,Andreas Granqvist,Sweden,CB,74,35,2,74,Helsingborgs IF
+151508,Steven Davis,Northern Ireland,CDM|CM,74,35,1,74,Rangers FC
+150516,Lukas Podolski,Germany,ST|CAM|RW,74,35,11,74,Antalyaspor
+150418,Mario Gómez,Germany,ST,74,35,3,74,VfB Stuttgart
+149185,Francesco Magnanelli,Italy,CDM,74,35,0,74,Sassuolo
+146947,Vesga,Spain,CM,74,27,1,77,Athletic Club
+143699,Gökhan Gönül,Turkey,RB,74,35,4,74,Besiktas JK
+142784,Pablo Zabaleta,Argentina,RB,74,35,5,74,West Ham United
+140384,Jô,Brazil,ST,74,33,2,74,Nagoya Grampus
+139064,Leonardo Ponzio,Argentina,CB|CDM,74,38,2,74,River Plate
+137677,Michel Vorm,Netherlands,GK,74,36,3,74,Tottenham Hotspur
+136113,Wes Morgan,Jamaica,CB,74,36,7,74,Leicester City
+135883,Simon Francis,England,RB|CB,74,35,0,74,AFC Bournemouth
+135190,Michael Liendl,Austria,CM|CAM,74,34,0,74,Wolfsberger AC
+125871,Hasan Ali Kaldirim,Turkey,LB,74,30,4,74,Fenerbahçe SK
+124635,Mehmet Topal,Turkey,CB|CDM,74,34,2,74,Medipol Basaksehir FK
+115533,Diego Benaglio,Switzerland,GK,74,36,1,74,AS Monaco Football Club SA
+110811,Mario Álvarez,Spain,CB,74,38,0,74,Club Atlético de San Luis
+110381,Maximiliano Rodríguez,Argentina,ST|LM|LW,74,39,2,74,Newell's Old Boys
+110376,Jonatan Soriano,Spain,ST,74,34,1,74,Girona FC
+53914,Phil Jagielka,England,CB,74,37,3,74,Sheffield United
+53050,Emmanuel Adebayor,Togo,ST,74,36,5,74,Club Olimpia
+49000,Allan McGregor,Scotland,GK,74,38,3,74,Rangers FC
+48745,Fabricio Coloccini,Argentina,CB,74,38,1,74,San Lorenzo de Almagro
+25798,Roque Santa Cruz,Paraguay,ST,74,38,0,74,Club Olimpia
+20209,Ricardo Costa,Portugal,CB,74,39,0,74,Boavista FC
+19975,Raphaël Nuzzolo,Switzerland,ST|CF,74,37,0,74,Neuchâtel Xamax FCS
+253343,Jorge Pinos,Ecuador,GK,73,30,1,73,Independiente del Valle
+253341,Richard Schunke,Argentina,CB,73,28,0,74,Independiente del Valle
+253276,Rodrigo Abascal,Uruguay,CB,73,26,0,75,Club Atlético Peñarol
+253004,Ansu Fati,Spain,RW|LW,73,17,243,90,FC Barcelona
+252038,Romário Baró,Portugal,RM|CAM,73,20,8,87,FC Porto
+252000,Domagoj Bradaric,Croatia,LB,73,20,8,83,LOSC Lille
+251710,Erick Lardero,Ecuador,ST,73,31,0,73,Free Agents
+251701,Víctor Sabanter,Ecuador,CDM|RM|CM,73,32,2,73,Free Agents
+251693,Anthony Alfárnez,Ecuador,ST,73,35,2,73,Free Agents
+251675,Douglas Augusto,Brazil,CDM|CM,73,23,0,79,PAOK
+251673,Zivko Zivkovic,Serbia,GK,73,31,0,73,PAOK
+251217,Jean Lucas,Brazil,CDM|CM,73,22,1,83,Olympique Lyonnais
+251181,David Lischka,Czech Republic,CB,73,22,2,82,Sparta Praha
+251132,Ezequiel Piovi,Argentina,CDM|CM,73,27,0,76,Arsenal de Sarandí
+251116,Tomáš Holeš,Czech Republic,RB|RM|LM,73,27,0,74,SK Slavia Praha
+247641,Tete,Brazil,RM|CAM,73,20,11,86,Shakhtar Donetsk
+246844,Carlos Neva,Spain,LB,73,24,0,78,Granada CF
+246708,Giorgios Masouras,Greece,RM|LM|CAM,73,26,0,74,Olympiacos CFP
+246646,Maxence Caqueret,France,CDM|CM,73,20,16,86,Olympique Lyonnais
+246419,Yari Verschaeren,Belgium,CM|CAM|RW,73,19,39,87,RSC Anderlecht
+246242,Boulaye Dia,France,ST,73,23,2,81,Stade de Reims
+246186,Arthur Cabral,Brazil,ST,73,22,2,84,FC Basel 1893
+246098,Vítor Tormena,Brazil,RB|CB,73,24,0,77,SC Braga
+245520,Luca Sangalli,Spain,RM|CM|CAM,73,25,1,78,Real Sociedad
+245388,Jean-Clair Todibo,France,CB|CDM,73,20,33,86,FC Schalke 04
+245275,Toma Bašic,Croatia,CDM|CM,73,23,2,80,FC Girondins de Bordeaux
+244789,Aleš Cermák,Czech Republic,CM|CAM,73,25,0,76,Viktoria Plzen
+244622,Puado,Spain,ST|LM|CAM,73,22,3,83,R. Zaragoza
+244381,Artem Shabanov,Ukraine,CB,73,28,1,75,Dynamo Kyiv
+244374,Mykola Shaparenko,Ukraine,CM|CAM,73,21,10,84,Dynamo Kyiv
+244272,Dino Peric,Croatia,CB,73,26,0,76,Dinamo Zagreb
+244271,Ivan Šunjic,Croatia,CDM|CM,73,23,2,80,Birmingham City
+244270,Nikola Moro,Croatia,CDM|CM,73,22,6,81,Dinamo Zagreb
+243993,Enric Gallego,Spain,ST,73,33,1,73,CA Osasuna
+243903,Makhete Diop,Senegal,ST,73,33,0,73,Al Shabab
+243863,Igor Plastun,Ukraine,CB,73,29,0,73,KAA Gent
+243647,Altay Bayindir,Turkey,GK,73,22,4,80,Fenerbahçe SK
+243576,Pedro Porro,Spain,RWB|RB|RM|RW,73,20,18,83,R. Valladolid CF
+243244,Hüseyin Türkmen,Turkey,CB,73,22,6,81,Trabzonspor
+243008,Michal Trávník,Czech Republic,CM|CAM,73,26,2,76,Sparta Praha
+242516,Cody Gakpo,Netherlands,RW|LW,73,21,3,83,PSV
+242267,Jorman Campuzano,Colombia,CDM|CM,73,24,5,80,Boca Juniors
+241976,Tiago Sá,Portugal,GK,73,25,0,78,SC Braga
+241856,Manu Morlanes,Spain,CDM|CM,73,21,1,83,Villarreal CF
+241673,Borna Barišic,Croatia,LB,73,27,2,74,Rangers FC
+241463,Dani Raba,Spain,RM,73,24,2,79,SD Huesca
+241390,Eljif Elmas,North Macedonia,CM,73,20,14,85,Napoli
+241176,Lucas Vera,Argentina,CM|CAM,73,23,0,79,Club Atlético Lanús
+240898,Francis,Spain,RWB|RB|RM|RW,73,24,0,79,UD Almería
+240690,Nicolás González,Argentina,ST|LM,73,22,13,83,VfB Stuttgart
+240654,Carles Pérez,Spain,RM|RW,73,22,16,84,Roma
+240316,Cláudio Falcão,Brazil,CB|CDM|CM,73,26,1,77,Desportivo das Aves
+240271,Dimitris Limnios,Greece,RM|LM,73,22,2,80,PAOK
+240060,Max Aarons,England,RB,73,20,73,85,Norwich City
+239978,Dennis Man,Romania,RW,73,21,7,82,Fotbal Club FCSB
+239875,Bebeto,Brazil,RB,73,30,0,73,Marítimo
+239808,Michal Sácek,Czech Republic,RB|CDM|CM,73,23,1,79,Sparta Praha
+239755,Saba Lobjanidze,Georgia,ST|LM,73,25,1,76,MKE Ankaragücü
+239712,Masaya Okugawa,Japan,ST|RM|CAM,73,24,3,79,FC Red Bull Salzburg
+239641,Alfa Semedo,Guinea Bissau,CB|CDM|CM,73,22,5,80,Nottingham Forest
+239342,Hervé Koffi,Burkina Faso,GK,73,23,0,83,Belenenses
+239335,Óscar,Spain,RM|CM|CAM,73,22,4,84,CD Leganés
+239322,Christoph Zimmermann,Germany,CB,73,27,0,75,Norwich City
+239088,Rafael Pérez,Colombia,CB,73,30,0,73,Club Atlético Talleres
+238856,Pedro Sá,Portugal,CDM|CM,73,26,0,77,Portimonense SC
+238637,Sebastian Vasiliadis,Greece,CDM|CM|CAM,73,22,1,80,SC Paderborn 07
+238581,Ruben Vargas,Switzerland,RM|LM,73,21,3,84,FC Augsburg
+238569,Kingsley Schindler,Ghana,ST|RM,73,27,2,74,1. FC Köln
+238274,Florinel Coman,Romania,ST|CAM|LW,73,22,6,83,Fotbal Club FCSB
+238224,Marcão,Brazil,ST,73,26,2,78,Hebei China Fortune FC
+238194,Nahuel Bustos,Argentina,ST|RW,73,22,5,83,Club Atlético Talleres
+238050,Chidera Ejuke,Nigeria,RW|LW,73,22,1,79,SC Heerenveen
+237631,Lebo Mothiba,South Africa,ST,73,24,3,79,RC Strasbourg Alsace
+237539,Luther Singh,South Africa,RW|LW,73,22,1,80,Moreirense FC
+237510,José Leguizamón,Paraguay,CB,73,28,0,74,Club Olimpia
+237419,Amir Abedzadeh,Iran,GK,73,27,0,76,Marítimo
+237283,Nicolás Reniero,Argentina,ST|CAM,73,25,3,78,Racing Club
+237209,Matej Mitrovic,Croatia,CB,73,26,1,77,Club Brugge KV
+237131,José Rodríguez,Mexico,CDM,73,24,1,79,Club León
+236998,James Léa Siliki,France,LM|CM,73,24,1,78,Stade Rennais FC
+236947,Jordan Torunarigha,Germany,LB|CB,73,22,9,84,Hertha BSC
+236723,Fodé Ballo-Touré,France,LB|LM,73,23,4,79,AS Monaco Football Club SA
+236636,Anthony Caci,France,LB|CB|LWB|LW,73,23,6,81,RC Strasbourg Alsace
+236505,Artur Jorge,Portugal,CB,73,25,3,77,Vitória Setúbal
+236298,Eduard Atuesta,Colombia,CDM|CM,73,23,4,81,LAFC
+236264,Pedro Aquino,Peru,CDM|CM,73,25,4,80,Club León
+236246,Ovie Ejaria,England,LM|CM|CAM,73,22,6,83,Reading
+236142,Nildo Reisão,Brazil,CB|CDM,73,24,0,73,Atlético Mineiro
+236112,Douglas Armeira,Brazil,RB,73,28,0,73,Centro Sportivo Alagoano
+236045,Reinildo,Mozambique,LB,73,26,2,76,LOSC Lille
+235619,Marcus Edwards,England,RW,73,21,14,83,Vitória Guimarães
+235526,Dennis Geiger,Germany,CM,73,22,1,82,TSG 1899 Hoffenheim
+235499,Djamel Eddine Benlamri,Algeria,CB|CDM,73,30,0,73,Al Shabab
+235149,Jerdy Schouten,Netherlands,CDM|CM,73,23,0,80,Bologna
+235047,Jonathan Menéndez,Argentina,RM|LM|LW,73,26,3,74,Club Atlético Talleres
+234970,David Terans,Uruguay,LM|CF,73,25,0,76,Club Atlético Peñarol
+234930,Pedro Rebocho,Portugal,LB,73,25,0,76,Besiktas JK
+234857,Ivan Oblyakov,Russia,LM|CM,73,22,4,83,PFC CSKA Moscow
+234832,Kristian Pedersen,Denmark,LB|CB,73,25,1,76,Birmingham City
+234819,Guilherme,Brazil,LM|RW|LW,73,25,0,76,Al Faisaly
+234701,Maycon,Brazil,CM,73,23,2,84,Shakhtar Donetsk
+234698,Chanathip Songkrasin,Thailand,CAM|CF|LW,73,26,2,74,Hokkaido Consadole Sapporo
+234624,Bakaye Dibassy,Mali,LB|CB,73,30,0,73,Amiens SC
+234178,Luis Abram,Peru,CB,73,24,8,80,Vélez Sarsfield
+234119,Lucas Fernandes,Brazil,CM|CAM,73,22,1,82,Portimonense SC
+233982,Vágner Corraldo,Brazil,LB,73,20,3,73,Club Athletico Paranaense
+233767,Sofiane Alakouch,France,RB,73,22,3,81,Nîmes Olympique
+233732,David Okereke,Nigeria,ST|RW,73,22,5,80,Club Brugge KV
+233647,Neris,Brazil,CB,73,28,1,74,Boavista FC
+233219,Vukašin Jovanovic,Serbia,CB,73,24,1,76,FC Girondins de Bordeaux
+233218,Milad Mohammadi,Iran,LB,73,26,3,76,KAA Gent
+233138,Yu Kobayashi,Japan,ST,73,32,4,73,Kawasaki Frontale
+233125,Marcel Hartel,Germany,CAM|LW,73,24,2,76,DSC Arminia Bielefeld
+233097,Rick van Drongelen,Netherlands,CB,73,21,14,83,Hamburger SV
+232639,Ritsu Doan,Japan,CAM|RW,73,22,2,82,PSV
+232546,Diego Zabala,Uruguay,RM|LM,73,28,1,73,Rosario Central
+232459,Carlos Ponck,Cape Verde,CB,73,25,0,78,Medipol Basaksehir FK
+232437,Federico Ricca,Uruguay,LB|LM,73,25,1,77,Club Brugge KV
+232294,Ryota Morioka,Japan,CDM|CM|CAM,73,29,1,73,Sporting Charleroi
+232238,Carlos Peralta,Colombia,ST,73,30,0,73,La Equidad
+232008,Toni Lato,Spain,LB,73,22,10,81,CA Osasuna
+231864,Mitchell van Bergen,Netherlands,RW,73,20,8,81,SC Heerenveen
+231856,Álvaro Tejero,Spain,RB,73,24,1,82,SD Eibar
+231786,Andraz Šporar,Slovenia,ST,73,26,2,76,Sporting CP
+231600,Marc Navarro,Spain,RB,73,25,0,78,CD Leganés
+231524,Tomás Pochettino,Argentina,RM|CM|CAM,73,24,1,79,Club Atlético Talleres
+231448,Reiss Nelson,England,LM|RW|LW,73,20,34,83,Arsenal
+231390,Diogo Gonçalves,Portugal,RW|LW,73,23,1,80,Futebol Clube de Famalicão
+231355,Ayrton,Brazil,LB|LWB|LW,73,23,9,84,Spartak Moscow
+231292,Jamal Lewis,Northern Ireland,LB,73,22,15,83,Norwich City
+231263,Jérémy Gélin,France,CB|CDM,73,23,4,79,Stade Rennais FC
+231111,Alexander Hack,Germany,CB,73,26,2,76,1. FSV Mainz 05
+231077,Martin Frydek,Czech Republic,LB|CDM,73,28,0,73,Sparta Praha
+231070,Bruno Pittón,Argentina,LB|LWB|LM|LW,73,27,2,74,San Lorenzo de Almagro
+231041,Casimir Ninga,Chad,ST|LM,73,27,0,74,Angers SCO
+231012,Carlos de Pena,Uruguay,LM,73,28,2,73,Dynamo Kyiv
+230708,Joe Worrall,England,CB,73,23,4,81,Nottingham Forest
+230672,Lyanco,Brazil,CB,73,23,7,82,Torino
+230529,Benjamin Meseira,Brazil,RB,73,24,0,73,Chapecoense
+230513,Gus Outomouro,Brazil,ST|LM,73,24,1,73,Internacional
+230464,Alam Basteirinho,Brazil,CAM,73,28,0,73,Santos
+230462,Thio Rolim,Brazil,LM|LW,73,24,0,75,Vasco da Gama
+230456,Claudiosa Paes,Brazil,RW,73,32,0,73,São Paulo
+230446,Marcos Paneira,Brazil,CDM|RM|CM,73,20,3,73,Bahia
+230435,Luis Couprins,Brazil,CDM,73,20,1,73,Club Athletico Paranaense
+230424,Sandelas Júnior,Brazil,CDM,73,28,0,73,Santos
+230420,Pietrson Mendes,Brazil,ST|CAM,73,24,0,73,Bahia
+230411,Brenito Duarte,Brazil,RM,73,28,0,73,Vasco da Gama
+230407,Miltisco Paulino,Brazil,CB,73,20,0,73,Santos
+230393,Paolito Serra,Brazil,CB,73,28,0,73,Botafogo
+230389,Édundo Oliveira,Brazil,CB,73,28,0,73,Cruzeiro
+230374,Deiverson Kaio,Brazil,CAM,73,36,0,73,Flamengo
+230369,Durval Dutría,Brazil,CM,73,28,0,73,Vasco da Gama
+230361,Mauro Cildinho,Brazil,RB,73,24,0,73,Avaí
+230353,Oswaldito Cuba,Brazil,LB|LM|CAM,73,24,1,73,Chapecoense
+230330,Nivo Serpinho,Brazil,GK,73,24,1,73,Chapecoense
+230322,Teixe Gaúcho,Brazil,CB,73,20,0,75,Vasco da Gama
+230283,Evandro Rochedo,Brazil,ST,73,24,5,73,Atlético Mineiro
+230277,Gustavo Lobateiro,Brazil,ST|CAM|CF,73,20,1,73,Internacional
+230259,Juliano Mascarinhas,Brazil,CDM,73,24,0,73,Grêmio
+230245,Douglas Carvalheira,Brazil,LB,73,32,0,73,Flamengo
+230240,Ramón da Almeyda,Brazil,LB|CM,73,24,0,75,Vasco da Gama
+230222,Ailton Valpaços,Brazil,CB|CDM,73,28,1,73,Atlético Mineiro
+230199,Vinicius Cardenha,Brazil,RB|CB,73,28,1,73,Fluminense
+230198,Juli Piresinho,Brazil,RB,73,20,0,73,Bahia
+230175,Freder Cabral,Brazil,GK,73,28,0,73,Atlético Mineiro
+230170,Jaim Abra,Brazil,GK,73,28,1,73,Centro Sportivo Alagoano
+229971,Fabien Centonze,France,RB,73,24,1,79,Football Club de Metz
+229882,Eduardo Henrique,Brazil,CM,73,25,1,79,Sporting CP
+229723,Mathias Jensen,Denmark,CM,73,24,3,79,Brentford
+229595,Lucas Rodríguez,Argentina,LB|LM|CAM,73,23,6,80,Estudiantes de La Plata
+229594,Ante Coric,Croatia,CM|CAM,73,23,6,82,UD Almería
+229435,Michel Vlap,Netherlands,CM|CAM,73,23,0,80,RSC Anderlecht
+229319,Jhonder Cádiz,Venezuela,ST,73,25,1,78,Dijon FCO
+229128,Thembinkosi Lorch,South Africa,CAM|RW|LW,73,27,1,74,Orlando Pirates
+229092,Aminu Umar,Nigeria,RM|LM,73,25,2,76,Çaykur Rizespor
+228805,Raillo,Spain,CB,73,28,0,75,RCD Mallorca
+228738,Jhon Murillo,Venezuela,ST|RW,73,24,1,79,CD Tondela
+228730,Saúl Salcedo,Paraguay,CB,73,22,4,84,Club Atlético Huracán
+228279,Joël Drommel,Netherlands,GK,73,23,0,80,FC Twente
+228182,Mohamed El Shenawy,Egypt,GK,73,31,5,73,Free Agents
+227732,Anastasios Donis,Greece,ST|RM,73,23,5,81,Stade de Reims
+227633,Bart Ramselaar,Netherlands,CM|CAM|LW,73,24,3,78,FC Utrecht
+226811,Franco Soldano,Argentina,ST|CF,73,25,2,77,Boca Juniors
+226777,Cyle Larin,Canada,ST,73,25,2,78,SV Zulte Waregem
+226773,Pape Cheikh Diop,Spain,CDM|CM,73,22,3,82,RC Celta
+226772,Joaquín Laso,Argentina,RB|CB,73,30,0,73,Rosario Central
+226568,Ianis Hagi,Romania,CAM,73,21,11,82,Rangers FC
+226260,Andrea Cistana,Italy,CB,73,23,8,82,Brescia
+226093,Che Adams,England,ST,73,24,16,80,Southampton
+225964,Jorge Carrascal,Colombia,CAM,73,22,6,83,River Plate
+225926,Pere Milla,Spain,ST|LM|CAM,73,27,1,74,Elche CF
+225701,Pedro Gallese,Peru,GK,73,30,3,73,Orlando City Soccer Club
+225696,Murilo,Brazil,RM|LM,73,25,1,76,R. Sporting
+225673,Kasim Adams Nuhu,Ghana,CB,73,25,2,79,Fortuna Düsseldorf
+225669,Kingsley Ehizibue,Netherlands,RB|RM,73,25,7,77,1. FC Köln
+225614,Ilzat Akhmetov,Russia,CM|CAM,73,22,1,81,PFC CSKA Moscow
+225523,Lekue,Spain,RB|RW|LW,73,27,1,74,Athletic Club
+225356,Andrés Ibargüen,Colombia,LM|LW,73,28,2,73,Club América
+225341,David García,Spain,CB,73,26,2,77,CA Osasuna
+225299,Emiliano Velázquez,Uruguay,CB,73,26,3,78,Rayo Vallecano
+225252,Jhon Duque,Colombia,CDM,73,28,1,74,Millonarios FC
+225236,Benjamín Kuscevic,Chile,CB,73,24,6,81,Universidad Católica
+225199,Vincent Koziello,France,CDM|CM,73,24,4,79,Paris FC
+225144,Percy Tau,South Africa,ST|RW|LW,73,26,7,76,Club Brugge KV
+225014,Gaetano Castrovilli,Italy,CM|CAM,73,23,19,82,Fiorentina
+224949,Javairô Dilrosun,Netherlands,RM|LM,73,22,7,86,Hertha BSC
+224808,Gian Marco Ferrari,Italy,CB,73,28,1,74,Sassuolo
+224756,Arnaud Lusamba,France,CM,73,23,4,78,OGC Nice
+224599,Yan Junling,China PR,GK,73,29,5,75,Shanghai SIPG FC
+224520,Ryan Kent,England,CF|RW|LW,73,23,27,82,Rangers FC
+224461,Walter Montoya,Argentina,RB|RM|CM,73,27,0,74,Racing Club
+224444,Haris Belkebla,Algeria,CDM|CM,73,26,1,76,Stade Brestois 29
+224442,Bingourou Kamara,France,GK,73,23,1,82,RC Strasbourg Alsace
+224415,Luis Rioja,Spain,LM,73,26,1,74,D. Alavés
+224378,Mattia Bani,Italy,CB,73,26,1,76,Bologna
+224368,Moussa Doumbia,Mali,LM|CAM,73,25,1,76,Stade de Reims
+224104,Damián Martínez,Argentina,RB,73,30,3,73,Rosario Central
+223978,Manu García,Spain,ST|CM|CAM,73,22,7,83,R. Sporting
+223922,Andreas Bouchalakis,Greece,CDM|CM,73,27,0,75,Olympiacos CFP
+223717,Dorukhan Toköz,Turkey,CDM|CM,73,24,5,78,Besiktas JK
+223654,Fede,Spain,CDM|CM,73,23,1,81,R. Valladolid CF
+223573,Munir,Morocco,GK,73,31,1,74,Málaga CF
+223543,Jonathan Cafú,Brazil,RM|LM,73,29,0,73,Al Hazem
+223247,Nelson Acevedo,Argentina,CDM|CM,73,32,0,73,Defensa y Justicia
+223241,Marcelo Benítez,Argentina,LB|CDM|CM,73,29,1,73,Defensa y Justicia
+223154,Ozan Tufan,Turkey,RB|CDM|CM,73,25,5,78,Fenerbahçe SK
+222982,Alexis Blin,France,CDM|CM,73,23,0,77,Amiens SC
+222467,Ivi,Spain,RM|LM,73,26,1,76,SD Ponferradina
+222464,Sivera,Spain,GK,73,23,0,80,UD Almería
+222457,Bernard Mensah,Ghana,CM|CAM,73,25,9,78,Kayserispor
+222428,Juan Cruz Komar,Argentina,CB,73,23,1,82,Club Atlético Talleres
+222352,Albian Ajeti,Switzerland,ST,73,23,5,80,West Ham United
+221982,Patrick Roberts,England,RM|RW,73,23,7,81,Middlesbrough
+221923,Vigaray,Spain,RB,73,25,1,78,R. Zaragoza
+221841,Adam Armstrong,England,ST|RM|LM,73,23,9,81,Blackburn Rovers
+221797,Erik Thommy,Germany,RM|LM|CAM,73,25,0,75,Fortuna Düsseldorf
+221743,Hélder Costa,Portugal,RM|LM|RW,73,26,9,74,Leeds United
+221641,Wilfried Kanon,Ivory Coast,CB,73,27,2,75,Free Agents
+221584,Jacob Rinne,Sweden,GK,73,27,0,78,Aalborg BK
+221311,Johan Arango,Colombia,ST|LM|CAM,73,29,0,73,Deportivo Binacional
+221250,Gerónimo Poblete,Argentina,CDM|CM,73,27,0,76,San Lorenzo de Almagro
+220746,Andrija Zivkovic,Serbia,RM|LM,73,24,4,79,SL Benfica
+220659,Josh Brownhill,England,CDM|CM,73,24,0,79,Burnley
+220528,Gennaro Tutino,Italy,ST|LW,73,23,4,81,Empoli
+220493,Antonio Barreca,Italy,LB|LM,73,25,1,78,Genoa
+220245,Bongani Zungu,South Africa,CDM|CM,73,27,1,74,Amiens SC
+220198,Bersant Celina,Kosovo,LM|CAM,73,23,2,80,Swansea City
+220128,Jonatan Cristaldo,Argentina,ST,73,31,0,73,Racing Club
+219942,Didier Delgado,Colombia,RB|RM,73,28,0,73,Independiente Medellín
+219835,Néstor Camacho,Paraguay,RM|LM|CAM,73,32,0,73,Club Olimpia
+219787,Andrés Mosquera,Colombia,RB|CB,73,30,1,73,Club León
+219777,Chema Rodríguez,Spain,LB|CB,73,28,1,75,Getafe CF
+219740,Kahraba,Egypt,ST|RM|LM,73,26,3,74,Free Agents
+219522,Jeremías Ledesma,Argentina,GK,73,27,0,77,Rosario Central
+219409,Vyacheslav Karavaev,Russia,RB,73,25,7,76,Free Agents
+219167,Sergio Vittor,Argentina,CB|CDM,73,31,0,73,Damac FC
+218936,Rafa Soares,Portugal,LB,73,25,4,78,SD Eibar
+218746,Pozo,Spain,CM|CAM,73,24,2,80,Rayo Vallecano
+218540,Ambroise Oyongo,Cameroon,LB|LWB|LW,73,29,2,73,Montpellier Hérault SC
+217714,Paul Arriola,United States,RM|CAM|RW,73,25,5,76,D.C. United
+217287,Julien De Sart,Belgium,CDM|CM,73,25,1,77,KV Kortrijk
+217021,Sandro Lima,Brazil,ST,73,29,0,73,Gil Vicente FC
+216802,Juan Kaprof,Argentina,ST|CAM,73,25,1,78,Arsenal de Sarandí
+216476,Anderson Plata,Colombia,ST|RM|RW,73,29,0,73,Deportes Tolima
+216464,Alan Browne,Republic of Ireland,CDM|CAM,73,25,3,78,Preston North End
+216447,Álvaro García,Spain,RM|LM,73,27,0,73,Rayo Vallecano
+216391,Erik,Brazil,ST|RM|LW,73,26,4,76,Yokohama F·Marinos
+216385,Richard Ortiz,Paraguay,CDM|CM,73,30,0,73,Club Olimpia
+216199,Patrick Mainka,Germany,CB,73,25,0,75,1. FC Heidenheim 1846
+215985,Fernando Monetti,Argentina,GK,73,31,1,73,San Lorenzo de Almagro
+215927,Renaud Emond,Belgium,ST,73,28,0,73,FC Nantes
+215725,Quintillà,Spain,LB,73,23,1,81,Villarreal CF
+215565,Matt Miazga,United States,CB,73,25,6,78,Reading
+215417,Christian Mathenia,Germany,GK,73,28,0,75,1. FC Nürnberg
